@@ -80,6 +80,12 @@ void uip_ds6_notification_rm(struct uip_ds6_notification *n);
 #define UIP_DS6_ROUTE_NB UIP_CONF_MAX_ROUTES
 #endif /* UIP_CONF_MAX_ROUTES */
 
+/* State of RPL  */
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+#define UIP_RT_RPL_STATE_IN 0
+#define UIP_RT_RPL_STATE_ACK 1
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
+
 /** \brief define some additional RPL related route state and
  *  neighbor callback for RPL - if not a DS6_ROUTE_STATE is already set */
 #ifndef UIP_DS6_ROUTE_STATE_TYPE
@@ -90,6 +96,9 @@ typedef struct rpl_route_entry {
   void *dag;
   uint8_t learned_from;
   uint8_t nopath_received;
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+  uint8_t state;
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 } rpl_route_entry_t;
 #endif /* UIP_DS6_ROUTE_STATE_TYPE */
 

@@ -86,6 +86,10 @@
 #define RPL_OPTION_SOLICITED_INFO        7
 #define RPL_OPTION_PREFIX_INFO           8
 #define RPL_OPTION_TARGET_DESC           9
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+#define RPL_OPTION_DAR                   157
+#define RPL_OPTION_DAC                   158
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 
 #define RPL_DAO_K_FLAG                   0x80 /* DAO ACK requested */
 #define RPL_DAO_D_FLAG                   0x40 /* DODAG ID present */
@@ -272,7 +276,7 @@ extern rpl_instance_t *default_instance;
 void dis_output(uip_ipaddr_t *addr);
 void dio_output(rpl_instance_t *, uip_ipaddr_t *uc_addr);
 void dao_output(rpl_parent_t *, uint8_t lifetime);
-void dao_output_target(rpl_parent_t *, uip_ipaddr_t *, uint8_t lifetime);
+void dao_output_target(rpl_parent_t *, uip_ipaddr_t *, uint16_t lifetime);
 void dao_ack_output(rpl_instance_t *, uip_ipaddr_t *, uint8_t);
 
 /* RPL logic functions. */

@@ -87,6 +87,13 @@ static uint8_t dao_sequence = RPL_LOLLIPOP_INIT;
 extern rpl_of_t RPL_OF;
 
 /*---------------------------------------------------------------------------*/
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+#if UIP_CONF_6LBR
+static uip_ds6_dup_addr_t *dupaddr_rpl;  /**  Pointer to a address resoltion detection list entry */
+#endif /* UIP_CONF_6LBR */
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
+
+/*---------------------------------------------------------------------------*/
 static int
 get_global_addr(uip_ipaddr_t *addr)
 {
@@ -593,6 +600,12 @@ dao_input(void)
   rpl_parent_t *p;
   uip_ds6_nbr_t *nbr;
 
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+  uint8_t recv_daro;
+
+  recv_daro = 0;
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
+
   prefixlen = 0;
 
   uip_ipaddr_copy(&dao_sender_addr, &UIP_IP_BUF->srcipaddr);
@@ -658,6 +671,14 @@ dao_input(void)
       lifetime = buffer[i + 5];
       /* The parent address is also ignored. */
       break;
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+    case RPL_OPTION_DAR:
+      PRINTF("RPL: Option DARO received\n");
+      recv_daro = 1;
+      memcpy(&locdamo.lifetime, buffer + i + 4, 2);
+      memcpy(&locdamo.eui64, buffer + i + 6, UIP_LLADDR_LEN);
+      break;
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
     }
   }
 
@@ -770,6 +791,42 @@ dao_input(void)
   rep->state.lifetime = RPL_LIFETIME(instance, lifetime);
   rep->state.learned_from = learned_from;
 
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+#if UIP_CONF_6LBR
+  if(recv_daro) {
+  /* Proccess to Duplication Address Detection */
+    dupaddr_rpl = uip_ds6_dup_addr_lookup(&prefix);
+    if(dupaddr_rpl == NULL) {
+      /* No duplication, record and send back */
+      dupaddr_rpl = uip_ds6_dup_addr_add(&prefix, 
+                                     uip_ntohs(locdamo.lifetime), 
+                                     &locdamo.eui64);
+      locdamo.status = dupaddr_rpl==NULL ? UIP_ND6_ARO_STATUS_CACHE_FULL : 
+                                        UIP_ND6_ARO_STATUS_SUCESS;
+    } else if(locdamo.lifetime == 0){
+      uip_ds6_dup_addr_rm(dupaddr_rpl);
+      locdamo.status = UIP_ND6_ARO_STATUS_SUCESS;
+    } else if(!memcmp(&dupaddr_rpl->eui64, &locdamo.eui64, UIP_LLADDR_LEN)){
+      /* Update entry */
+      stimer_set(&dupaddr_rpl->lifetime, uip_ntohs(locdamo.lifetime) * 60);
+      locdamo.status = UIP_ND6_ARO_STATUS_SUCESS;
+    } else {
+      /* send back with duplication */
+      locdamo.status = UIP_ND6_ARO_STATUS_DUPLICATE;
+    }
+    /* Send DAO ACK with DACO */
+    send_damo = 1;
+    uip_ipaddr_copy(&locdamo.regipaddr, &prefix);
+    dao_ack_output(instance, &dao_sender_addr, sequence);
+  }
+#else /* UIP_CONF_6LBR */
+  if(recv_daro) {
+    send_damo = 1;
+    rep->state.state = UIP_RT_RPL_STATE_ACK;
+  }
+#endif /* UIP_CONF_6LBR */
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
+
   if(learned_from == RPL_ROUTE_FROM_UNICAST_DAO) {
     if(dag->preferred_parent != NULL &&
        rpl_get_parent_ipaddr(dag->preferred_parent) != NULL) {
@@ -801,7 +858,7 @@ dao_output(rpl_parent_t *parent, uint8_t lifetime)
 }
 /*---------------------------------------------------------------------------*/
 void
-dao_output_target(rpl_parent_t *parent, uip_ipaddr_t *prefix, uint8_t lifetime)
+dao_output_target(rpl_parent_t *parent, uip_ipaddr_t *prefix, uint16_t lifetime)
 {
   rpl_dag_t *dag;
   rpl_instance_t *instance;
@@ -810,6 +867,13 @@ dao_output_target(rpl_parent_t *parent, uip_ipaddr_t *prefix, uint8_t lifetime)
   int pos;
 
   /* Destination Advertisement Object */
+
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+  if(parent == NULL) {
+    dag = rpl_get_any_dag();
+    parent = dag->preferred_parent;
+  }
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 
   /* If we are in feather mode, we should not send any DAOs */
   if(rpl_get_mode() == RPL_MODE_FEATHER) {
@@ -877,7 +941,26 @@ dao_output_target(rpl_parent_t *parent, uip_ipaddr_t *prefix, uint8_t lifetime)
   buffer[pos++] = 0; /* flags - ignored */
   buffer[pos++] = 0; /* path control - ignored */
   buffer[pos++] = 0; /* path seq - ignored */
-  buffer[pos++] = lifetime;
+  buffer[pos++] = (uint8_t) lifetime;
+
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+   /* Create a Duplicaion Adresse Register sub-option. */
+  if(send_damo) {
+    PRINTF("RPL: Option DARO in DAO\n");
+    buffer[pos++] = RPL_OPTION_DAR;
+    buffer[pos++] = 12;
+    buffer[pos++] = UIP_ND6_ARO_STATUS_SUCESS; /* status */
+    buffer[pos++] = 0; /* reserved */
+    /* register lifetime */
+    lifetime = uip_htons(lifetime);
+    memcpy(buffer + pos, &lifetime, 2);
+    pos += 2;
+    /* eui64 */
+    memcpy(buffer + pos, &locdamo.eui64, UIP_LLADDR_LEN);
+    pos += UIP_LLADDR_LEN;
+    send_damo = NULL;
+  }
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 
   PRINTF("RPL: Sending DAO with prefix ");
   PRINT6ADDR(prefix);
@@ -899,13 +982,108 @@ dao_ack_input(void)
   uint8_t instance_id;
   uint8_t sequence;
   uint8_t status;
+  uint8_t pos;
+#if CONF_6LOWPAN_ND_OPTI_FUSION 
+  int i;
+  int len;
+  uint8_t subopt_type;
+#if UIP_CONF_6LR
+  uint8_t recv_daco;
+  uip_ds6_nbr_t *nbr;
+  uip_ds6_dar_t *dar;
+  uip_ds6_route_t *rt;
+  uint8_t aro_state;
+
+  recv_daco = 0;
+#endif /* UIP_CONF_6LR */
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 
   buffer = UIP_ICMP_PAYLOAD;
   buffer_length = uip_len - uip_l3_icmp_hdr_len;
 
-  instance_id = buffer[0];
-  sequence = buffer[2];
-  status = buffer[3];
+  pos = 0;
+
+  instance_id = buffer[pos++];
+  sequence = buffer[pos++];
+  status = buffer[pos++];
+
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+  /* Check if there are any RPL options present. */
+  for(i = pos; i < buffer_length; i += len) {
+    subopt_type = buffer[i];
+    if(subopt_type == RPL_OPTION_PAD1) {
+      len = 1;
+    } else {
+      /* The option consists of a two-byte header and a payload. */
+      len = 2 + buffer[i + 1];
+    }
+
+    switch(subopt_type) {
+#if UIP_CONF_6LR
+    case RPL_OPTION_DAC:
+      PRINTF("RPL: Option DACO received\n");
+      recv_daco = 1;
+      locdamo.lifetime = buffer[i + 2];
+      memcpy(&locdamo.lifetime, buffer + i + 4, 2);
+      memcpy(&locdamo.eui64, buffer + i + 6, UIP_LLADDR_LEN);
+      memcpy(&locdamo.regipaddr, buffer + i + 6 + UIP_LLADDR_LEN, 16);
+      break;
+#endif /* UIP_CONF_6LR */
+    }
+  }
+
+#if UIP_CONF_6LR
+  //TODO no use route if state UIP_RT_RPL_STATE_ACK except this way
+  if(recv_daco) {
+    if(uip_ds6_dar_lookup(&locdamo.regipaddr)) {
+      /* Final destination */
+      nbr = uip_ds6_nbr_ll_lookup(&locdamo.eui64);
+      if(nbr == NULL || 
+         !(dar=uip_ds6_dar_lookup_by_nbr(nbr)) || 
+         !uip_ipaddr_cmp(&dar->ipaddr, &locdamo.regipaddr)) {
+        /* No in NCE, so silently ignored */
+        return;
+      } else if(locdamo.status == UIP_ND6_ARO_STATUS_SUCESS){
+        nbr->state = NBR_REGISTERED;
+        stimer_set(&nbr->reachable, uip_ntohs(locdamo.lifetime)*60);
+        uip_ds6_route_add(&dar->ipaddr, 128, &nbr->ipaddr);
+        aro_state = UIP_ND6_ARO_STATUS_SUCESS;
+      } else {
+        aro_state = locdamo.status;
+      }
+
+      /* send na */
+      nd6_opt_aro = &aro_rpl;
+      nd6_opt_aro->lifetime = locdamo.lifetime;
+      nd6_opt_aro->status = locdamo.status;
+      memcpy(&nd6_opt_aro->eui64, &locdamo.eui64, UIP_LLADDR_LEN);
+      uip_ipaddr_copy(&UIP_IP_BUF->destipaddr, &dar->ipaddr);
+      uip_ipaddr_copy(&UIP_IP_BUF->srcipaddr, 
+                      &uip_ds6_get_link_local(ADDR_PREFERRED)->ipaddr);
+      addr = uip_ds6_addr_lookup(&UIP_IP_BUF->srcipaddr);
+      uip_nd6_na_output(UIP_ND6_NA_FLAG_SOLICITED | UIP_ND6_NA_FLAG_OVERRIDE,
+                        aro_state);
+
+      /* remove all entries */
+      uip_ds6_dar_rm(dar);
+      tcpip_ipv6_output(); //force to send before remove NCE
+      if(aro_state != UIP_ND6_ARO_STATUS_SUCESS) {
+        uip_ds6_nbr_rm(nbr);
+      }
+
+    } else {
+      /* Send DAO ACK downward */
+      send_damo = 1;
+      rt = uip_ds6_route_lookup(&locdamo.regipaddr);
+      rt->state.state = UIP_RT_RPL_STATE_IN;
+      dao_ack_output(rpl_get_instance(instance_id), 
+                     uip_ds6_route_nexthop(rt), 
+                     sequence);
+    }
+  }
+#endif /* UIP_CONF_6LR */
+
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 
   PRINTF("RPL: Received a DAO ACK with sequence number %d and status %d from ",
     sequence, status);
@@ -918,20 +1096,42 @@ void
 dao_ack_output(rpl_instance_t *instance, uip_ipaddr_t *dest, uint8_t sequence)
 {
   unsigned char *buffer;
+  uint8_t pos;
 
   PRINTF("RPL: Sending a DAO ACK with sequence number %d to ", sequence);
   PRINT6ADDR(dest);
   PRINTF("\n");
 
   buffer = UIP_ICMP_PAYLOAD;
+  pos = 0;
 
-  buffer[0] = instance->instance_id;
-  buffer[1] = 0;
-  buffer[2] = sequence;
-  buffer[3] = 0;
+  buffer[pos++] = instance->instance_id;
+  buffer[pos++] = 0;
+  buffer[pos++] = sequence;
+  buffer[pos++] = 0;
 
-  uip_icmp6_send(dest, ICMP6_RPL, RPL_CODE_DAO_ACK, 4);
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+  /* Duplication Address Confirmation Option */
+  if(send_damo) {
+    PRINTF("RPL: Option DACO in DAO ACK\n");
+    buffer[pos++] = RPL_OPTION_DAC;
+    buffer[pos++] = 28;
+    buffer[pos++] = locdamo.status;
+    buffer[pos++] = 0; /* reserved */
+    memcpy(buffer + pos, &locdamo.lifetime, 2);
+    pos += 2;
+    memcpy(buffer + pos, &locdamo.eui64, UIP_LLADDR_LEN);
+    pos += UIP_LLADDR_LEN;
+    memcpy(buffer + pos, &locdamo.regipaddr, 16);
+    pos += 16;
+    send_damo = NULL;
+  }
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
+
+  uip_icmp6_send(dest, ICMP6_RPL, RPL_CODE_DAO_ACK, pos);
 }
+/*---------------------------------------------------------------------------*/
+
 /*---------------------------------------------------------------------------*/
 void
 uip_rpl_input(void)

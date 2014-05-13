@@ -1422,6 +1422,7 @@ uip_process(uint8_t flag)
 #endif /* !UIP_CONF_ROUTER || UIP_CONF_6LR*/
     break;
 #if CONF_6LOWPAN_ND
+#if !CONF_6LOWPAN_ND_OPTI_FUSION
   case ICMP6_DAR:
 #if UIP_CONF_6LBR
     uip_nd6_dar_input();
@@ -1438,6 +1439,7 @@ uip_process(uint8_t flag)
     uip_len = 0;
 #endif /* UIP_CONF_6LR */
     break;
+#endif /* !CONF_6LOWPAN_ND_OPTI_FUSION */
 #endif /* CONF_6LOWPAN_ND */
 #if UIP_CONF_IPV6_RPL
   case ICMP6_RPL:

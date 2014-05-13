@@ -378,6 +378,17 @@ extern uip_ds6_border_router_t uip_ds6_br_list[UIP_DS6_BR_NB];
 extern uip_ds6_dup_addr_t uip_ds6_dup_addr_list[UIP_DS6_DUPADDR_NB];
 #endif /* UIP_CONF_6LBR */
 
+#if CONF_6LOWPAN_ND
+uip_nd6_opt_aro *nd6_opt_aro;    /**  Pointer to aro option in uip_buf */
+#endif /* CONF_6LOWPAN_ND */
+extern uip_ds6_addr_t *addr;
+
+#if CONF_6LOWPAN_ND_OPTI_FUSION
+uint8_t send_damo;
+uip_nd6_da locdamo;
+uip_nd6_opt_aro aro_rpl;
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
+
 
 /*---------------------------------------------------------------------------*/
 /** \brief Initialize data structures */

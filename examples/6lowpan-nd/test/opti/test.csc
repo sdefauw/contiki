@@ -126,13 +126,13 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>54.319426640312294</x>
-        <y>62.50054501785547</y>
+        <x>53.5945593012226</x>
+        <y>65.53768928319693</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
         org.contikios.cooja.mspmote.interfaces.MspMoteID
-        <id>6</id>
+        <id>4</id>
       </interface_config>
       <motetype_identifier>wismote2</motetype_identifier>
     </mote>
@@ -154,10 +154,10 @@
       <skin>org.contikios.cooja.plugins.skins.UDGMVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.MoteTypeVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.TrafficVisualizerSkin</skin>
-      <viewport>1.9479583221858996 0.0 0.0 1.9479583221858996 94.95190970852606 15.389506154276946</viewport>
+      <viewport>1.9208409429601545 0.0 0.0 1.9208409429601545 113.77559839652788 42.61252311783442</viewport>
     </plugin_config>
     <width>307</width>
-    <z>2</z>
+    <z>0</z>
     <height>272</height>
     <location_x>1</location_x>
     <location_y>1</location_y>
@@ -188,7 +188,7 @@
       <zoomfactor>500.0</zoomfactor>
     </plugin_config>
     <width>1075</width>
-    <z>6</z>
+    <z>3</z>
     <height>166</height>
     <location_x>-4</location_x>
     <location_y>705</location_y>
@@ -203,7 +203,7 @@
       <analyzers name="6lowpan" />
     </plugin_config>
     <width>936</width>
-    <z>3</z>
+    <z>2</z>
     <height>300</height>
     <location_x>7</location_x>
     <location_y>401</location_y>
@@ -211,14 +211,14 @@
   <plugin>
     org.contikios.cooja.plugins.ScriptRunner
     <plugin_config>
-      <scriptfile>[CONTIKI_DIR]/examples/6lowpan-nd/test/rpl/test.js</scriptfile>
+      <scriptfile>[CONTIKI_DIR]/examples/6lowpan-nd/test/opti/test.js</scriptfile>
       <active>true</active>
     </plugin_config>
     <width>600</width>
     <z>4</z>
     <height>700</height>
-    <location_x>986</location_x>
-    <location_y>1</location_y>
+    <location_x>1274</location_x>
+    <location_y>-11</location_y>
   </plugin>
 </simconf>
 

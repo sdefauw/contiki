@@ -130,9 +130,6 @@ void uip_log(char *msg);
 
 static uint8_t nd6_opt_offset;                     /** Offset from the end of the icmpv6 header to the option in uip_buf*/
 static uint8_t *nd6_opt_llao;   /**  Pointer to llao option in uip_buf */
-#if CONF_6LOWPAN_ND
-static uip_nd6_opt_aro *nd6_opt_aro;    /**  Pointer to aro option in uip_buf */
-#endif /* CONF_6LOWPAN_ND */
 
 #if !UIP_CONF_ROUTER || CONF_6LOWPAN_ND           // TBD see if we move it to ra_input
 static uip_nd6_opt_prefix_info *nd6_opt_prefix_info; /**  Pointer to prefix information option in uip_buf */
@@ -151,7 +148,7 @@ static uip_nd6_opt_abro *nd6_opt_auth_br; /**  Pointer to context authorisation 
 #endif /* CONF_6LOWPAN_ND */
 static uip_ds6_nbr_t *nbr; /**  Pointer to a nbr cache entry*/
 static uip_ds6_defrt_t *defrt; /**  Pointer to a router list entry */
-static uip_ds6_addr_t *addr; /**  Pointer to an interface address */
+uip_ds6_addr_t *addr; /**  Pointer to an interface address */
 
 
 /*------------------------------------------------------------------*/
@@ -181,10 +178,10 @@ create_aro(uint8_t *aro, uint8_t status, uint8_t lifetime, uip_lladdr_t* lladdr)
 
 /*------------------------------------------------------------------*/
 #if UIP_CONF_6L_ROUTER
-static void
+void
 uip_nd6_na_output(uint8_t flags, uint8_t aro_state)
 #else /* UIP_CONF_6L_ROUTER */
-static void
+void
 uip_nd6_na_output(uint8_t flags)
 #endif /* UIP_CONF_6L_ROUTER */
 {
@@ -870,6 +867,7 @@ uip_nd6_rs_input(void)
 
 #if UIP_CONF_6L_ROUTER
   if(non_router()) {
+    PRINTF("RS discard because no yet router\n");
     goto discard;
   }
 #endif
@@ -1544,6 +1542,8 @@ discard:
 #endif /* !UIP_CONF_6LBR */
 #endif /* !UIP_CONF_ROUTER || CONF_6LOWPAN_ND */
 
+
+#if !CONF_6LOWPAN_ND_OPTI_FUSION
 /*---------------------------------------------------------------------------*/
 #if UIP_CONF_6LBR
 void
@@ -1600,6 +1600,7 @@ discard:
   return;
 }
 #endif /* UIP_CONF_6LBR */
+
 
 /*---------------------------------------------------------------------------*/
 #if UIP_CONF_6L_ROUTER
@@ -1721,6 +1722,7 @@ discard:
 
 }
 #endif /* UIP_CONF_6LR */
+#endif /* !CONF_6LOWPAN_ND_OPTI_FUSION */
 
  /** @} */
 #endif /* UIP_CONF_IPV6 */

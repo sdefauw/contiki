@@ -546,6 +546,7 @@ uip_nd6_ra_input(void);
 #endif /* !UIP_CONF_6LBR */
 
 
+#if !CONF_6LOWPAN_ND_OPTI_FUSION
 /**
  *
  * \brief process a Duplication Address Register
@@ -594,6 +595,8 @@ void uip_nd6_dar_output(uip_ipaddr_t* destipaddr, uint8_t status,
             uip_ipaddr_t* hostipaddr, uip_lladdr_t* eui64, uint16_t lifetime);
 #endif/* UIP_CONF_6LR */
 #endif /* UIP_CONF_6L_ROUTER */
+
+#endif /* !CONF_6LOWPAN_ND_OPTI_FUSION */
 /** @} */
 
 
