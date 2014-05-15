@@ -1543,7 +1543,6 @@ discard:
 #endif /* !UIP_CONF_ROUTER || CONF_6LOWPAN_ND */
 
 
-#if !CONF_6LOWPAN_ND_OPTI_FUSION
 /*---------------------------------------------------------------------------*/
 #if UIP_CONF_6LBR
 void
@@ -1646,6 +1645,7 @@ uip_nd6_da_output(uip_ipaddr_t* destipaddr, uint8_t type, uint8_t status,
 }
 #endif /* UIP_CONF_6L_ROUTER */
 
+#if !CONF_6LOWPAN_ND_OPTI_FUSION
 #if UIP_CONF_6LR
 /*---------------------------------------------------------------------------*/
 void 

@@ -556,7 +556,7 @@ uip_nd6_ra_input(void);
 #endif /* !UIP_CONF_6LBR */
 
 
-#if !CONF_6LOWPAN_ND_OPTI_FUSION
+
 /**
  *
  * \brief process a Duplication Address Register
@@ -578,10 +578,11 @@ void uip_nd6_dar_input(void);
  *   was a success. We send back to the host a NA to notify it of the 
  *   decision.
  */
+#if !CONF_6LOWPAN_ND_OPTI_FUSION
 #if UIP_CONF_6LR
 void uip_nd6_dac_input(void);
 #endif /* UIP_CONF_6LR */
-
+#endif /* !CONF_6LOWPAN_ND_OPTI_FUSION */
 /**
  *
  * \brief process a Duplication Address
@@ -600,13 +601,14 @@ void uip_nd6_dac_input(void);
 #if UIP_CONF_6L_ROUTER
 void uip_nd6_da_output(uip_ipaddr_t* destipaddr, uint8_t type, uint8_t status,
             uip_ipaddr_t* hostipaddr, uip_lladdr_t* eui64, uint16_t lifetime);
+#if !CONF_6LOWPAN_ND_OPTI_FUSION
 #if UIP_CONF_6LR
 void uip_nd6_dar_output(uip_ipaddr_t* destipaddr, uint8_t status,
             uip_ipaddr_t* hostipaddr, uip_lladdr_t* eui64, uint16_t lifetime);
 #endif/* UIP_CONF_6LR */
+#endif /* !CONF_6LOWPAN_ND_OPTI_FUSION */
 #endif /* UIP_CONF_6L_ROUTER */
 
-#endif /* !CONF_6LOWPAN_ND_OPTI_FUSION */
 /** @} */
 
 
