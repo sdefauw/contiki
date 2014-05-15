@@ -1,3 +1,5 @@
+var platform = "sky"
+
 // load(lib.js)
 var prefix = "bbbb";
 var brID = 1;
@@ -81,7 +83,7 @@ function waitingConfig(){
     for(var i=0;; i++) {
         YIELD_THEN_WAIT_UNTIL(msg.contains("#s") || msg.contains("#r") || msg.contains("timeout"));
         if(msg.contains("#s") || msg.contains("#r")){
-            GENERATE_MSG(75000, "timeout"+lastid);
+            GENERATE_MSG(60000, "timeout"+lastid);
             lastid++;
         }else if(msg.equals("timeout"+(lastid-1))) {
             return;
@@ -145,23 +147,27 @@ WaitingStarting();
 
 log.log("Modify RT\n");
 buildRT([
-    {"mote":2, 
+    {"mote":3, 
      "fct":function(){
          addroute(1,3,2,128);
-         GENERATE_MSG(50, "continue1");
-         WAIT_UNTIL(msg.contains("continue1"));
-         addroute(1,5,2,128);
-         GENERATE_MSG(50, "continue2");
-         WAIT_UNTIL(msg.contains("continue2"));
-         addroute(1,4,2,128);
-         GENERATE_MSG(50, "continue3");
-         WAIT_UNTIL(msg.contains("continue3"));
-         addroute(1,6,2,128);
         }
     },
     {"mote":4, 
      "fct":function(){
-         addroute(2,6,4,128);
+         addroute(1,4,2,128);
+         }
+    },
+    {"mote":5, 
+     "fct":function(){
+         addroute(1,5,2,128);
+         }
+    },
+    {"mote":6, 
+     "fct":function(){
+         addroute(1,6,2,128);
+         GENERATE_MSG(50, "continue");
+         WAIT_UNTIL(msg.contains("continue"));
+         addroute(2,6,5,128);
          }
     }
 ]);
@@ -197,10 +203,6 @@ function checknc(tocheck){
     return true;
 }
 
-moveTo(6, 20, -30);
-log.log("Mote 6 moved, only 4 can see it\n");
-
-waitingConfig();
 log.log("Check 1\n");
 if(!checknc({
         6:{4:true, 5:true},
@@ -209,6 +211,9 @@ if(!checknc({
     })){
     log.testFailed();
 }
+
+moveTo(6, 20, -30);
+log.log("Mote 6 moved, only 4 can see it\n");
 
 waitingConfig();
 log.log("Check 2\n");
