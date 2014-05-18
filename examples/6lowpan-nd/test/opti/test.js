@@ -179,6 +179,12 @@ function waiting(sec) {
 TIMEOUT(7200000); //2h
 WaitingStarting();
 
+
+// while(true) {
+//     waiting(15);
+//     displayAllTable();
+// } 
+
 rpl_stable();
 log.log("Topology stable\n");
 displayAllTable();

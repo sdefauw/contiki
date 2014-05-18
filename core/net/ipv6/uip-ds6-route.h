@@ -86,6 +86,15 @@ void uip_ds6_notification_rm(struct uip_ds6_notification *n);
 #define UIP_RT_RPL_STATE_ACK 1
 #endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 
+/* State of DAD in RT */
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+#define UIP_RT_DAD_STATE_IN_RT 1
+#define UIP_RT_DAD_STATE_IN_DAD 2
+#define UIP_RT_DAD_STATE_IN_BOTH 3
+#define uip_rt_state_is_in_rt(x) (x->dup.isused & UIP_RT_DAD_STATE_IN_RT)
+#define uip_rt_state_is_in_dad(x) (x->dup.isused & UIP_RT_DAD_STATE_IN_DAD)
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
+
 /** \brief define some additional RPL related route state and
  *  neighbor callback for RPL - if not a DS6_ROUTE_STATE is already set */
 #ifndef UIP_DS6_ROUTE_STATE_TYPE
@@ -101,6 +110,20 @@ typedef struct rpl_route_entry {
 #endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
 } rpl_route_entry_t;
 #endif /* UIP_DS6_ROUTE_STATE_TYPE */
+
+
+/** \brief A Duplication Address Detection list entry */
+#if UIP_CONF_6LBR
+typedef struct uip_ds6_dup_addr {
+  uint8_t isused;
+#if !CONF_6LOWPAN_ND_OPTI_TDAD
+  uip_ipaddr_t ipaddr;
+#endif /* !CONF_6LOWPAN_ND_OPTI_TDAD */
+  uip_lladdr_t eui64;
+  struct stimer lifetime;
+} uip_ds6_dup_addr_t; 
+#endif /* UIP_CONF_6LBR */
+
 
 /** \brief The neighbor routes hold a list of routing table entries
     that are attached to a specific neihbor. */
@@ -138,6 +161,9 @@ typedef struct uip_ds6_route {
 #ifdef UIP_DS6_ROUTE_STATE_TYPE
   UIP_DS6_ROUTE_STATE_TYPE state;
 #endif
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+  uip_ds6_dup_addr_t dup;
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
   uint8_t length;
 } uip_ds6_route_t;
 

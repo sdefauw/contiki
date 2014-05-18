@@ -781,18 +781,7 @@ dao_input(void)
 
   rpl_lock_parent(p);
 
-  rep = rpl_add_route(dag, &prefix, prefixlen, &dao_sender_addr);
-  if(rep == NULL) {
-    RPL_STAT(rpl_stats.mem_overflows++);
-    PRINTF("RPL: Could not add a route after receiving a DAO\n");
-    return;
-  }
-
-  rep->state.lifetime = RPL_LIFETIME(instance, lifetime);
-  rep->state.learned_from = learned_from;
-
-#if CONF_6LOWPAN_ND_OPTI_FUSION
-#if UIP_CONF_6LBR
+#if CONF_6LOWPAN_ND_OPTI_FUSION && UIP_CONF_6LBR
   if(recv_daro) {
   /* Proccess to Duplication Address Detection */
     dupaddr_rpl = uip_ds6_dup_addr_lookup(&prefix);
@@ -819,13 +808,24 @@ dao_input(void)
     uip_ipaddr_copy(&locdamo.regipaddr, &prefix);
     dao_ack_output(instance, &dao_sender_addr, sequence);
   }
-#else /* UIP_CONF_6LBR */
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION && UIP_CONF_6LBR */
+
+  rep = rpl_add_route(dag, &prefix, prefixlen, &dao_sender_addr);
+  if(rep == NULL) {
+    RPL_STAT(rpl_stats.mem_overflows++);
+    PRINTF("RPL: Could not add a route after receiving a DAO\n");
+    return;
+  }
+
+  rep->state.lifetime = RPL_LIFETIME(instance, lifetime);
+  rep->state.learned_from = learned_from;
+
+#if CONF_6LOWPAN_ND_OPTI_FUSION && !UIP_CONF_6LBR
   if(recv_daro) {
     send_damo = 1;
     rep->state.state = UIP_RT_RPL_STATE_ACK;
   }
-#endif /* UIP_CONF_6LBR */
-#endif /* CONF_6LOWPAN_ND_OPTI_FUSION */
+#endif /* CONF_6LOWPAN_ND_OPTI_FUSION && !UIP_CONF_6LBR */
 
   if(learned_from == RPL_ROUTE_FROM_UNICAST_DAO) {
     if(dag->preferred_parent != NULL &&

@@ -94,9 +94,11 @@ static uip_ds6_aaddr_t *locaaddr;
 static uip_ds6_prefix_t *locprefix;
 #if CONF_6LOWPAN_ND
 static uip_ds6_context_pref_t *loccontext;
+#if !CONF_6LOWPAN_ND_OPTI_TDAD
 #if UIP_CONF_6LBR
 static uip_ds6_dup_addr_t *locdad;
 #endif /* UIP_CONF_6LBR */
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
 uip_ds6_border_router_t *locbr;
 #endif /* CONF_6LOWPAN_ND */
 
@@ -298,6 +300,9 @@ uip_ds6_periodic(void)
 
   /* Periodic processing on Duplication Address*/
 #if UIP_CONF_6LBR
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+  //TODO make it in new methode
+#else /* CONF_6LOWPAN_ND_OPTI_TDAD*/
   for(locdad = uip_ds6_dup_addr_list;
       locdad < uip_ds6_dup_addr_list + UIP_DS6_DUPADDR_NB;
       locdad++)
@@ -306,6 +311,7 @@ uip_ds6_periodic(void)
       uip_ds6_dup_addr_rm(locdad);
     }
   }
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
 #endif /* UIP_CONF_6LBR */
 
   uip_ds6_neighbor_periodic();
@@ -647,7 +653,7 @@ uip_ds6_context_pref_lookup_by_cid(uint8_t cid)
   return loccontext->state == CONTEXT_PREF_ST_FREE ? NULL : loccontext;
 }
 
-
+#if !CONF_6LOWPAN_ND_OPTI_TDAD
 #if UIP_CONF_6LBR
 /*---------------------------------------------------------------------------*/
 uip_ds6_dup_addr_t *
@@ -691,6 +697,7 @@ uip_ds6_dup_addr_lookup(uip_ipaddr_t *ipaddr)
   return NULL;
 }
 #endif /* UIP_CONF_6LBR */
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
 
 #endif /* CONF_6LOWPAN_ND */
 

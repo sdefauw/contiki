@@ -71,6 +71,10 @@ uip_ds6_border_router_t *locbr;
 
 static int num_routes = 0;
 
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+static uint8_t specialsearch = 0;
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
+
 #undef DEBUG
 #define DEBUG DEBUG_NONE
 #include "net/ip/uip-debug.h"
@@ -219,7 +223,11 @@ uip_ds6_route_lookup(uip_ipaddr_t *addr)
       r != NULL;
       r = uip_ds6_route_next(r)) {
     if(r->length >= longestmatch &&
-       uip_ipaddr_prefixcmp(addr, &r->ipaddr, r->length)) {
+       uip_ipaddr_prefixcmp(addr, &r->ipaddr, r->length)
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+       && (uip_rt_state_is_in_rt(r) || specialsearch)
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
+       ) {
       longestmatch = r->length;
       found_route = r;
     }
@@ -255,6 +263,9 @@ uip_ds6_route_lookup_by_nexthop(uip_ipaddr_t *ipaddr)
       r != NULL;
       r = uip_ds6_route_next(r)) {
     if(uip_ipaddr_cmp(uip_ds6_route_nexthop(r), ipaddr)) {
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+      if(uip_rt_state_is_in_rt(r))
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
       return r;
     }
   }
@@ -284,7 +295,13 @@ uip_ds6_route_add(uip_ipaddr_t *ipaddr, uint8_t length,
   /* First make sure that we don't add a route twice. If we find an
      existing route for our destination, we'll just update the old
      one. */
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+  specialsearch = 1;
   r = uip_ds6_route_lookup(ipaddr);
+  specialsearch = 0;
+#else /* CONF_6LOWPAN_ND_OPTI_TDAD */
+  r = uip_ds6_route_lookup(ipaddr);
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
   if(r != NULL) {
     PRINTF("uip_ds6_route_add: old route already found, updating this one instead: ");
     PRINT6ADDR(ipaddr);
@@ -376,6 +393,9 @@ uip_ds6_route_add(uip_ipaddr_t *ipaddr, uint8_t length,
 #endif /* CONF_6LOWPAN_ND */
 #endif
 
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+  r->dup.isused |= UIP_RT_DAD_STATE_IN_RT;
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
 
   PRINTF("uip_ds6_route_add: adding route: ");
   PRINT6ADDR(ipaddr);
@@ -761,6 +781,72 @@ uip_ds6_br_periodic(void)
 #endif /* !UIP_CONF_6LBR */
 }
 /*---------------------------------------------------------------------------*/
+
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+#if UIP_CONF_6LBR
+/*---------------------------------------------------------------------------*/
+uip_ds6_dup_addr_t *
+uip_ds6_dup_addr_add(uip_ipaddr_t *ipaddr, uint16_t lifetime, 
+                     uip_lladdr_t *eui64)
+{
+  uip_ds6_route_t *r;
+  uint8_t found_route;
+
+  found_route = 0;
+
+  /* search if route already in table */
+  specialsearch = 1;
+  r = uip_ds6_route_lookup(ipaddr);
+  specialsearch = 0;
+
+  /* Add new entry in RT */
+  if(r == NULL) {
+    uip_ds6_nbr_t *nbr = nbr_table_head(ds6_neighbors);
+    r = uip_ds6_route_add(ipaddr, 128, &nbr->ipaddr);
+    r->dup.isused &= UIP_RT_DAD_STATE_IN_DAD;
+  }
+
+  /* Add data about duplication address */
+  if(r) {
+    r->dup.isused |= UIP_RT_DAD_STATE_IN_DAD;
+    if(lifetime != 0) {
+      stimer_set(&r->dup.lifetime, lifetime * 60);
+      memcpy(&r->dup.eui64, eui64, UIP_LLADDR_LEN);
+    }
+    return &r->dup;
+  }
+
+  return NULL;
+}
+
+/*---------------------------------------------------------------------------*/
+void 
+uip_ds6_dup_addr_rm(uip_ds6_dup_addr_t *dad)
+{
+  if(dad != NULL) {
+    dad->isused &= UIP_RT_DAD_STATE_IN_RT;
+  }
+}
+
+/*---------------------------------------------------------------------------*/
+uip_ds6_dup_addr_t *
+uip_ds6_dup_addr_lookup(uip_ipaddr_t *ipaddr)
+{
+  uip_ds6_route_t *r;
+
+  for(r = uip_ds6_route_head();
+      r != NULL;
+      r = uip_ds6_route_next(r)) {
+    if(uip_ipaddr_prefixcmp(&ipaddr, &r->ipaddr, 128)
+       && uip_rt_state_is_in_dad(r)) {
+      return &r->dup;
+    }
+  }
+  return NULL;
+}
+#endif /* UIP_CONF_6LBR */
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
+
 #endif /* CONF_6LOWPAN_ND */
 
 

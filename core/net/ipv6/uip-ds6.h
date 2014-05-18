@@ -286,15 +286,6 @@ typedef struct uip_ds6_context_pref {
 } uip_ds6_context_pref_t;
 #endif /* CONF_6LOWPAN_ND */
 
-/** \brief A Duplication Address Detection list entry */
-#if UIP_CONF_6LBR
-typedef struct uip_ds6_dup_addr {
-  uint8_t isused;
-  uip_ipaddr_t ipaddr;
-  uip_lladdr_t eui64;
-  struct stimer lifetime;
-} uip_ds6_dup_addr_t; 
-#endif /* UIP_CONF_6LBR */
 
 /** * \brief Unicast address structure */
 typedef struct uip_ds6_addr {
@@ -374,9 +365,11 @@ extern uip_ds6_context_pref_t uip_ds6_context_pref_list[UIP_DS6_CONTEXT_PREF_NB]
 //TODO rm
 extern uip_ds6_border_router_t uip_ds6_br_list[UIP_DS6_BR_NB];
 #endif /* CONF_6LOWPAN_ND */
+#if !CONF_6LOWPAN_ND_OPTI_TDAD
 #if UIP_CONF_6LBR
 extern uip_ds6_dup_addr_t uip_ds6_dup_addr_list[UIP_DS6_DUPADDR_NB];
 #endif /* UIP_CONF_6LBR */
+#endif /* !CONF_6LOWPAN_ND_OPTI_TDAD */
 
 #if CONF_6LOWPAN_ND
 uip_nd6_opt_aro *nd6_opt_aro;    /**  Pointer to aro option in uip_buf */

@@ -171,8 +171,13 @@ display_nbr(void)
 void
 display_rt(void)
 {
+#if !CONF_6LOWPAN_ND_OPTI_TDAD
   PRINTF("IPv6                      Nexthop\n");
   //PRINTF("----------------------------------------------\n");
+#else /* !CONF_6LOWPAN_ND_OPTI_TDAD */
+  PRINTF("IPv6                      Nexthop               EUI64                    Expire  Used\n");
+  //PRINTF("-------------------------------------------------------------------------------\n");
+#endif /* !CONF_6LOWPAN_ND_OPTI_TDAD */
   uip_ds6_route_t *r;
   for(r = uip_ds6_route_head();
       r != NULL;
@@ -180,6 +185,22 @@ display_rt(void)
       PRINT6ADDR(&r->ipaddr);
       PRINTF("/%d  ",r->length);
       PRINT6ADDR(uip_ds6_route_nexthop(r));
+#if CONF_6LOWPAN_ND_OPTI_TDAD
+      PRINTF("  ");
+      PRINTLLADDR(&r->dup.eui64);
+      PRINTF("  %d  ", stimer_remaining(&r->dup.lifetime));
+      switch(r->dup.isused){
+        case UIP_RT_DAD_STATE_IN_DAD:
+          PRINTF("DAD");
+          break;
+        case UIP_RT_DAD_STATE_IN_RT:
+          PRINTF("RT");
+          break;
+        case UIP_RT_DAD_STATE_IN_BOTH:
+          PRINTF("BOTH");
+          break;
+      }
+#endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
       PRINTF("\n");
   }
 }
@@ -187,6 +208,7 @@ display_rt(void)
 #if UIP_CONF_6LBR
 void *
 print_dup_addr(void) {
+#if !CONF_6LOWPAN_ND_OPTI_TDAD
   static uip_ds6_dup_addr_t *locdup;
   PRINTF("IPv6                  EUI64                    Expire\n");
   //PRINTF("-----------------------------------------------------\n");
@@ -201,6 +223,7 @@ print_dup_addr(void) {
       PRINTF("  %d\n", stimer_remaining(&locdup->lifetime));
     }
   }
+#endif /* !CONF_6LOWPAN_ND_OPTI_TDAD */
 }
 #endif /* UIP_CONF_6LBR */
 
