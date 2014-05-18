@@ -1,7 +1,7 @@
 from coojagen.src import lib_generation
 
 
-simfile = ["line-rpl","grid-rpl", "grid-9-rpl"]
+simfile = ["line-rpl-opti"]
 
 #Generate .csc from template
 for filename in simfile:

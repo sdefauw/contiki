@@ -976,7 +976,7 @@ dao_output_target(rpl_parent_t *parent, uip_ipaddr_t *prefix, uint16_t lifetime)
 static void
 dao_ack_input(void)
 {
-#if DEBUG
+
   unsigned char *buffer;
   uint8_t buffer_length;
   uint8_t instance_id;
@@ -1089,7 +1089,7 @@ dao_ack_input(void)
     sequence, status);
   PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
   PRINTF("\n");
-#endif /* DEBUG */
+
 }
 /*---------------------------------------------------------------------------*/
 void
