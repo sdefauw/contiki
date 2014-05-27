@@ -566,9 +566,6 @@ dio_output(rpl_instance_t *instance, uip_ipaddr_t *uc_addr)
     PRINT6ADDR(uc_addr);
     PRINTF("\n");
     uip_icmp6_send(uc_addr, ICMP6_RPL, RPL_CODE_DIO, pos);
-#if CONF_6LOWPAN_ND
-    //TODO
-#endif /* CONF_6LOWPAN_ND */
   }
 #endif /* RPL_LEAF_ONLY */
 }
@@ -1138,7 +1135,7 @@ uip_rpl_input(void)
 {
   PRINTF("Received an RPL control message\n");
 #if TCPIP_CONF_ANNOTATE_TRANSMISSIONS
-  printf("#rRPL\n");
+  printf("#rRPL %d\n", UIP_ICMP_BUF->icode);
 #endif  /* TCPIP_CONF_ANNOTATE_TRANSMISSIONS */
 
 #if CONF_6LOWPAN_ND
