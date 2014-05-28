@@ -1,0 +1,19160 @@
+#rRS
+#rRS
+#rRS
+#rRS
+#rR#rRS
+S
+#rRS
+#rRS
+##rrRS
+RS
+#rRS
+#rRS
+#rRS#rRS
+
+#rRS
+#rRS
+#rRS
+#rRS
+#rR#rRS
+S
+#rRS
+#rRS
+##rRS
+rRS
+#rRS
+#rRS
+#rR#rRS
+S
+#rRS
+#rRS
+#r#rRRS
+S
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rR#rR#S
+S
+sRA
+#rRS
+#rRS
+##rrRS
+RS
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#rR#rRS
+S
+#rRS
+#rRS
+###rRrRS
+rRS
+S
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS#rRS#rRS
+#rRS
+
+
+#sRA
+#rRS
+#rRS
+#rRS
+#r#rR#rRS
+RS
+S
+#rR#rRS
+#rRS
+S
+#rRS
+####rRS
+sRA
+rRS
+rRS
+#r#rRS
+#rRS
+RS
+#rRS
+#rRS
+#rRS
+#rRS
+#sR#rRS#rRS#rRS
+A
+
+
+#rRS
+#rRS
+#rRS
+#r#rRS
+##rRS
+RS
+rRS
+#rR#sRA
+#rRS
+S
+#rRS
+##rRS
+#rRSrRS
+#rRS
+#rRS
+
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#rRS
+S
+#rRS#rRS
+#rRS
+
+#rRS##rRS
+
+#rRS
+rRS
+#r#rRS
+#sRA
+#rRS
+RS
+#rR#rRS
+S
+#rRS
+#rRS
+#sRA
+Rime started with address 0.18.116.0.20.110.249.2
+MAC 00:12:74:00:14:6e:f9:02 Contiki-2.6-1475-ga4289dc started. Node id is not set.
+CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7400:146e:f902
+Starting 'Test process of 6LoWPAN ND host'
+#r#rRPL #rRPL #rRPL RPL 0
+0
+0
+0
+##rRPL#rRPL #rRPL 0rRPL 0
+ 0
+#rRPL 0
+
+0
+#r#rRPL#rRPL 0RPL 0
+#rRPL  0
+
+0
+#r#rRPL #rRPL #rRPL 0
+#rRPRPL 0
+0
+0
+L 0
+##rRPL #rRPL #rrRPL 0
+0
+0
+RPL 0
+#r#rR#rRPL #rRPL RPL 0
+PL 0
+0
+#rRPL 0
+0
+#rRPL#rRP#rRPL  0
+L 0
+#rRPL 0
+0
+#r#rR#rRPL RPL 0
+PL 0
+0
+##rR#r#rRPL rRPL 0
+RPL 0
+PL 0
+0
+##rRPL #rRPL 0rRPL 0
+#rR0
+
+PL 0
+#rRPL#rRPL #rRPL 0 0
+0
+
+#rRPL 0
+#r#r#rRPL #rRPL RPL 0
+RPL 0
+0
+0
+#rRPL 0
+#rRP#rRPL #rRPL 0
+#rRPL 0
+L 0
+#rRPL 0
+0
+#r#rRPL 0#rRPL 0RPL 0
+#rRPL 0
+#rRP
+
+L 0
+#rRPL #rRPL #rRPL 0
+#rR#rRPL 0
+0
+0
+PL 0
+#rRP#rRPL#rRPL #rRPL 0#L 0
+ 0
+0
+
+rRPL 0
+#rR#rRPL #rRPPL 0
+0
+L 0
+#rRPL 0
+##rRPL#rRrRPL 0
+#rRPL 0
+ 0
+PL 0
+#rRPL 0
+#rR#rR#rRPL 0
+#rRPL 0
+PL 0
+PL 0
+#rRPL 0
+#r#rRPL #rRPL 0
+#rRPRPL 0
+0
+L 0
+#rRPL #rRPL #rRPL 0#rRPL 0
+#r0
+0
+
+RPL 0
+#rRPL#rRP#rRPL #rRPL 0 0
+L 0
+0
+
+#rRPL 0
+#rR##rRPL#rRPL rRPL 0
+PL 0
+ 0
+0
+#rRPL 0
+#rR#rRPL#rRPL 0
+PL 0
+ 0
+#rR#rR#rRPL #rRPL 0#rRPL 0
+PL 0
+PL 0
+
+0
+##rRPL #rRPL #rRPL #rRPL 0
+rRPL 0
+0
+0
+0
+#rRP#rRPL 0#rRPL #rRPL 0L 0
+0
+
+
+#rRP##rRPL #rRPL #rRPL L 0
+rRPL 0
+0
+0
+0
+#r#rRPL#rRP#rRP#rRPL 0
+RPL 0
+L 0
+ 0
+L 0
+##rR#r#rRPL #rRPL 0
+rRPL 0
+PL 0
+RPL 0
+0
+#rRPL #rRPL #rRPL 0
+#rRPL 0
+#rRPL 00
+0
+
+#rRPL#rRPL #rRPL 0#rRPL 0
+#rRPL  0
+0
+
+0
+#r#rRPL #rRPL #rRPLRPL 0
+0
+0
+ 0
+##rR#rRPL#rRPL #rrRPL 0
+PL 0
+0
+ 0
+RPL 0
+#r#rRP#rRPL RPL 0
+L 0
+#rRPL 0
+0
+###rRP#rRPL 0rRPL 0
+rRPL 0
+#rRPL L 0
+
+0
+#rR#rRPL #rRPL 0
+#rRPL #rRPL PL 0
+0
+0
+0
+#r#rRPL #rRPL #rRRPL 0
+0
+0
+PL 0
+##rRPL#rRPL #rRPL rRPL 0
+ 0
+0
+0
+#rRPL 0
+#rR#rRP#rRPL 0PL 0
+L 0
+
+#rRPL 0
+###rRPL #rRPL 0
+rRPL 0
+rRPL 0
+0
+#rRPL 0
+####rRPL #rRPL 1rRPL 1
+rRPL 1
+rRPL 1
+1
+
+###rRPL 0
+#rRP#rRPL 0
+#rRPL#rRPL 0
+#rRPL rRPL 0
+#rRPL 0rRPL 0
+#rRPL 0
+ 0
+L 0
+
+0
+#rRP#rRPL#rRPL #rRPL 0
+#rRPL 0
+ 0
+L 0
+0
+#r#rRPL#rRPL#rRPL 0
+#rRPL 0RPL 0
+ 0
+ 0
+
+#r#rR#rRPL #rRPL 0#rRPL 0PL 0
+RPL 0
+0
+
+
+#rRPL #rRPL #rRPL#rRPL 0
+#rRPL 0
+0
+0
+ 0
+#rRP#rRPL #rRP#rRPL 0
+#rRPL L 0
+0
+L 0
+0
+##rRP#rR#rRPL #rRPL rRPL 0
+L 0
+PL 0
+0
+0
+#r#r#rRPL #rRPL 0
+RPL 0
+RPL 0
+0
+#rRP#rRP#rRPL #rRPL 0
+#rRPL 0
+L 0
+L 0
+0
+#rR#rRPL #rRPL #rRPL 0#rRPL 0
+PL 0
+0
+0
+
+#rRP#rRP#rRPL #rRPL #rRPL 0
+L 0
+L 0
+0
+0
+##r#rRPL#rRPL#rRPL 0rRPL 0
+RPL 0
+ 0
+ 0
+
+#rR#rRPL #rRPL 0
+#rRPL 0
+PL 0
+#rRPL 0
+0
+#rRPL #rRPL #rRPL 0#rRPL 0
+#rRPL 00
+0
+
+
+#rR#r#rRPL #rRPL 0
+#rRPL 0RPL 0
+PL 0
+0
+
+#rRP#rRPL #rRPL #rRPL 0
+#rL 0
+0
+0
+RPL 0
+#r#rRPL #rRPL #rRPL RPL 0
+0
+0
+#rRPL 0
+0
+#r#rRPL#rRPL#rRPL #rRPL 0
+RPL 0
+ 0
+ 0
+0
+#rRP#rRPL #rRPL #rRPL 0
+#rRPL 0
+L 0
+0
+0
+##rRPL#rRPL #rRPL #rRPL rRPL 0
+ 0
+0
+0
+0
+#rR#rRP#rRPL#rRPL #rRPL 0
+PL 0
+L 0
+ 0
+0
+#r#rR#rRPL#rRPL #rRPL 0
+RPL 0
+PL 0
+ 0
+0
+##r#rRPL #rRPL 0#rRPL 0
+rRPL 0
+RPL 0
+0
+
+#rRP#rRPL #rRPL 0#rRPL 0
+#rRPL L 0
+0
+
+0
+##rRPL#rRPL #rRPL #rRPL 0rRPL 0
+ 0
+0
+0
+
+#rR#rRPL#rR#rRPL #rRPL 0
+PL 0
+ 0
+PL 0
+0
+#rR##rRPL #rRPL #rRPL 0
+PL 0
+rRPL 0
+0
+0
+#r#rRPL #rRPL 0#rRPL 0
+RPL 0
+#rRPL 0
+
+0
+##rRP#rRPL #rRPL 0
+rRPL 0
+#rRPL L 0
+0
+0
+#rR#rRPL #rRPL #rRPL #rRPL 0
+PL 0
+0
+0
+0
+#rRP#rRP#rRPL#rRPL #rRPL 0
+L 0
+L 0
+ 0
+0
+##r#r#rRPL #rRPL 0rRPL 0
+RPL 0
+RPL 0
+0
+
+#r#rRS
+#rRS
+#rRS
+RS
+#r#rRS#rRS
+#sRA
+RS
+
+#rRS
+#rRS
+#rRS
+#r#rRS
+#rRS
+RS
+#rRS
+#rRS
+#rRS
+##rRS#rRS
+#rRS
+rRS
+
+#rRS
+#rRS
+#rRS
+#rRS
+##rsRA
+##rRS
+RS
+rRS
+#rRS#rRS
+#rRS
+
+##rRS
+rRS
+#rRS
+#r#r#rRS
+RS
+#rRSRS
+#sR
+A
+#rRS
+#rRS
+#rRS
+#rRS#r#rRS
+
+#rRS
+RS
+#rRS
+#rRS
+#rRS
+#rRS
+##rRS
+rRS
+#sRA
+#rRS
+#rR#rRS
+#rRS
+S
+#rRS
+#rRS
+#rRS
+#r#r#rRS#rRRS
+RS
+
+#rS
+RS
+#rRS
+#rRS
+#sRA#rRS
+
+#r#r#rRS
+RS
+RS
+#rRS
+#rRS
+#rRS
+##rRS
+rRS
+#r#rRS
+RS
+#sRA
+#rRS
+#rRS
+##rRS
+rRS
+#rRS#rRS
+
+#rRS
+#rRS#rRS
+
+#rRS
+#sRA
+#r#rRS
+#rRSRS
+
+#rRS
+#rRS
+#r#rRS
+#rRSRS
+
+##rRS
+#sRA
+rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rR#rRS
+#rRS
+S
+#rRS
+#rRS#r
+#rRS
+RS
+#sRA
+#rRS
+#r#rRS
+RS
+#rRS
+#rRS
+#rRS
+#rRS
+##rRS#rRS
+rRS
+
+#s#rRS
+RA
+#rRS
+#rRS
+#rRS
+#rRS
+#r#rRS
+RS
+#rRS
+#rRS#rRS
+#rRS
+
+#rR#sRA
+S
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS#rRS
+
+#sRA
+#rRS
+#rRS
+#rRS
+#r#rRS
+#rRS
+RS
+#r#r#rR#rRS
+RS
+RS
+S
+#sRA
+#rRS
+#rRS
+#rRS
+##rRS
+#rrRS
+RS
+#rRS
+#rRS
+#rRS
+#rRS
+#rR#sRA
+#rRS
+S
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+##rRPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+rRPL 1
+#rR#rRS
+#rRS
+#rRS
+#rRS
+S
+#r#rRS
+#rRS
+#rRS
+RS
+#sRA
+#rRS#rRS
+#rRS
+#rRS
+
+##rRS
+#rRS
+rRS
+#rRS
+##r#rRS#rRS
+rRS
+RS
+
+#rRS
+#r#rRS
+#rRS
+#rRS
+RS
+#sRA
+##r#rRS
+#rRS
+rRS
+RS
+#rRS#rRS
+#rRS
+#rRS
+
+##rRS
+#rRS
+#rRS
+rRS
+#rRS
+#r#rRS#rRS
+#rRS
+RS
+
+#sRA
+#rR#rRS
+#rRS
+#rRS
+S
+##rRS#rRS
+#rRS
+rRS
+
+#rRS
+#r#rR#rRS
+#rRS
+RS
+S
+#sRA
+#rR#rRS
+#rR#rRS
+S
+S
+#r#rRS
+#rRS
+#rRS
+RS
+#r#rRS#rRS
+#rRS
+#rRS
+RS
+
+#sRA
+#rRS#rRS
+#rRS
+#rRS
+
+##rR#rRS
+#rRS
+rRS
+S
+#r#rRS
+#rRS
+#rRS
+RS
+#rRS
+#sRA
+#r#rRS
+#rRS
+#rRS
+RS
+#rR#rRS
+#rRS
+#rRS
+S
+#rRS#rRS
+#rR#rRS
+#rRS
+
+S
+#sRA
+#r#rRS
+#rRS
+#rRS
+RS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS#rRS
+#r#rRS
+
+RS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#r#rR##rRS
+S
+RS
+rRS
+#rR#rRS
+#rRS
+#rRS
+S
+#rRS
+##rRS
+#rRS
+rRS
+#sR#rRS
+A
+#r#rRS
+#rRS
+#rRSRS
+
+#rRS
+#rRS
+#rRS
+#rRS
+#rR#rRS#r#rRS
+S
+
+#rRS
+RS
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#r#r#sRA
+#rRS
+#rRS
+RS
+RS
+##r#rRS
+#rRS
+rRS
+RS
+#rRS
+#rRS
+#rRS
+#rRS
+##rRS
+#rRS
+rRS
+#rRS
+#rRS
+#sRA
+#rRS#rRS
+#rRS
+#rRS
+
+#rR#rR#rRS
+#rRS
+S
+S
+#rR#rR#rRS
+#rRS
+S
+S
+#rRS
+###rRS
+#rRS
+rRS
+rRS
+#sRA
+#sRS
+##r#r#rRS
+#rRS
+#rRS
+rRS
+RS
+RS
+#sRA
+#rRA
+#sNS
+#rNS
+#sNA
+#L 114 1; red
+#rNA bbbb::212:7400:13b7:7f72
+#sRS
+#rR#rR#rRS
+#rRS
+#rRS
+S
+S
+#sRA
+#rRA
+#sNS
+#rNS
+#sNA
+#L 114 0; red
+#L 110 1; red
+#rNA bbbb::212:7400:16c0:6b6e
+c>114:20
+s>114:234,0,0,0|2,2
+#sRS
+#r#rRS
+#rRS
+#rRS
+#rRS
+RS
+#sRA
+#sRA
+c>#rRA
+110:20
+s>110:340,0,0,#s0|NS
+186,3
+#rNS
+#sNA
+#L 110 0; red
+#L 139 1; red
+#rNA bbbb::212:7400:16c0:5d8b
+#sRS
+#rRS#rRS
+#rRS
+#rRS
+#rRS
+
+#sRA
+#sRA
+#sRS
+#rRA
+#sNS
+#sRS
+#rNS
+#r#r#rRS#rRS
+#rRS
+RS
+RS
+
+#sRA
+#sNA
+#L 139 0; red
+#L 230 1; red
+#rNA bbbb#rRS
+::212:7400:16c0:69e6
+#sRA
+#rRA
+c>139:20
+s>139:138,0,0,0|2,2
+#sNS
+#rNS
+#sNA
+#L 230 0; red
+#L 104 1; red
+#rNA bbbb::212:7400:13b7:7568
+#r#rR#r#r#rRS
+RS
+S
+RS
+RS
+#sRA
+#sRA
+#rRA
+c>230:20
+s>230:175,0,0,0|98,3
+#sRS
+#rR#rRS
+#rRS
+#rRS
+S
+#sRA
+#sRA
+c>#sRS
+104:20
+s>104:268,0,0,0|2,2
+#rRA
+#sNS
+#sNS
+#rNS
+#rRA
+#sDAM
+#L 157 1; red
+#sNS
+#sRS
+#rR#rRS
+#rRS
+#rRS
+S
+#sRA
+#rRA
+#sNS
+##rRS#rRS
+#rRS
+rRS
+#rRS
+
+#sRA
+#sRA
+#rRA
+#rNS
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 104 0; red
+#L 230 1; red
+#sNS
+#rNS
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#sRS
+#sRS
+#rRA
+#r#rRS
+#rRS
+#rRS
+RS
+#sRA
+#sRA
+#sNS
+#rNS
+#sRS
+#rRS#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+
+##sRA
+sRA
+#sRA
+#sDAM
+#L 157 1; red
+#rRA
+#sNS
+#rNS
+#rDAC
+#sNA
+#L 157 0; red
+#L 31 1; red
+##sDAM
+rNA #L bbbb:31 0; red
+#:2L 12:157 1; red7400:
+146e:fe1f
+#rRA
+#sNS
+#rRA
+#sNS
+#rNS
+#rRA
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 230 0; red
+#L 110 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 7 1; red
+#rNA bbbb::212:7400:146e:f407
+#rNS
+#sDAM
+#L 7 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 110 0; red
+#L 110 1; red
+c>31:#21
+s>rDAC
+31:265,0,0,#s0|3,3NA
+#L
+ 157 0; red
+#L 121 1; red
+#rNA bbbb::212:7400:16c0:6979
+c>121:21
+s>121:266,0,0,0|148,2
+c>7:21
+s>7:182,0,0,0|4,3
+#rR#rRS
+#rRS
+S
+#sRA
+#rRS
+#rRS
+#sRA
+#r#sRA
+RS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sR#A
+#rRS
+rRS
+#rRS
+#sRA
+##sRA
+rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+#rRS
+#rRS
+#sRA#r
+#rRS
+RS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#r#rRSRS
+
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rR#rRSS
+
+#rRS
+##rRS
+#rRS
+sRA
+##sRA
+#sRA
+rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+##s#rRS
+rRS
+RA
+#sRA
+#rRS
+#rRS
+#rRS
+#r#sRA
+RS
+#sRA#rRS
+
+#rRS
+#rRS
+#rRS
+#sRA#rRS#rRS
+
+
+##sRA
+rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS#sRA
+
+#rRS
+#rRS
+#rRS
+#s#sRA
+RA
+#rRS
+#rRS
+#sRA
+#rRS
+##rRS
+rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS#sRA
+
+#rRS
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRS
+#rRS#rRS
+#rRS
+#rRS
+
+#rRS#sRA
+
+#sRA
+#sRA
+#sRA
+#rRA
+#sNS
+#rRA
+#sNS
+#rNS
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 110 0; red
+#L 230 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 2 1; red
+#rNA bbbb::212:7400:146e:f902
+c>2:21
+s>2:157,0,0,0|114,3
+#rRPL 0
+#rRPL 0
+#rRPL#r 0
+RPL 0
+#rRPL #rRPL 00
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0#rRPL 
+0
+#rR#rRPL 0
+PL 0
+#rRPL #rRPL 00
+
+#rRP#rRPL L 0
+0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rR#rRPL PL 0
+0
+#rRPL 0#rRPL 0
+
+#rRP#rL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#r 0
+RPL 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#r#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+RPL 0
+RPL 0
+#rR#rRPL #rRPL 0
+0
+PL 0
+#rRPL 0
+#rRPL 0
+##rRPL #rRPL #rRPL rRPL 0
+0
+0
+0
+#rRPL #rRPL #rRPL #rRPL 0
+0
+0
+0
+#rRPL 0
+#rRPL#rRP#rR#L 0
+ 0
+#rrRPL 0
+PL 0
+RPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL#rR#rRPL  0
+#rRPL 0
+PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0##r
+rRPL 0
+RPL 0
+#rRP#rRPL#rRPL L 0
+#rRPL 0 0
+0
+#rRPL 
+0
+#rRPL #rRPL#rRPL 0
+ 0
+#r0
+#rRPRPL 0
+##rRL 0
+##rRPL 0
+PL 0
+rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP#rR0
+#rRPL #rRPL 0
+L 0
+0
+PL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL #rRPL 00
+#rRPL 0
+0
+#rRPL#
+ 0
+#rRPrRPL 0
+#rRPL L 0
+0
+#rR##rRPrRPL 0
+PL 0
+#rRPLL 0
+#rRPL 0
+ 0
+##rRPL 0#rRPL rRPL 0
+
+0
+#rRP#rRPLL 0
+#rRPL #rRPL 0
+ 0
+#rRP#rRPL 0
+0
+L 0
+#rRPL #rRPL 0
+#rRP#rRPL 0
+L 0
+0
+#rR#rRPL #rRPL #rRPL PL 0
+0
+0
+#rRPL 0
+0
+#rR#rRPL#rPL 0
+ 0
+RPL 0
+##rRPL 0
+rRPL 0
+#rRP#rRPL #rRPL L 0
+0
+#r0
+#rRPL 0
+RPL 0
+##rRP#rRPL 0
+rRPL 0
+L 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL0
+#rRPL #rRPL  0
+0
+0
+#rRP##rL 0
+#rRP#rRPL rRPL 0
+RPL 0
+L 0
+0
+#rRPL 0
+#rRPL#rRPL#rR 0
+#rRPL PL 0
+ 0
+#rRPL 0
+0
+#rRP#rL 0
+RPL 0
+##rRPL rRPL 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+##rRPL rRPL 0
+#rRP0
+L 0
+#rRPL 0#rRP
+#r#rRPL#rRPLL 0
+RPL 0
+ 0
+ 0
+#rRPL 0
+#rR#rRPL #rRPL #rRPL PL 0
+#rRPL 0
+0
+#rRP0
+0
+L 0
+#rR#rRPL 0
+#rRPL 0
+#rPL 0
+RPL 0
+#rRPL 0
+##rRPL #rR#rRPL rRPL 0
+0
+0
+PL 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rR#rRPL #rRPL 0
+PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL #rRPL 0#rRPLL 0
+#rRP0
+
+ 0
+L 0
+#rRP#rRPL#rRPL#rRPL L 0
+ 0
+ 0
+0
+#rR#rRPL #rRPPL 0
+#rRPL 0
+0
+#rRPL L 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#r#rR#rRPL #rRPL 0
+#rRPL 0
+RPL 0
+PL 0
+0
+#r#rRP#rRPL#rRPL 0
+RPL 0
+L 0
+ 0
+#rRPL 0
+#sNS
+#rNS
+#r#rRPL#rRPL #rRPL 0#rRPL 0RPL 0
+ 0
+0
+
+
+#sNS
+#sDAM
+#L 121 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 230 0; red
+#L 110 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 95 1; red
+#rNA bbbb::212:7400:1466:655f
+#rR#rRPL #rRPL 0
+PL 0
+0
+#rRP#rRPL#rRPL #rRPL 0
+#rRPL 0
+L 0
+ 0
+0
+#sNS
+#rNS
+#sDAM
+#L 2 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#sNS
+#L 110 0; red
+#L 230 1; red
+#rDAC
+#rNS
+#sNA
+#L 157 0; red
+#L 73 1; red
+#sNA
+#L 230 0; red
+#L 31 1; red
+#rNA bbbb::212:7400:13b7:7049
+#rNA bbbb::212:7400:146e:fe1f
+#sDAM
+#L 73 0; red
+#L 157 1; red
+#sDAM
+#L 157 0; red
+#L 157 1; red
+##rRPL#rRPL rRPL 0
+ 0
+0
+#rRPL #rRPL 0
+0
+#rRPL #r#0
+RPL 0
+rRPL 0
+#rRPL 0#rRPL 
+#rRP0
+L 0
+#rRPL #rRPL 0
+#rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#r#rRPL 0
+#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#r#rRL 0
+RPL 0
+PL 0
+##rRPL 0
+#rRPLrRPL 0
+#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL #rR#r0
+PL 0
+RPL 0
+##rRPL 0rRPL 0
+
+#rRPL 0
+#rRPL#rR 0
+PL 0
+#rRPL #rRPL 00
+#rRPL
+ 0
+#rRPL#rRPL 0
+ 0
+##rRP#rRrRPL 0
+L 0
+PL 0
+#rRPL #rRPL 0
+0
+#rR#rPL 0
+RPL 0
+#rRPL 0
+c>73:30
+s#rRPL #r>73:0
+RPL 0
+262#r,0,0,RPL 0
+0|#r109,3
+RPL 0
+#sNS
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rNS
+#r#rRPL #rRPRPL 0
+L 0
+0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0#rRPL c>
+0
+95:#rRPL 0
+#rRPL30
+s> 0
+95:#rR367,#rRPL 0PL 0
+0,0,0|
+#rRPL 0
+3,4
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#r#rR#rRPL #rRPL 1
+#rRPL RPL 1
+PL 1
+1
+1
+#sRS
+#rR#rRS
+#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#rRS#s
+RA
+#sRA
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRPL #rRPL #rRPL 1
+#rRPL 1
+RPL 1
+1
+1
+#rR#r#rRS
+#rRS
+#rRS
+RS
+S
+#s#rRS
+RA
+#s#sRA
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+##s#sRA
+rRS
+RA
+#sRA
+#rR#rRS
+S
+#sRA
+#rRS#rR
+#sRA
+S
+#rRS
+#r#sRA
+#sRA
+RS
+#sRA
+#r#sRA
+RS
+#sRA
+#rRS
+#rRS
+##sRA
+#rRS
+rRS
+#rRS
+#rRS#sRA
+#sRA
+#sR
+#sRAA
+
+#sRA
+##rRS
+rRS
+#s#sR#rRS
+RA
+A
+##rRS
+rRS
+#sRA
+#sR#rRS
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#s#rRRA
+S
+#sRA
+#rRS
+##rRS
+#sRArRS
+
+#sRA
+#sRA
+#rRS
+###rrRS
+rRS
+RS
+##sRA
+sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sR#rRA
+S
+#rRS
+#r#rRS#RS
+
+sRA
+##sRA
+#rRSsRA
+
+#sRA
+#sRA#
+rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#rRS
+#sRA
+#sRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#rRS
+#sRA
+#s#sRA
+RA
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#r#r#rRP#rRPL RPL 1
+L 1
+RPL 1
+1
+#sNS
+#r#rRPL#rRPL #rRPL 1
+RPL 1
+ 1
+1
+#rRPL 2
+#rR#rRPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+PL 1
+#rRPL 2
+#rRP#rRP#rRPL #rRPL 1
+#rRPL 1
+L 1
+L 1
+1
+#rRPL 2
+#rRPL 2
+#r#rRPL#rRPL #rRPL #rRPL RPL 1
+ 1
+1
+1
+1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rR#rRPL#rRPL 0
+#rRPL 0
+PL 0
+ 0
+#r#rRPLRPL 0
+#rRPL 0
+#rRP 0
+L 0
+#rRPL #r0
+#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPLRPL 0
+ 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+##rRPrRPL 0
+L 0
+#rRPL 0#rR
+#rRPPL 0
+L 0
+##rRPL #rRPL 0
+0
+#rRPL rRPL 0
+0
+#rRPL ##rR0
+rRPL 0
+#rRPL 0PL 0
+
+#rRP#rRPLL 0
+ 0
+#rRPL #rRPL 0
+0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+##rRPL 0rRPL 0
+
+#rRPL#rRP 0
+L 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL#rRPL  0
+0
+##rRPL 0
+rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL#rRPL 0 0
+
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL #rRP#rRPL 0
+L 0
+0
+#rRPL 0
+##rRPL 0
+#rRPL 0rRPL 0
+
+#rRPL 0#rRP
+L 0
+#rRPL #rRPL #rRPL #rRPL 0
+0
+0
+0
+#rRPL#rRPL#rRPL 0
+ 0
+ 0
+#rRPL 0
+#rRP#rL 0
+RPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rR#rRPL PL 0
+#rRPL0
+ 0
+#rRPL 2
+#sNS
+#rNS
+#sNA
+#L 31 0; red
+#L 94 1; red
+#rNA bbbb::212:7400:1465:f55e
+#sNS
+#rNS
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 94 0; red
+#L 230 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 95 1; red
+#rNA bbbb::212:7400:1466:655f
+#sDAM
+#L 95 0; red
+#L 157 1; red
+#sRS
+#rRS
+#sRA
+c>94:40
+s>94:302,0,0,0|2,4
+##rRPL#rRPL #rRPL 1#rRPL 1rRPL 1
+ 1
+1
+
+
+##rRP#rRPL#rRPL #rRPL rRPL 1
+L 1
+ 1
+1
+1
+#r#rRP#rRPL #rRPL 1#rRPL 1RPL 1
+L 1
+1
+
+
+#sNS
+#rNS
+#sNA
+#L 230 0; red
+#L 2 1; red
+#rNA bbbb::212:7400:146e:f902
+#r#r#rRP#rRPL RPL 0
+RPL 0
+L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL
+ 0
+##rRPL rRPL 0
+0
+#rR#rRPPL 0
+L 0
+#rRP#rRPL 0
+L 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rR
+PL 0
+#rRPL #rRP#rRP0
+L 0
+L 0
+#rRPL 0
+#rRPL #rRPL 00
+#rR
+PL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL #rRPL 00
+
+#rRPL #rRPL 0
+0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rR#rRPL L 0
+PL 0
+0
+#rRPL #rRPL 0#r0
+
+RPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRP#rRPL 0
+L 0
+#rRPL#rRPL 0 0
+
+#rRPL 0
+#rRPL #rR0
+#rRPL #rRPL 0
+PL 0
+0
+#rRPL 0
+#rR#rRPL 0#rRPL 0PL 0
+
+
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#r#r#rRS
+#rRS
+RS
+RS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sR#sRA
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#s#RA
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+##rRS
+sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+##r#r#rR#rRPL 1
+RPL 1
+rRPL 1
+PL 1
+RPL 1
+##rRPL#rRP#rRPL#rRPL 0
+rRPL 0
+ 0
+L 0
+ 0
+#rRP#rRPL #rRP#rRPL L 0
+0
+0
+L 0
+#rRPL 0
+#rRPL#rR 0
+PL 0
+#rRPL 0#rRPL 0
+
+#rRPL#rRPL  0
+#rRPL 0
+0
+#rRPL#rRPL #rRPL 0
+ 0
+0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL#rRPL 0
+0
+ 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rR#rRPL PL 0
+0
+#rRPL #rRPL ##rRPL 0#rRPL rRPL 0
+0
+0
+
+0
+#rRPL #rRPL#rRPL 0
+0
+ 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#0
+rRPL 0
+#rRPL 0
+#rRPL #r#rRPL 0
+0
+RPL 0
+#rRPL #rRPL0
+#rRPL 0 0
+
+#rRPL 0
+#rRPL 0#rRPL 1
+
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+#rRPL 0
+0
+#rRPL #rRPL0
+#rRP 0
+L 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRP#rRPL#rRPL L 0
+ 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0#rRPL 0
+
+#rR#rRPPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRP
+#rRPL #rRPLL 0
+0
+ 0
+#rRPL 0
+#rRPL #rR#rRPL 0
+PL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #r0
+RPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rR0
+#rRPL PL 0
+0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL #rRPL 0
+0
+#rRPL 0#rRPL 0
+#rRPL 0
+#rRPL 
+0
+#rRP#rR#rRPL #rRPL#rRPL 1
+L 1
+PL 1
+ 1
+1
+##rRPL#rRPL #rRPL rRPL 1
+#rRPL 1
+ 1
+1
+1
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#rRA
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS#s#sRA
+
+RA
+##sRA
+rRS
+#sRA#sRA
+
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#rRS
+S
+#sR##sRA
+#sRA
+A
+rRS
+#rRS
+#sRA
+#sR#rRS
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#rRS
+#S
+sRA
+#sR#rRS
+A
+#rRS
+#sRA
+#rR#s#sS
+RA
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+##rRS#sRA
+rRS
+
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##rRS
+sRA
+#rRS#rRS
+
+#sRA
+#sRA##sRA
+#rRS
+
+rRS
+#sRA
+##rRS
+sRA
+#sRA
+#rRS#rRS
+#rRS
+
+#sRA
+#sR#rRS
+#sRA
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#rRS
+#sRA
+#rR#rRS#sS
+#sRA
+
+RA
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRP#rRPL RPL 1
+L 1
+1
+##r#rRP#rRPLrRPL 0
+RPL 0
+L 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rR#rRPL #rRPL PL 0
+0
+0
+#r#rRPL 0
+RPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#r#rRPRPL 0
+L 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL #rRPL 0
+0
+#r#rRRPL 0
+PL 0
+##rRPL rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL#rRPL 0
+ 0
+#rR#rRPL 0PL 0
+
+#rRPL 0
+#r#rRPL #rRPL0
+RPL 0
+#rRPL  0
+0
+#rRPL#rRPL 0#rRPL  0
+
+0
+#rRPL 0
+#rR#PL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRP#rRPL  0
+L 0
+0
+#rRPL#rRPL #rRPL #rRPL 0 0
+0
+
+0
+#rR#rRPL 0
+#rRPL 0
+PL 0
+#rRPL #rRPL#rRPL 0
+ 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRP#rR#rRL 0
+PL 0
+PL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL #rRPL 0
+0
+#rRPL 0
+#r#rRPL 0#rRPL 0
+RPL 0
+
+#rRPL 0
+#rRP#rRPL #rRL 0
+0
+#rPL 0
+RPL 0
+##rRPL 0rRPL 0
+
+#rRPL 0
+#rRPL# 0
+rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#r#r#rRPL #rRPL 1
+#rRPL 1
+RPL 1
+RPL 1
+1
+#sRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRPL 2
+#rRPL 2
+#r##rRS
+#rRS
+rRS
+RS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#r#sRA
+RS
+#sRA#
+rRS
+#sRA
+#sRA
+#rRS
+#r##sRA
+RS
+rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rR#rS
+RS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sR#sRA
+A
+#rRS
+#rRS
+#rRS
+##sRA
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##rRS
+rRS
+#sRA
+##sRA
+sRA
+#rRS
+#rRS
+#s#rRS
+#rRS
+RA
+#sRA
+#sRA#
+sRA
+#rRPL 2
+#rRPL#rRPL #rRPL 1 1
+1
+
+##r#rRP#rRPL #rRPL 1rRPL 1
+RPL 1
+L 1
+1
+
+#rRPL 2
+#rRPL 2
+##rR#rRPL #rRPL rRPL 1
+PL 1
+1
+1
+#rRPL 2
+#r#rR#rRPL #rRPL 1RPL 1
+PL 1
+1
+
+#rRPL 1
+#r#rR#rRS#rRS
+S
+RS
+
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#r#rRS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#s#sRA
+#rRS
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#rRS
+#sRA
+RA
+#sRA
+#sRA
+#rR#rRSS
+
+#rRS
+##sRA
+#sRA
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+##sRA
+rRS
+#sRA
+#rRPL 2
+#rRPL 2
+##rRS
+#rRS
+#rRS
+rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#sR
+A
+#sRA
+#sRA
+#rRS
+#rRS
+##sRsRA
+A
+##rRS
+rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRPL 1#
+rRS
+#sRA
+#rRS
+##rRS
+sRA
+#sR#sA
+RA
+#rRS
+#rRS
+#sRA#
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRARA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA#sRA
+#sRA
+
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRPL 2
+#rR#rRPL #rRPL #rRPL #rRPL PL 1
+1
+1
+1
+1
+#rR#rR#rRP#rRPL PL 1
+PL 1
+L 1
+1
+#r#rRPL#rRPL #rRPL #rRPL 1
+RPL 1
+ 1
+1
+1
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#rRPL#rRPL #rRPL #rRPL 1#rRPL 11
+ 1
+1
+
+
+#r#rRP#rRP#rRPL 1
+RPL 1
+L 1
+L 1
+##rRS#rRS#rRS
+#rRS
+rRS
+
+
+#s#sRA
+#sR#sRA
+RA
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+#sRA
+#sRA
+##rRS
+rRS
+#rRS
+#rRS#sRA
+#s
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rR#sRA
+S
+#sRA
+##sRA
+rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sR#sA
+A
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRPL#rR#rRPL 0RPL 0
+PL 0
+ 0
+
+#rRP#rRPL#rRPL #rRPL L 0
+ 0
+0
+0
+#rRPL #rRP#rRPL0
+L 0
+#rRPL  0
+#rRPL 0
+0
+###rRPL rRPL 0
+#rRPLrRPL 0
+#rR0
+ 0
+PL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rRPL#rRP 0
+L 0
+#rRPL 0
+#rRPL #rRPL 00
+#rR
+#rRPL 0
+PL 0
+#rRPL #rRPL #rRPL 00
+0
+
+##rRPL rRPL 0
+0
+#rRPL##rRP#rRPL 0
+ 0
+#rRPrRPL 0
+L 0
+L 0
+#rRPL #rRPL 00
+#rRPL 0
+#rRPL
+ 0
+#rRPL 0
+#rRPL 0#rRPL #rRPL 0
+
+0
+#rRPL 0
+#rRPL 0
+##rRPL #rrRPL 0
+0
+#rRPLRPL 0
+ 0
+#r#rRPL #rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0#0
+
+rRPL 0
+#rRPL 0
+#r#rRPL #rRPL RPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0PL 0
+#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRP#rRPL #rRPL #rRPL 0L 0
+0
+0
+
+#rRPL 0
+#r#rRPL 0RPL 0
+#rRPL 
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL#rRPL 0 0
+
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL#rRPL #rR 0
+0
+#rRPL PL 0
+#rRPL 0
+0
+#rRPL 0#r
+RPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0L 0
+
+#rRP#rRPL #L 0
+0
+rRPL 0
+#rRPL 0#r
+RPL 0
+#rRPL 0#rRP
+#rRPL L 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 2
+##rRS#rRS#rRS
+#rRS
+rRS
+
+
+#s#sRA
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#r#sRA
+RS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+#sRA
+
+#rRS
+#rRS
+##sRA
+#sRA
+rRS
+#r#sRA
+RS
+#sRA
+#rRS
+#r#sRRS
+#rRS
+A
+#sRA
+#sRA#rR
+S
+#rRS
+#sRA
+#sRA#r
+RS
+#rRS
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#rR#sRA
+#rRS
+S
+#sRA
+#sRA
+##rRS
+rRS
+#sRA
+#rRS
+#sRA
+#rR#sRA
+S
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#sR#rRS
+A
+#sRA#rR
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+#s#r#sRA
+RA
+RS
+#rR#sRA
+S
+#rR#S
+sRA
+#rR#sRA
+S
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#r#s#sRA
+#rRRS
+RA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 2
+##rRPL #rRPL rRPL 1
+1
+1
+#rRPL 1
+#rR#rRPL #rRPL #rRPL #rRPL 1PL 1
+1
+1
+1
+
+##r#r##rRPL 1
+rRPL 1
+rRPL 1
+RPL 1
+RPL 1
+###rR#rRPL rRPL 1
+rRPL 1
+PL 1
+1
+#rRP#rRPL #rRPL #rRPL 1
+L 1
+1
+1
+#r#rR#rRPL#rRPL 0
+PL 0
+RPL 0
+ 0
+#rRPL 0
+##rRPL 0rRPL 0
+#rRPL 0
+
+##rRPL 0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRP0
+#rRL 0
+PL 0
+#rRPL 0
+#r#rRPL #rRPL 0RPL 0
+0
+
+#rRPL 0
+#rRPL#r 0
+RPL 0
+#rR#PL 0
+rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#r#RPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRP#rRP#r#rRL 0
+#rRPL L 0
+RPL 0
+PL 0
+0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 00
+
+#rRPL 0
+##rRrRPL 0
+#rRPL 0
+PL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0#rRPL 0
+#rRPL
+ 0
+#rRPL 0
+#r#rRPL 0
+#rRPL RPL 0
+#0
+rRPL 0
+#rRP#L 0
+rRPL 0
+#rRPL 0#r
+RPL 0
+#rRPL 0
+#rRPL #rRPL #0
+#rRP0
+rRPL 0
+L 0
+#rRPL #rR#r0
+PL 0
+RPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+##rRP#rRPL #rRPL #rRPL 1rRPL 1
+L 1
+1
+1
+
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#r#rRPL #rRPL RPL 0
+RPL 0
+0
+0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#r#rRPL 0
+#rRPL RPL 0
+#r0
+RPL 0
+#rR#rRPPL 0
+#rL 0
+#rRPL 0RPL 0
+#rRPL 0
+
+#r#rRPL RPL 0
+#rR0
+#rRPL PL 0
+0
+#r#rRPL RPL 0
+#rR#r0
+#rRPL 0
+RPL 0
+PL 0
+#rRPL #rRP0
+#rRPL 0
+L 0
+#rRP#rRPLL 0
+ 0
+#rRPL #r#rRP0
+RPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+##rRrRPL 0
+PL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRP0
+L 0
+#rRP#rR#rRL 0
+PL 0
+PL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#r#rRPLRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL#r 0
+#rRPLRPL 0
+ 0
+#rRPL 0#rRPL #rRPL 
+0
+0
+#rRPL #0
+rRPL 0
+#rR#rR#rRPL 0
+PL 0
+PL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+##rRPL 0rRPL 0
+#rRPL 0
+
+#rRPL 0
+#r#rRPL 0RPL 0
+
+#rRPL#rRPL  0
+#rRPL 00
+
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#r#rRRPL 0
+PL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL#rRPL 0 0
+
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rR#rRPRPL 1
+PL 1
+L 1
+#rRPL 1
+##rRPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+rRPL 1
+#rRP#rRPL#rRPLL 1
+ 1
+ 1
+#rRPL 1
+##r#rRPL #rRPL #rRPL 1
+rRPL 1
+RPL 1
+1
+1
+#rRPL#rRPL#rRPL #rRPL 1
+#rRPL 1
+ 1
+ 1
+1
+#rRP#rRPL#rRPL #rRPL 1
+#rRPL 1
+ 1
+L 1
+1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#r#rRS
+#rRS
+#rRS
+RS
+RS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rR#sRA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+#rRS
+
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sR#rRS
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#rRS
+#rRS
+#sRA
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL#rRPL#rRPL #rRPL #rRPL  1
+ 1
+1
+1
+1
+###rR#rR#rRPL 1rRPL 1
+rRPL 1
+PL 1
+PL 1
+
+#r#rRPL #rRPL #rRPL 1
+RPL 1
+1
+1
+#rRPL 1
+#rRP#rR#rRPL #rRPL 1
+#rRPL 1
+PL 1
+L 1
+1
+#r#rR#rRPL 1
+#rRPL 1
+RPL 1
+PL 1
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+###sRAsRA
+
+sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+##rRS
+sRA
+#sRA
+#r#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rR#sRA
+S
+#rR#sRA
+S
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#sRA
+#sRA
+S
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL#rRPL #rRPL #rRPL 1
+ 1
+1
+1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRP#rRPLL 0
+ 0
+#rRPL #rRPL 0
+0
+#rRP#L 0
+rRPL 0
+#rRPL 0
+#rRPL 0#r
+RPL 0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL0
+ 0
+#r#rRRPL 0
+PL 0
+#r#rRPL 0
+RPL 0
+#rRPL #rRPL0
+ 0
+#r#rRPRPL 0
+L 0
+#rR#rRPL 0
+PL 0
+#rRPL #rRPL0
+ 0
+##rRPrRPL 0
+L 0
+#rR#rRPL 0PL 0
+
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #0
+rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#r#rRPL #rRPL #rRPL 0
+#rRPL 0
+#rRPL 0RPL 0
+0
+0
+
+#rRPL #rRPL #rRPL 00
+#r#rRPL 0
+
+RPL 0
+#rRP0
+L 0
+#rRPL #rRPL #rRPL 00
+0
+
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRP#rRPL 0
+0
+L 0
+#rRPL #rRPL #rRPL0
+0
+ 0
+#rRPL 0#rRPL 0#rRPL 0
+
+#rRPL 0#rRPL 
+
+0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0#rRPL #rRPL 0
+0
+
+##rRPL #rRPL rRPL 0
+0
+0
+#rRPL 0#rRPL #rRPL 0
+0
+
+#rRPL #rRPL 0
+#rRPL 0#rRPL 0
+#rRPL 0
+
+#rRPL 00
+
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL #rRPL 0
+RPL 0
+0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#r#rRRPL 0
+PL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL# 0
+rRPL 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rRPL 0
+#rRPL#rRPL 0 0
+#
+rRPL 0
+#rRPL 0#rRPL#rRPL
+ 0
+ 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0##rRPL 
+#rRPL rRPL 0
+#rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0#rRP#rR
+#rRPL L 0
+PL 0
+0
+#rRPL 0
+#rR##rRPL 0#rRPL PL 0
+#rRPL rRPL 0
+
+0
+0
+#rRPL 0
+#rRPL #rRPL ##rRPL 0
+#rRPL 00
+rRPL 0
+0
+
+#rRPL #rRP#rR#rRPL 0
+L 0
+#rRPL PL 0
+0
+#rRPL 00
+
+##r#rRPL rRPL 0
+RPL 0
+0
+#rRPL 0
+#rRPL #rRPL 1
+#rRPL 1
+#rRPL 1
+1
+#r#rRPL#rRPL 1
+#rRPL 1#rRPL 1
+RPL 1
+ 1
+
+#r#rR#rRPL #rRPL #rRPL RPL 1
+PL 1
+1
+1
+1
+###rRPLrRPL 0
+rRPL 0
+ 0
+#rRP#rRP#rRPL #rRPL #rRPL L 1
+L 1
+1
+1
+1
+##rRP#rRPL#rRPL rRPL 1
+L 1
+ 1
+1
+#rR#rRPL#rRPL #rRPL PL 0
+ 0
+0
+0
+#rRP#rRPL 0#rRPL 0
+
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL0
+#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL  0
+#r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0#rRPL  0
+
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL #rRPL  0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r#rRPL #rRPL 0
+RPL 0
+0
+0
+#rRPL #rRP0
+L 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0PL 0
+
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRP#rR0
+L 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+##rRPL rRPL 0
+0
+#sRS
+#r#r#rRS
+#rRS
+RS
+RS
+#sRA
+#sRA
+#sRA
+#sRA
+#r#rRPL #rRPL #rRPL RPL 1
+1
+1
+1
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#s#rRSRA
+
+#sRA
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rR#rRPL #rRPL 1#rRPRPL 1
+PL 1
+1
+
+L 1
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#s#rRS
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+##rRS
+#rRSsRA
+
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+##sRA
+#sRrRS
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#r#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#r#sRA
+RS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS#sRA
+
+#rRS
+#sRA
+##rRS
+#sRA
+rRS
+#s#sRA
+RA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+##rRS#sRA
+#sRA
+sRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#rR#sRA
+#sRA
+S
+##rRS
+#ssRA
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rR##rRS
+S
+sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#r#rRPL PL 1
+RPL 1
+1
+##rRPL #rRPL #rRPL 1#rRPL 1
+rRPL 1
+1
+1
+
+#rRPL #rRPL 1
+#rRPL 1
+1
+#rRPL 2
+#rRPL 2
+#r#rRPL #rRPL #rRPL 1
+RPL 1
+1
+1
+#rRPL 1
+#rRPL #rRPL #rRPL 0
+#rRPL 00
+0
+
+#rRPL 0
+#rRPL#rRPL#rRPL 0
+ 0
+ 0
+#rRPL 0
+#rRPL #rR0
+#rRPL 0
+PL 0
+#rRPL 0#rRP
+L 0
+#rRPL 0
+#rRPL 0#rRPL 
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPLRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+#rRPL 
+0
+#rRPL 0
+#rRP#rRL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRP#rRL 0
+PL 0
+#rRPL 0
+#rR#PL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0RPL 0
+
+#rRPL #rRPL 0
+0
+#rRPL 0
+##rRPL 0#rRPL 0
+rRPL 0
+
+#rRPL 0
+#rRPL#rRP#rRPL 0
+ 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL #rRPL #rRPL #rRPL 11
+1
+1
+
+#rRPL 2
+#rRPL 2
+#r#rRPL 1
+#rRPL 1
+#rRPL 1
+RPL 1
+#rRPL 1
+#rR#rRPL #rRPL #rRPL 1
+#rRPL 1
+PL 1
+1
+1
+#rR#rRPL#rRPL #rRPL #rRPL 1
+PL 1
+ 1
+1
+1
+#rRPL 2
+#rRPL 2
+#rRPL #rRPL #rRPL 0#rRPL 00
+0
+
+
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRP#rRPL 0
+#rRPL #rRPL L 0
+0
+0
+#rRPL #rR0
+#rRPL 0
+PL 0
+#rRPL 0
+#rRPL##rR 0
+rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRP#L 0
+rRPL 0
+#rRPL 0#rRP
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL RPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0#rR0
+
+PL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0 0
+
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rR#rRPL PL 0
+#rRPL 0
+#rR0
+PL 0
+#rRPL #rRPL 0
+0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#rRPL 0
+0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0#rRPL 0
+
+ 0
+#rRP#rRL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL#rRPL 0
+ 0
+0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#r#rRS
+#rRS
+RS
+#rRS
+#s#RA
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#s##rRRA
+rRS
+S
+#sR#sRA
+A
+#rRS
+#rRS
+#rRS
+#sRA
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+
+#rR#sRA
+S
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+##r#rRP#rRPL rRPL 1
+#rRPL 1
+RPL 1
+L 1
+1
+#rRPL 0#rRPL 0#rRPL 0#rRPL 0
+#rRPL 0
+
+
+
+#r#rRPL 0
+#rRRPL 0
+#rRPL 0PL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL #rRPL 00
+0
+
+#rRPL 0
+#r#RPL 0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#r#rRPL 0RPL 0
+
+#rRPL#rRP 0
+#L 0
+rRPL 0
+#rRPL 0
+#r#rRPL #rRP#r0
+RPL 0
+L 0
+RPL 0
+#rRPL 0
+#rRPL#rRPL #rR 0
+#rRPL 00
+PL 0
+
+#rRPL 0
+##rRPL rRPL 0
+#rR0
+#rRPL 0
+#rRPL PL 0
+0
+#rRPL 0
+#rR#rRPPL 0
+#L 0
+#rRPL rRPL 0
+0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL#rRPL  0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP#rRPL 0
+0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL ##rRPL 0
+rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#r#rRPL 0RPL 0
+
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL #r0
+RPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPrRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+#rRP#rPL 0
+L 0
+RPL 0
+##rR#rRP#rRPL #rRPL 1rRPL 1
+PL 1
+L 1
+1
+
+#rRP#rRPL 1
+#rRPL 1#rRPL 1
+L 1
+
+##rR#rR#rRS
+#rRS
+rRS
+S
+S
+#rRS
+#sRA
+##sRA
+sRA
+#sRA
+#sRA
+#sRA
+#rRS#rR
+S
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#s#rRS
+S
+#sRARA
+#rRS
+
+#sRA#sRA
+#
+sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#rRS
+#S
+sRA
+#s#r#sRARA
+#sRRS
+
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#sRS
+A
+##rRPL 1rRS
+
+#sRA
+#s#rRA
+RS
+#sRA
+#rRPL 1
+##rRS
+#rRS
+#rRrRS
+S
+#sR#sRA
+#sRA
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#rRRA
+S
+#sRA#sRA
+#sR#rRS
+
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#rS
+#sRS
+RA
+#sRA#sRA
+#rRS
+#s
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRP#rRPL #rRPL 1#rRPL 1
+#rRPL 1L 1
+1
+
+
+#rRP#rRPL#rRPL 0L 0
+ 0
+
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL #rRP0
+L 0
+#rR#rRPPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP#rRPL0
+L 0
+ 0
+#rRPL 0
+#rRPL#rRPL  0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#r
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL#rRPL 0
+ 0
+ 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRP#rRPL 0
+rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#r#r#rRPL RPL 0
+RPL 0
+0
+#rRPL 0
+#rRP#rRPL L 0
+##rR0
+rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRP#rRPL#rRPL #rRPL 1#rRPL 1 1
+L 1
+1
+
+
+#rR#rRPL 1
+#rRPL 1
+#rRPL 1
+PL 1
+##rRP#rRPL#rRPL 1rRPL 1
+L 1
+ 1
+
+##rR#rRP#rRPL#rRPrRPL 1
+PL 1
+L 1
+L 1
+ 1
+##rR#rR#rRPL #rRPL rRPL 1
+PL 1
+PL 1
+1
+1
+#rR#rRS#rRS
+#rRS
+S
+
+#sRA
+#sRA#sRA
+#
+sRA
+#rR#rRS
+S
+#rRS
+##sRAsRA
+
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#sRA
+S
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#sRA
+A
+#r#rRRS
+S
+##sRA
+sRA
+#rRS
+#rRS
+#sRA
+#sRA
+##rRrRS
+S
+#rRS
+#sRA
+#sRA
+#sRA
+##rRS
+#rRS
+rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+##rR#rRS
+rRS
+#rRS
+S
+#sR#A
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#rRS
+#sRA
+#r#sRA
+RS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#rRS
+##rRS
+rRS
+#sRA
+#sRA
+##sRAsRA
+
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+#r
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL 2
+####rRPL rRPL 1
+rRPL 1
+rRPL 1
+1
+#rRPL 1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rR#rRP#rRPL #rRPL 1PL 1
+L 1
+1
+
+##rR#rR#rRS
+#rRS
+rRS
+S
+S
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+##sRA
+#ssRA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA
+#rRS
+#rRS
+##rRS
+sRA
+#rRS
+#rR#sRAS
+#sR
+#sRA
+A
+#sRA
+#rRS
+#rRS
+#r#rRS
+#sRA
+#rRS
+RS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#s#sRA
+RA
+#sRA
+#rRP#rRPL #rRPL 1
+L 1
+1
+##rR#rRPL #rRPL 1
+rRPL 1
+PL 1
+1
+#rRPL 1
+##rRP#rRPL #rRPL rRPL 1
+L 1
+1
+1
+#rRPL 2
+#r#rRP#rRPL #rRPL 0#rRPL 0RPL 0
+L 0
+0
+
+
+#rRPL #rRPL 0#rRPL 00
+
+
+#rRPL #rRPL 00
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r#r0
+RPL 0
+RPL 0
+#rRPL#rRPL #rRPL  0
+0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL #rRPL 0
+0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL#rR
+ 0
+PL 0
+##rRPL #rRPL 0
+rRPL 0
+0
+#rRPL #rRPL 00
+
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL #rRP0
+0
+L 0
+#r#rRPRPL 0
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+#rR0
+PL 0
+#rRPL 0#r
+RPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0#rRPL L 0
+
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+##rRPL #rRPL 0
+rRPL 0
+#rR0
+#rRPLPL 0
+ 0
+#rRPL #rR#rRPL 0
+#rRPL 00
+PL 0
+
+#rRP#rRPL 0
+#rRL 0
+PL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+#rRPL 0
+
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 00
+
+#rRPL 0
+#r##rRPL 0
+#rRPL 0
+RPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#r#rRPL RPL 0
+#rR0
+PL 0
+##rRPL 0#rRPL rRPL 0
+
+0
+#rRPL 0
+#rRPL #0
+#rRPLrRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+##rRP#rRPL 0
+L 0
+rRPL 0
+##rRPL 0rRPL 0
+#rR#rRPL #rRPL 
+PL 0
+0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+#rRPLL 0
+ 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+##r#rRS
+#rRS
+#rRS
+rRS
+RS
+#sRA
+#sRA
+#sRA#sRA
+#sRA
+
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#r#rRS
+RS
+#rRS
+##sRA
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#sRA
+
+#rRS
+#sRA
+#rRS
+#sR#rRA
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#r#sR#rRS
+RS
+A
+#sRA
+#sRA#r
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#rRS
+
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+##sRA
+rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL #rRPL 1#rRPL 11
+
+
+#r#rRPL #rRPL RPL 1
+1
+1
+#rR#rRPL#rRP#rRPL 1#rRPL 1
+PL 1
+L 1
+ 1
+
+#r#rRPL #rRPL #rRPL RPL 1
+1
+1
+1
+###r#rRPL rRPL 1
+#rRPL 1
+rRPL 1
+RPL 1
+1
+#rR#r#rRPL#rRPL #rRPL RPL 1
+PL 1
+ 1
+1
+1
+#rRP#rRP#rRPL #rRPL L 0
+L 0
+0
+0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL# 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPPL 0
+#rRPL 0
+L 0
+#rRPL#rRPL 0
+#rRPL 0
+ 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 00
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#r0
+
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#L 0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL#rRPL  0
+0
+#rRPL #rRPL#rRPL0
+#rRPL  0
+ 0
+0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rR#rR0
+PL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#rRPL 0
+0
+
+#rRPL 0
+#rRPL#rR 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rR#rPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rRPL 0
+#rRPL 0
+#rRPL 0
+RPL 0
+#rRPL 0
+#rRP#rRPL 0
+#rRPLL 0
+#rRPL  0
+#rRPL 0
+0
+#rRPL 0
+#rR#rRPL #rRPL 0
+#rRPL 0
+#rRPL 0
+PL 0
+0
+#rRPL#rR#rRPL 0
+PL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rR#rRPL #rRL 0
+PL 0
+PL 0
+#rR0
+PL 0
+#rR#rRPL#PL 0
+ 0
+#rRPL rRPL 0
+0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0##rRPL 
+rRPL 0
+0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#r#
+RPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#rRPL 0
+
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL 0
+#rRPL #rRP0
+#rRPL 0
+#rRL 0
+PL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#rR0
+
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+##rRPLrRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0#rRPL 0
+#
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRP#rRPL #rRPL #rRPL 1#rRPL 1
+L 1
+1
+1
+
+#rRPL #rRPL #rRPL 1
+#rRPL 1
+1
+1
+#rR#rRS
+S
+##sRAsRA
+
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+##sRA
+rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#rRPL #rRPL #rRPL 1
+RPL 1
+1
+1
+#rRP#rRPL#rRPL #rRPL 1
+#rRPL 1
+L 1
+ 1
+1
+#rRP#rRPL #rRPL 1
+#rRPL L 1
+1
+1
+#rRPL#rRPL #rRPL#rRPL  1
+1
+ 1
+1
+#rRPL 2
+#rR#r#rRS
+#rRS
+#rRS
+RS
+S
+##sRA
+sRA
+#sRA
+#sRA
+#sRA
+#rR#S
+rRS
+#sRA
+#rRS
+##sRA
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#r#sRRS
+A
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rR#rRS
+#rS
+RS
+#s#sRARA
+#sRA
+
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sR#rRS
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+##sRA
+rRS
+#sR#s#A
+RA
+sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rRPL #rRPL 1#rRPL 1
+RPL 1
+1
+
+#r#r#rRPL #rRPL 1#rRPL 1
+RPL 1
+RPL 1
+1
+
+##r#rRPL #rRPL #rRPL 1
+rRPL 1
+RPL 1
+1
+1
+##rR#rRP#rRPL 1rRPL 1
+#rRPL 1
+PL 1
+L 1
+
+#r#rRPL #rRPL #rRPL 1
+RPL 1
+1
+1
+#rRPL 2
+#rRPL 2
+#rR#rR#rR#rRS
+S
+S
+S
+#sRA
+#sRA#sRA
+#sRA
+
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#r#sRA
+RS
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+##sRA
+#sRA
+#rRS
+sRA
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+##rRS
+sRA
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS
+#rR#sRA
+#S
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#s#sRA
+RA
+#rRS
+#rR#sS
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL #rRPL 0
+0
+##rRPLrRPL 0
+ 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL# 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0#rRPL
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL#rRPL 0#rRPL 0#rRPL 0
+ 0
+0
+
+
+#rRPL 0
+#rRP#rL 0
+#rRPL RPL 0
+#rRPL #r0
+0
+RPL 0
+#rRPL 0
+#r#RPL 0
+rRPL 0
+#r#rRPL RPL 0
+0
+#rR#rRPL 0PL 0
+#
+#rRPL rRPL 0
+0
+#rRPL#rRPL  0
+0
+##rRP#rRPrRPL 0
+L 0
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL #r#rRPL#rRPL 0
+#rRPL 0
+RPL 0
+ 0
+0
+#rRPL 0
+#r#rRPL #rRPL#rRPRPL 0
+#rRPL  0
+0
+L 0
+0
+##rR#rRPL rRPL 0
+#rRPL 0
+#rRPL 0
+PL 0
+0
+#rRPL 0
+#rR#rRPL PL 0
+#rRPL 0
+#rRPL 0
+0
+#rRPL #rR#rRPL#rRPL 0
+0
+PL 0
+# 0
+rRPL 0
+#rRPL 0
+#r#rR#rRPL 0
+RPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#r#rRP#rRPL RPL 0
+L 0
+0
+#rRPL 0#
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0#rRPL #rRPL
+0
+ 0
+#rRP#rRPLL 0
+ 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rR0
+#rRPL PL 0
+#rRPL 0
+0
+#rRPL#rRPL  0
+0
+#rRPL #rRPL0
+ 0
+#rRPL 0#rRPL #
+#rRPL 0
+rRPL 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL#rRPL #rRPL  0
+0
+0
+#rRPL 0#rRP#rRPL 0
+L 0
+
+#rRPL #rRPL0
+ 0
+#rRPL #rRPL #r0
+#r0
+RPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+0
+#rRPL 0
+#rRPL 0#rRPL #rRPL 
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0##
+rRPL 0
+rRPL 0
+#rRPL #rRP0
+#rL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRP#rRPL #rRPL 1#rRPL 1rRPL 1
+L 1
+1
+
+
+##rR#rRPL #rRPL 1#rRPL 1rRPL 1
+PL 1
+1
+
+
+###rRP#rRPLrRPL 1
+L 1
+rRPL 1
+ 1
+#rRPL #rRPL 1
+1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+#rRP#rRP#rR#rRPL #rRPL 1
+PL 1
+L 1
+L 1
+1
+#rR#rR#rRPL #rRPL 1PL 1
+PL 1
+1
+
+##rR#rRPL #rRPL 0
+rRPL 0
+PL 0
+0
+#rR#rR#rRPL #rRPL 0
+PL 0
+PL 0
+0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+#rRPL 0
+0
+#rRPL 0
+##rRPLrRPL 0
+#rR 0
+PL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rR#rRPL#rRPPL 0
+ 0
+L 0
+#rRPL 0
+#rRPL #rRP#rRPL 0
+L 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPLL 0
+ 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL# 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL #rR0
+0
+#rRPL PL 0
+0
+#sRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+##rRPL #rRPL rRPL 1
+#rRPL 1
+1
+1
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA##s
+sRA
+#sRA
+#sRA
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#s#rRS
+#sRA
+#rRS
+RA
+#r#sRA
+#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+#rR
+#rR#sRA
+S
+#sRAS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sA
+#sRA
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#r#rR#sRA
+RS
+#rRSS
+#rRS
+#s#
+RA
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+##sRA
+#rRS
+sRA
+#sR#rRS
+A
+#rRS
+#sRA
+#s#sRARA
+#rRS
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sR#sRA
+A
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rR#r#rRPL #rRPL 1#rRPL 1
+RPL 1
+PL 1
+1
+
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL #rRPL#rRPL #rRPL #rRPL 1
+ 1
+1
+1
+1
+#rRPL 2
+#r#rRPL#rRP#rRPL 1
+RPL 1
+L 1
+ 1
+##rRPL #rRPL #rRPL #rRPL rRPL 1
+1
+1
+1
+1
+#r#rRPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+RPL 1
+##rRPL #rRPL #rRPL 0
+rRPL 0
+0
+0
+#r#rRPL #rRPL RPL 0
+0
+0
+##rRP#rrRPL 0
+L 0
+RPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRP#rRPL#rRP#rRPL 0
+ 0
+L 0
+L 0
+#r#rRPL ##rRPL 0
+RPL 0
+0
+rRPL 0
+#r#rRPLRPL 0
+#rRPL 0 0
+
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rR#rRPL #rPL 0
+0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0#rRPL rRPL 0
+
+0
+#rRPL 0
+#rRPL 0#rRP#rRPL 
+L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL 0#rRPL
+ 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRP#rRPL#rRPL #rRPL #rRPL 1 1
+L 1
+1
+1
+
+#rRP#rRPL#rRPL #rRPL 1
+L 1
+ 1
+1
+#rRP#rRPL 1
+#rRPL 1
+#rRPL 1L 1
+
+##rR#rRPL 1
+rRPL 1
+PL 1
+#rRPL 1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+##rR#rRPL#rRPL #rRPL #rRPL rRPL 0
+PL 0
+ 0
+0
+0
+0
+#rRP#rRP#rRPL 0L 0
+#rRPL 0
+#rRPL L 0
+
+#rRPL 0
+0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0RPL 0
+#
+rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRP 0
+#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#rRP#rRPL 0
+
+L 0
+0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL# 0
+#rrRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rR
+#rRPL PL 0
+#0
+rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#r#rRPLRPL 0
+ 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rR#rRPPL 0
+L 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL ##rRPL 0
+rRPL 0
+#rRP0
+L 0
+#rRPL 0
+##rRPL #rRPL 0
+rRPL 0
+#r0
+#rRPL RPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRP#r#rRPL 0#rRPL 0
+RPL 0
+
+L 0
+#rRPL 0
+#rRPL #rRP#rRPL 0
+L 0
+0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#r#rRS#rRS
+#rRS
+RS
+
+##ssRA
+#sRA
+RA
+#sRA
+#rRS
+#rRS
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#rRS
+##sRAsRA
+
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#s#rRS
+RA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#S
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+##rRS
+#rRS
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#s#rRRA
+S
+#sRA
+#r#rR#rR#rRPL RPL 1
+PL 1
+PL 1
+1
+##rRP#rRP#rRPL 1
+rRPL 1
+L 1
+L 1
+#rRPL 1
+#rR#rR#rRPL 1
+#rRPL PL 1
+PL 1
+1
+#r#rRPL#rRPL #rRPL 1
+RPL 1
+ 1
+1
+##rRPL 1
+#rRPL 1
+#rRPL 1
+rRPL 1
+##rR#rRPL#rRPLrRPL 0
+#rRPL 0
+PL 0
+ 0
+ 0
+#rRPL 0#rRPL 0
+#rRPL 
+#rRPL 0
+#rR0
+PL 0
+#rRPL #rRPL#0
+ 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0#r
+RPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0#rR
+PL 0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+#rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+#rRPL 0
+ 0
+#rRPL 0
+#rRPL#rRPL #rRPL 0
+0
+ 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0#rRPL RPL 0
+
+0
+#rRPL 0
+##rRPrRPL 0
+#rRPL 0
+L 0
+#rRPL 0
+#rRPL #rRPL#rRPL 0
+#rRPL  0
+0
+0
+#rRPL 0
+#rRP#rL 0
+#rRPL RPL 0
+0
+#rRPL 0#rRP
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r#rR0
+RPL 0
+#rRPL 0PL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL #r#rR0
+RPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRP 0
+L 0
+#rRPL 0
+#rRPL #rR0
+#rRPL 0#PL 0
+
+rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+#rRPL 
+0
+#rRPL 0
+#rR#rRPL 0
+#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL #rRP0
+ 0
+#L 0
+rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#r##rRPL#rRPL RPL 1
+rRPL 1
+ 1
+1
+#rR#rRS
+#rRS
+#rRS
+#rRS
+S
+#s#RA
+sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+##sRArRS
+##rRS
+
+sRA
+##sRA
+rRS
+#rR#sRA
+S
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+##rRSrRS
+
+#sRA
+#rRS#sRA#sRA
+
+
+#rRS
+##rRS
+#sRA
+sRA
+#sRA
+#rRS
+#sRA
+#r#rRS#rRS
+RS
+
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#
+#sRA
+rRS
+#rRS
+#sR#rA
+RS
+#sRA
+#s#rRS
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+RA
+#sRA#rR
+S
+#rRS
+#sRA
+#rRS
+#sRA
+##rRS
+#sRrRS
+A
+#sRA
+#sRA
+#rRS#rRS
+
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#rRP#rRPL #rRPL PL 0
+L 0
+0
+0
+#rR##rRPL PL 0
+rRPL 0
+0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+##rRPL#rRPL rRPL 0
+ 0
+0
+#r#rR#rRPLPL 0
+RPL 0
+ 0
+#rRPL 0
+##rRPL #rRPL 0
+rRPL 0
+0
+#rRPL 0
+#rRPL ##rRPL 0
+rRPL 0
+0
+#rRPL#rRPL#rRPL 0
+ 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL#r#rRPL 0
+ 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+#rR
+PL 0
+#rRPL 0
+#rRPL 0
+#rRP#rR#rRPLL 0
+PL 0
+ 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rR#rR#rRPL 0
+PL 0
+PL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL #rRPL 1
+#rRPL 1#rRPL 1
+1
+
+#rRPL 2
+##rR#rRPL#rRPL PL 1
+rRPL 1
+ 1
+1
+#r#rRP#rRPL #rRPL 1
+#rRPL 1
+RPL 1
+L 1
+1
+#rRP#rRPL#rRPL #rRPL 1
+#rRPL 1
+L 1
+ 1
+1
+#rR#rRP#rRPL #rRPL PL 1
+L 1
+1
+1
+#rRPL 1
+#rR#r#rRS
+#rRS
+RS
+S
+#sRA
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#sR#rRA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sR#sA
+RA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sR#rRS
+A
+#sRA
+#rRS
+##rRS
+sRA
+#r#rRS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#rRPL #rRPL #rRPL PL 1
+1
+1
+1
+#rRPL 1
+#rRPL 2
+#rR#rRS
+#rRS
+#rRS
+S
+#sRA
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#rR#sRA
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sR#sRA
+#rRS
+A
+#sRA#rRS
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#rRS
+S
+#rRS
+#sRA
+#sRA
+##sRA
+rRS
+#sRA
+#sRA
+#rRS
+#s#rRS
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+##rRPL 1
+#rRPL 1
+#rRPL 1
+rRPL 1
+#rRPL 2
+#rRPL 2
+##rR#rRPL #rRPL #rRPL 1rRPL 1
+PL 1
+1
+1
+
+##r#rRPL#rRPL #rRPL 1
+rRPL 1
+RPL 1
+ 1
+1
+#r#r#rRS#rRS
+#rRS
+RS
+RS
+
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+##rRS
+rRS
+#rRS
+#sRA
+#sRA
+#s#sRA
+RA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+##rRS
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#s#sRA
+#rRS
+RA
+#r#rRSRS
+
+#sRA
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#s#rRS
+RA
+#sRA
+#sR#rRA
+S
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#rRS
+#rR#sRA
+S
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS#rR
+S
+#sRA
+#sRA
+#rRS
+#sRA
+###rRPL 1
+#rRPL 1
+rRPL 1
+rRPL 1
+#rR#rRP#rRPL #rRPL 0#rRPL 0
+PL 0
+L 0
+0
+
+#rRPL #rRPL #rRPL 0
+0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL #rRPL 00
+
+#rRPL #rRPL 0
+#rRPL 00
+
+#rRPL #rRPL 0
+0
+#rRPL #rR0
+#rRPPL 0
+#rRL 0
+#rRPL PL 0
+#rR0
+#rRPPL 0
+L 0
+#rRPL#rRP 0
+#rRPL 0
+L 0
+#rRPL #rRPL 0
+0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRP##rRPL 0L 0
+rRPL 0
+
+##rRPL rRPL 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL #r0
+#rRPL 0
+RPL 0
+#rRPL #rRPL #r0
+0
+#rRPLRPL 0
+#rRPL 0
+ 0
+#rRPL 0
+#r#rRPL RPL 0
+#rRPL 0
+#rRPL 0
+0
+#rRPL 0#rR
+PL 0
+#rRPL #0
+#rRPLrRPL 0
+#rR 0
+#rRPL 0
+PL 0
+#rR#rRPL 0
+#rRPPL 0
+#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+#rRPLRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL #rRP
+0
+L 0
+#rRPL #rRPL 0
+#rRPL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL 0#rRPL #
+0
+#rRPL 0
+rRPL 0
+#rRPL#r#rRPL 0
+ 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL #rRPL 0
+rRPL 0
+#rRPL 00
+
+#rRPL 0
+#rRPL #rRPL 0
+0
+##rRPL #rRPL 0
+rRPL 0
+0
+#rRPL# 0
+rRPL 0
+#rRPL 0
+###rRPL rRPL 0
+rRPL 0
+0
+#rRPL 0#rRPL #rRPL 0
+0
+
+##rRPL rRPL 0
+#0
+#rRPL rRPL 0
+0
+#r#r#rRS#rRS
+#rRS
+RS
+RS
+
+#s#sRA
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+##sRA
+#rRS
+rRS
+#rRS
+##sRA
+#sRAsRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##sRA
+#rRS
+rRS
+#sRA
+##rRS
+sRA
+#s#rRS
+#rRS
+RA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL#rRPL#rRPL#rRPL #rRPL 1
+ 1
+ 1
+ 1
+1
+#r#rRPL #rRPL RPL 1
+1
+1
+#r#rR#rRPL #rRPL #rRPL RPL 1
+PL 1
+1
+1
+1
+##rRPL#rRPL 1#rRPL 1
+#rRPL 1
+rRPL 1
+ 1
+
+#rRP#rRP#rRPL#rRPL L 1
+ 1
+L 1
+1
+#rRPL 1
+##r##rRPrRPL 0
+rRPL 0
+RPL 0
+L 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rR#PL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRRPL 0
+#rRPLPL 0
+ 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0#rRPL 0#rRPL 0
+
+
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRP#r0
+RPL 0
+L 0
+#r#RPL 0
+#rRPLrRPL 0
+#rRPL  0
+0
+#rRPL #r0
+#rRPL 0RPL 0
+
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+#rRPL L 0
+0
+#rRPL 0
+#rRPL 0#rRPL 0
+#
+rRPL 0
+##rRPL 0rRPL 0
+
+#rRS#rRS
+#rRS
+#rRS
+
+#sRA
+#sRA
+#sRA
+#sRA
+#r#rRS
+RS
+#s#sRA
+RA
+#r#rRS
+RS
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#rR#sRA
+S
+#sRA
+#rRS
+#sR#rRS
+A
+##rRS
+sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#s#sRRA
+A
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA#sRA
+
+##rRS
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+##rRS#rRrRS
+
+S
+#sRA
+#sRA
+#sRA
+#rR#rRS
+S
+#rRS
+#sR#rRS
+#sRA
+A
+#sRA
+#sRA
+#r#r#rRPRPL 1
+RPL 1
+L 1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+###rRPL 0
+#rRPL 0
+rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL#rR 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRP##rL 0
+rRPL 0
+RPL 0
+#rRPL 0
+#r#rR#rRPL #rRPL PL 0
+RPL 0
+0
+0
+#rRPL 0
+#rRPL##r 0
+#rRPL 0RPL 0
+rRPL 0
+
+#rRPL 0
+#rRPL 0
+#r##rRRPL 0
+rRPL 0
+PL 0
+#r#rRPL RPL 0
+0
+#r#rRPL 0
+RPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#PL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#r#PL 0
+#rRPRPL 0
+rRPL 0
+#rRPL 0L 0
+
+#rRPL #r0
+#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP#rRL 0
+0
+PL 0
+#rRPL 0
+#r#r#rRPL #rRPL RPL 0
+RPL 0
+0
+0
+#rRPL 0
+###rRPL 0
+rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#0
+#rRPL 0
+#rRPL 0
+rRPL 0
+##rRPL #rRPL #rRPL 1#rRPL 1
+rRPL 1
+1
+1
+
+#rR#rRPL #rRPL#rRPL PL 1
+1
+ 1
+1
+##rR#rRPL #rRPL #rRPL 1rRPL 1
+PL 1
+1
+1
+
+#rRS#rRS
+
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+##rR#rRPL#rRPL rRPL 1
+PL 1
+ 1
+1
+##r#rRP#rRPL #rRPL rRPL 1
+L 1
+RPL 1
+1
+1
+#rRP#rRP#rRPL #rRPL #rRPL 1L 1
+L 1
+1
+1
+
+##rRS
+#rRS
+#rRS
+#rRS
+rRS
+##ssRA
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+##rRS
+sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+##s#sRA
+RA
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#sRA
+#S
+rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+##rRP#rRPL rRPL 1
+L 1
+1
+#rRPL 2
+#rRPL 2
+##rRP#rRPL#rRPL 1rRPL 1
+#rRPL L 1
+ 1
+
+1
+#rRPL #rRPL #rRPL #rRPL #rRPL 1
+1
+1
+1
+1
+##r#rRPL#rRPL 1RPL 1
+#rRPL 1
+rRPL 1
+ 1
+
+#rR#rR#rRPL #rRPL #rRPL 1PL 1
+PL 1
+
+1
+1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+##rR#rRS
+rRS
+S
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sR#rRS
+#sA
+RA
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#rRS
+#sRA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA#rR
+S
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sR#rRS
+#rRS
+A
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#rRS
+#rR##sRA
+S
+rRS
+#sRA
+#sRA#sR
+A
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRP#rRPL#rRPL#rRPL  1
+L 1
+ 1
+1
+#rRPL 2
+#rRPL 2
+#rRPL#rRPL 0 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRP#rL 0
+RPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+#rRPL RPL 0
+0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0#rRP
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+##rrRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL#rRPL#rRPL #rRPL 0#rRPL L 0
+ 0
+ 0
+0
+0
+
+#r#rRPL #rRPL RPL 0
+#r#rR0
+0
+#rRPLPL 0
+RPL 0
+ 0
+#r#rRPL #rRPL 0
+0
+RPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#r#rRPL 0
+RPL 0
+#rRPL #rR#rRPL 0
+#0
+PL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL #rR#rRPL 0
+0
+#rRPL PL 0
+#rRPL 0
+0
+#rRPL #rRPL #rRPL #rR#rRPL 0
+#rRPL 0
+0
+0
+PL 0
+0
+##rRPL #rrRPL 0
+0
+RPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL #rR0
+#rRP#rRPL PL 0
+L 0
+#rR0
+PL 0
+#rR#rRPL #r#rRPL PL 0
+0
+#rRPL 0
+0
+RPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+#r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#r#rRPL #rRPL 0RPL 0
+0
+
+#r#rRRPL 0
+PL 0
+##r#r#rRPL 0
+rRPL 0
+RPL 0
+RPL 0
+#rRPL #rRPL0
+# 0
+rRPL 0
+#rRPL ##rRPL 0
+0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0#rRPL 0RPL 0
+
+
+#rRPL 0
+#rRPL 0
+#r##rRPL RPL 0
+#rRPL rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0#r
+#rRPL RPL 0
+#rR0
+PL 0
+#rR#rRPLPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+#rRPLRPL 0
+ 0
+#r#rRPL 0
+#rRPL 0RPL 0
+
+#r#rRPL 0
+#rRRPL 0
+PL 0
+#rR#rRPL 0
+PL 0
+#rRP#rRPL 0
+#rRPL#rRPL L 0
+ 0
+0
+#rRPL 0
+#rRPL 0
+#r#rRPL#rRPL #rRPL 1#rRPL 1RPL 1
+1
+ 1
+
+
+#r#rR#rRPL#rRPL #rRPL 1
+RPL 1
+PL 1
+ 1
+1
+#rRP#rRP#rRPL#rRPL 1L 1
+L 1
+ 1
+
+#rRPL #rRPL 1#rRPL 1#rRPL 1
+#rRPL 1
+1
+
+
+#rR#rRPL #rRPL 0
+PL 0
+0
+##rRPL #rRPL #rRPL rRPL 1
+1
+1
+1
+#r#rRPL #rRPL 0
+RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPLRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+#rRL 0
+PL 0
+#rRPL 0
+##rrRPL 0
+RPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+#rRPL 0
+ 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL #rRPL 0#rRP#rRPL 
+0
+L 0
+0
+#r#rRPL #rRPL RPL 0
+0
+0
+#rRPL 0
+#rRPL #rRP#rRPL 0
+L 0
+0
+#rRPL 0
+#r#rRPL RPL 0
+#rRPL 0
+0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL #rRP0
+L 0
+##rRPL #rrRPL 0
+0
+RPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL #rRPL0
+ 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#sRS
+#sRS
+#rR#rRS
+#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS#
+sRA
+#sRA
+#rRS
+#sRA
+#rR#rR#rRPL #rRPL 1#rRPL 1
+PL 1
+PL 1
+1
+
+#rRPL 2
+#rR#rRS
+#rRS
+#rRS
+#rRS
+S
+#rRS
+#sRA
+#s#sRA
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#rRS
+#r#sRA
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR##rRS
+S
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+##rRS
+rRS
+##sRA
+sRA
+#sRA
+#r#rRS
+RS
+##sRA
+sRA
+#rRS
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#r#sRA
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#s#rRS
+RA
+#sR#sRA
+A
+#rRS
+#rRS
+#sRA##sR
+rRS
+A
+##rsRA
+#rRS
+RS
+#sRA
+#rRS
+#sRA
+#sRA#rRS
+#rRS
+
+##rRS
+sRA
+#sRA
+#rRS
+#sRA
+#sRA
+##rRrRS
+#sS
+RA
+#rRS
+#sRA
+#rRS#sR
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#rRPL#rRPL #rRPL 1
+RPL 1
+ 1
+1
+#r#rRPL #rRPL #rRPL 1RPL 1
+1
+1
+
+#rRPL 1
+#r#rRPL #rRPL #rRPL 1RPL 1
+1
+1
+
+#rRPL 1
+#r#rRPL#rRPL 1
+#rRPL 1
+#rRPL 1
+RPL 1
+ 1
+#rRPL 2
+#rRPL 2
+#rR#rR#rRPL #rRPL #rRPL 1
+PL 1
+PL 1
+1
+1
+#rRPL 2
+#rRPL 2
+#rR#rRP#rRPL 0PL 0
+L 0
+
+#rRPL 0
+#rRPL #rRP#rRPL 0
+L 0
+0
+#rRPL #rRPL#0
+ 0
+rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRP#rRPL 0
+#rRPL L 0
+#rRPL 0
+0
+#rRP#rRPL L 0
+#rR0
+#rRPL PL 0
+0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL#rRPL 0
+ 0
+0
+#rRPL#rRP#rRPL  0
+L 0
+0
+#r#rRPL #rRPL RPL 0
+#rRPL 0
+0
+0
+#rRPL #rRPL 00
+#rRPL #rRPL 0
+
+0
+#rRPL #0
+rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+##rRPL #rRPL rRPL 0
+0
+0
+#rRPL 0
+#rR#rRPL #rRPLPL 0
+0
+ 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#r#rRPL 0#rRPRPL 0
+
+L 0
+#rRPL #rRPL 0
+#rR0
+PL 0
+#rRPL #rRPL 00
+#rRPL 
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRP##rRPL 0
+L 0
+rRPL 0
+#rRPL 0
+#rRPL 0#rRPL #rRPL 
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rR#rRP#rRPL RPL 1
+PL 1
+L 1
+1
+#rRPL 1
+#rRPL #rRPL #rRPL #rRPL 1
+1
+1
+1
+##r##rRP#rRPL rRPL 1
+RPL 1
+rRPL 1
+L 1
+1
+#rRP#rRPL #rRPL#rRPL #rRPL 1L 1
+ 1
+1
+1
+
+#rRPL 2
+#rRPL 2
+#rRPL #rRPL #rRPL #rRPL 1
+1
+1
+1
+#rRPL 2
+#rRPL 2
+#rRPL #rRPL #rRPL #rRPL 0
+0
+0
+0
+#rRPL 0
+#rRPL 0#rRPL 0
+#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRP#rRPL #rRPL 00
+L 0
+
+#r#rRPL 0
+RPL 0
+#rR#rRPL #rRPLPL 0
+0
+ 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRP 0
+#rRPLL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL #rRPL0
+0
+ 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+##rRPL #rRPL rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL#r0
+ 0
+RPL 0
+#rRPL 0#rRP
+L 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+##rRPrRPL 0
+L 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#rRPL 0
+0
+
+#rRPL 0
+###rRPL 0
+rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL #rRrRPL 0
+0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+#rRPL L 0
+0
+#rRPL 0
+#rR#rRS#rRS
+#rRS
+
+S
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS#rRS
+#rRS
+
+#s#sRA
+#sRA
+RA
+#r#rRS
+RS
+#sRA
+#sRA
+#rR#rRSS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#r#sRA
+RS
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#r#sRA
+#sR#sRA
+RS
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#r#rR#rR#rRPL RPL 1
+PL 1
+RPL 1
+PL 1
+1
+#rR#r#rR#rR#rRPL 1
+PL 1
+RPL 1
+PL 1
+PL 1
+##r#rRPL #rRPL 0
+#rRPL 0
+rRPL 0
+RPL 0
+0
+##rRPL 0
+#rRPL #rRPL 0
+rRPL 0
+0
+#rRPL 0
+#rRPL 0#rR
+#rRPL 0
+#rRPL 0
+PL 0
+#rRPL #rR0
+PL 0
+#rRPL #rRP0
+#rRPL 0
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL #rRP#rR#rRPL 0
+L 0
+PL 0
+0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+#PL 0
+#rrRPL 0
+RPL 0
+#rRPL 0
+#rRPL#rRPL # 0
+0
+rRPL 0
+#rRPL 0
+#rRPL#rRPL #rRPL 0
+0
+ 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL #rRPL 0PL 0
+#0
+
+rRPL 0
+#r#rRPL 0RPL 0
+
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL #rR0
+#rRPL #rRPL PL 0
+#rRPL 0
+0
+0
+#rRPL 0
+#rRP#rRPL L 0
+#rRPL 0
+0
+#rRP#rRPL 0L 0
+
+#rRPL 0
+#rRPL#rRPL  0
+#r0
+RPL 0
+##rRPLrRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rR#rRPL PL 0
+#r0
+RPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+#0
+rRPL 0
+#rRPL 0
+#rRPL# 0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rR#PL 0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL #rRPL #rRPL #rRPL 11
+1
+1
+1
+
+#rR#r#rRS
+#rRS
+#rRS
+RS
+S
+#sRA#s
+#sRA
+RA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#r#sRA
+RS
+##sRA
+rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#s#rRS
+#rRS
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#s#rRS
+RA
+#r#rRS
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#sRA
+#rRS#sRA
+
+#rRS
+#sRA#
+#sRA
+rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sR#rRS
+A
+#rR#sRA
+S
+#rRS
+#r#sRA
+RS
+#sRA
+#s#rRS
+RA
+#rRS
+##rRS
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+##rRP#rRPL#rRPL rRPL 1
+L 1
+ 1
+1
+##rRPL 0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 00
+
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL #rRPL 00
+
+#rRPL 0
+#rRPL 0
+##rRPLrRPL 0
+ 0
+#rRPL 0
+#rR#rRPPL 0
+L 0
+##rRPL 0
+#rRPL 0rRPL 0
+
+#rRPL ##rR0
+rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 00
+
+#rR#rRPL PL 0
+0
+#rRPL #rR0
+#rRPPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0RPL 0
+#rR
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL#r0
+ 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rR#rRPL 0
+PL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+###rRPL 0
+rRPL 0
+rRPL 0
+#rRPL 0
+#r#rRPL#rRPL #rRPL 1RPL 1
+ 1
+1
+
+#rRP#rR#rRPL #rRPL 1PL 1
+L 1
+1
+
+#rRPL 2
+#rRPL 2
+#r#rR#rR#rRPL #rRPL 1
+PL 1
+PL 1
+RPL 1
+1
+#rRPL #rRPL 1#rRPL 1
+#rRPL 1
+1
+
+#rRPL#rRPL #rRPL #rRPL 1
+ 1
+1
+1
+#rRPL 1
+#r#rRP#rRPL 1#rRPL RPL 1
+L 1
+1
+
+#rRPL 1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rRS
+#rRS
+#rRS
+RS
+#sRA
+#sR#sRA
+#sRA
+A
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+##rrRS
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sR#rRS
+A
+#r#rRS
+#sRA
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#r#rRRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##sRArRS
+
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#sRA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#rRS
+#rRS#sRA#sRA
+
+
+#sRA#sRA
+
+#rRS
+#rRS
+#sR#sRA
+A
+#rRS
+#rRS#s
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+#rRSsRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#rRS
+#sRA#sRA
+#sRA
+
+#rRS
+#r#sRS
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#rRS
+#sRA
+
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#s
+#rRA
+RS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS#
+sRA
+#s#rRS
+#rRS
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+#
+rRS
+#sR#A
+sRA
+#sRA
+#rRS
+#rRS
+##sRA
+sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#sRA
+
+#rRS
+##sRA
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#A
+rRS
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#rRS
+#rRS
+#sRA
+#sRA#sRA
+
+#rRS
+#rRS
+#rRS
+#sRA
+#r#sRA
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rR#rRSS
+#sRA
+
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#r#sRA#sRA
+#sRA
+RS
+
+#sRA
+#rRS
+#rRS
+#sRA
+##sRA
+rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##sRArRS
+
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sR##rRS
+A
+rRS
+#rRS#sRA
+#sRA
+
+#sRA
+#rRS
+#rRS
+#r#rRS
+RS
+#sRA
+#sR#sRA
+#sRA
+A
+#rRS
+##rsRA
+#rRS
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#s#rRS
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rR#rRSS
+
+#rRS
+#sRA
+#sRA
+#sR#rRS
+A
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA#rRS
+
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sA
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#r#r#sRA
+RS
+RS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+##rRS
+sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+###sRA
+rRPL 2
+#rRS
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA#rRS
+
+#rR#sRA
+#rRS
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##sRA
+#rRS
+rRS
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#sRA
+A
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS#r
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#r#rRS
+#rRS
+RS
+RS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#rRSS
+
+#sRA
+#rRS#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rR#rS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#r#rRS
+#sRARS
+
+#sRA
+#sRA
+#rRS
+#sRA#
+rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS#sRA
+
+##rRS
+sRA
+#sRA
+##rRSrRS
+
+#sRA
+#r#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+#sRA
+
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#r#sRA#sRA
+RS
+
+#rRS
+#sRA
+#sRA
+#rRS
+##sRArRS
+
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA##rRS
+
+rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#s#rRS
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA#rR
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+##sRrRS
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#
+#sRA
+sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#sRA
+A
+#rRS#rRS
+
+#s#RA
+sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sR#rA
+RS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#rRPL 2
+#sRA
+#sRA
+#rRS
+#rR#sS
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##sRAsRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRP#rRP#rRPL #rRPL 1
+L 1
+L 1
+1
+##rRP#rRP#rRP#rRPL rRPL 1
+L 1
+L 1
+L 1
+1
+#rR#rRPL#rRPL#rRPL PL 1
+ 1
+ 1
+1
+#r#rRPL #rRPL RPL 1
+#rRPL 1
+1
+1
+#rRPL 1
+##rRPL #rRPL#rRPL #rRPL rRPL 1
+1
+ 1
+1
+1
+#r#rRS
+#rRS
+#rRS
+RS
+#rRS
+#rRS
+#sRA
+#sR#sRA
+#sRAA
+
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA#sRA
+
+#rRS
+##rRS
+#rRS
+#sRA
+rRS
+#rRS
+#sRA
+#sRA
+#sR#sRA
+A
+#rRS
+##sRA
+#rRS
+rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+#r#sRS
+RA
+#sRA#sRA
+
+#sRA
+#rRS
+##rRS
+sRA
+#rRS
+#r#sRA
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#rRS
+#sRA
+S
+#sR#rRS
+A
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#s#rRA
+RS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#s#rRRA
+S
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#r#rRPL#rRPL #rRPL #rRPL 0
+RPL 0
+ 0
+0
+0
+#r#rRPL #RPL 0
+0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+#r0
+RPL 0
+#rRPL 0
+#rRPL 0#r
+RPL 0
+#rR#rRPL #rRPL 0PL 0
+0
+
+#rRPL #rRPL 0
+#rRPL 00
+#rRPL 
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#r#rRPL 0RPL 0
+
+##rRPL rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#r#rRPL 0
+#RPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0rRPL 0
+
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL ##rRPL 0
+0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+#rRPL 0
+#rRPL RPL 0
+0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rR#rRPL 0PL 0
+#rRPL 
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRP#rRPL 0
+#rRPL L 0
+0
+#rRPL 0
+#rRPL#r 0
+RPL 0
+#rRPL 0
+#rRP#rRPLL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL #rRPL 0
+0
+0
+#rR#rRP#rRPLPL 0
+L 0
+ 0
+#rRPL 0
+#rR#rRPPL 0
+#rRPLL 0
+ 0
+#rRPL#rRPL 0
+#rRPL 0
+ 0
+#rRPL #rRPL #0
+0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP#rRPL#rRP0
+L 0
+ 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rR#rRPL #rRPL 0
+0
+PL 0
+#rRPL 0#rRPL 0
+#rR
+#rRPL 0
+PL 0
+#rRPL 0
+#r#rRPL #rRPL RPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rR#rRS
+#rRS
+#rRS
+#rRS
+S
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRA
+#sRA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#r#rRS
+RS
+#s#sRA
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#r#RS
+#sRrRS
+A
+#sRA
+#sRA
+#rRS
+#s#rRA
+RS
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#sRA
+#rRS
+##sRA
+sRA
+#rRS
+##sRA
+rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sR#rRS
+#sRA
+A
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#rRS
+A
+#sRA#sRA
+#sRA
+
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#rRPL#rRPL #rRPL 1
+PL 1
+ 1
+1
+##rR#rRPL #rRPL 1
+#rRPL 1
+rRPL 1
+PL 1
+1
+#r#rRPL #rRPL #rRPL RPL 1
+1
+1
+1
+#rRPL 1
+##rR#rRPL rRPL 1
+PL 1
+#rRPL 1
+1
+#rRPL 1
+#rRPL #rRPL #rRPL 0
+0
+#rRP0
+L 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rR#rR#rRPL PL 0
+PL 0
+0
+#rRPL 0
+#rRPL #0
+#rRPLrRPL 0
+ 0
+##rRPL 0
+rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+#rRPL#rRrRPL 1
+#rRPL PL 1
+ 0
+1
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+#rRPL L 0
+0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rR#rRPL #rRP0
+PL 0
+L 0
+#rRPL 0
+##rRrRPL 0
+#rRPL PL 0
+0
+#rR#rRPL 0PL 0
+
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#r#rRRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRS
+S
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#r#sRA
+RS
+#rR#sRS
+A
+#sRA
+#rRS#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rR#sRA
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##ssRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#sRA
+#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+##sRAsRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##sRAsRA
+#r
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL #rRPL 1
+1
+#rR#rRP#rRPL #rRPL #rRPL 0PL 0
+L 0
+0
+0
+
+#rRP#rRPL#rRPL L 0
+#rRPL 0
+ 0
+0
+#rRPL 0
+#rRPL 0
+##rRPLrRPL 0
+#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPLL 0
+#rRPL 0 0
+
+#rRPL #rRPL0
+ 0
+#rRPL #rRPL#rRPL 00
+ 0
+
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0 0
+#
+rRPL 0
+#rRPL 0
+#rR#rRPL #rRPL 0PL 0
+0
+
+##rRPrRPL 0
+L 0
+#rRPL ##rRPL 0
+rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#r##rRPL 0RPL 0
+rRPL 0
+
+#rRPL 0
+#rRPL #0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+#rRPL 0RPL 0
+
+#rRPL 0
+#rRPL 0
+#r#rRPL #rRPRPL 0
+0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL# 0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rR#rRP#rRPL #rRPL 1
+rRPL 1
+PL 1
+L 1
+1
+#r#rRPL#rRPL #rRPL #rRPL 1
+RPL 1
+ 1
+1
+1
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##sRA
+#rRS
+rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#r#rRPL #rRPL 1
+#rRPL 1
+RPL 1
+PL 1
+1
+#rRP#rRPL#rRPL#rRPL#rRPL L 1
+ 1
+ 1
+ 1
+1
+#rR#r#rR#rRPL#rRPL 1
+PL 1
+PL 1
+RPL 1
+ 1
+#rRPL 2
+#rRPL 2
+##rRS#rRS
+#rRS
+#rRS
+rRS
+
+#sRA
+#sRA
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#rRS
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#r#rRS
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+##sRArRS
+
+#rRS
+#sRA
+#rR#rRS
+#rRS
+S
+#sRA
+#sRA
+#sRA
+#sRA
+##rRrRS
+S
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+#rRS
+#rRS
+
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#sRA
+S
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#rRS
+#sRA
+A
+#sRA
+#rRS#rRS
+
+#s#sRA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#rRPL 1
+#rRPL 1
+#rRPL 1
+RPL 1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRP#rRP#rRPL#rRPL 1#rRPL 1L 1
+L 1
+ 1
+
+
+#rRPL 2
+####rRPL #rRPL rRPL 1
+rRPL 1
+rRPL 1
+1
+1
+#rRPL 2
+#r#rRP#rRPL#rRPL #rRPL 1RPL 1
+L 1
+ 1
+1
+
+#sNS
+#rNS
+#sNA
+#L 2 0; red
+#L 114 1; red
+#rNA bbbb::212:7400:13b7:7f72
+#sNS
+#rNS
+#sNA
+#L 114 0; red
+#L 139 1; red
+#rNA bbbb::212:7400:16c0:5d8b
+##r#rRP#rRPL#rRPL 1
+rRPL 1
+RPL 1
+L 1
+ 1
+#sNS
+#rNS
+#sNA
+#L 139 0; red
+#L 104 1; red
+#rNA bbbb::212:7400:13b7:7568
+##rRP#rRPL #rRPL rRPL 1
+L 1
+1
+1
+#sNS
+#rNS
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 104 0; red
+#L 230 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 31 1; red
+#rNA bbbb::212:7400:146e:fe1f
+#sNS
+#rNS
+#sDAM
+#L 95 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 230 0; red
+#L 110 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 7 1; red
+#rNA bbbb::212:7400:146e:f407
+#r#rRS
+#rRS
+#rRS
+RS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#s#sRA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rRPL 0
+RPL 0
+#rRP#rRPL L 0
+0
+#rRPL #rRPL 0
+0
+##rRPL rRPL 0
+0
+#rR#rRPL 0PL 0
+
+#rRPL #rRPL 0
+0
+##rRPL rRPL 0
+0
+#rR#rRPL 0
+PL 0
+##rRPL rRPL 0
+0
+##rRPL rRPL 2
+0
+#rRPL#rRPL 0 0
+
+##rRPL rRPL 0
+0
+#rRP#rRPL L 0
+0
+#rRPL #rRPL 0
+2
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rR
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+##rRS
+#rRS
+rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#s#rRSRA
+
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+##sR#rrRS
+A
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA#r#sRA
+
+RS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##sRrRS
+A
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+##sRA
+rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#rRP#rR#rRPL#rRPL #rRPL 0
+L 0
+PL 0
+PL 0
+ 0
+0
+#rRPL #rRPL #rR#r0
+#rRPL 0
+PL 0
+RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+#rRPL
+#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRP#rRPL 0
+L 0
+#rRPL #r#rR0
+RPL 0
+PL 0
+##rRrRPL 0
+#rRPL PL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#r#rRRPL 0
+##rRPPL 0
+rRPL 0
+L 0
+#rRPL 0
+#rRPL#rR#rRPL 0 0
+#rRPL PL 0
+#rRPL 
+#0
+0
+rRPL 0
+#rRPL #rRP#rRP0
+L 0
+L 0
+#rRPL 0#rRPL #rRPL 
+0
+0
+#rRPL 0
+#rR#rRP#rRL 0
+PL 0
+PL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRP#rRPL #rRPL 00
+L 0
+
+#r#rRPRPL 0
+#rRPL 0
+L 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL ##r0
+rRPL 0
+RPL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+#rRPLL 0
+ 0
+#rRPL #rRPL #rRPL0
+0
+ 0
+##rRPL 0rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+#rRPRPL 0
+#rRPL L 0
+0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL 0
+0
+##rrRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL#rrRPL 0
+ 0
+RPL 0
+#rRPL 0
+#rRPL #rRPL 0
+##rRPL 0
+#rRPL rRPL 0
+0
+0
+#rRPL 0
+#rRPL #r#rRPL0
+#RPL 0
+#rRPL  0
+rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL#rRPL #rRP 0
+0
+L 0
+#rRPL #rRPL 00
+
+#r#rRPLRPL 0
+ 0
+#rRPL #rR0
+PL 0
+#rRP#L 0
+rRPL 0
+#rRPL 0
+#r#rRPL #rRPL #rRPL RPL 0
+0
+0
+0
+#rR#rRPL #rRPL 1#rRPL 1
+PL 1
+1
+
+#r#rRPL#rRP#rRPL RPL 1
+L 1
+ 1
+1
+#rRPL 1#rRPL 1
+
+#rRP#rRP#rRPL #rRPL L 1
+L 1
+1
+1
+#r#rR#rRPL #rRPL #rRPL RPL 1
+PL 1
+1
+1
+1
+##rRPL #rRPL 0
+rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL ##rRPL 0
+rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#rRP0
+#rL 0
+RPL 0
+#rR#rRPL 0
+PL 0
+#rR#rRPL PL 0
+0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL#rR0
+ 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL #rPL 0
+0
+RPL 0
+#rRPL 0
+#rRPL 0#r
+RPL 0
+#rRPL 0
+#rRPL 0
+#sNS
+#rNS
+#sRS
+#sRS
+#rRS#rRS#rRS
+#rRS
+
+
+#sRA
+#sRA
+#sRA
+#sRA
+#sDAM
+#rRS
+#L 7 0; red
+#L #sRA
+157 1; red
+#rRS
+#r#sRA
+RS
+#sRA
+#rRS
+#sRA
+#rRPL#rRPL#rRPL #rRPL #rRPL 1
+ 1
+ 1
+1
+1
+#sNS
+#rNS
+#sNA
+#L 110 0; red
+#L 31 1; red
+#rNA bbbb::212:7400:146e:fe1f
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rR#rRS
+#rRS
+#rRS
+S
+#rRS
+#rRS
+#sRA
+#sRA
+#s#sRA
+#sRA
+RA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#rR#rRS#sRA
+S
+
+#s#RA
+#sRA
+rRS
+#sRA#rRS
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+#rRS
+
+#sRA
+#sRA
+#rRS
+#rRS
+##rRS
+rRS
+#sRA#sRA
+#sRA
+
+#sRA
+#rRS
+#rRS#sRA
+
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+##sRArRS
+
+##sRA
+#sRA
+sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+#rRS
+#sR
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##sRA
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA#sRA
+
+#rRS
+#rRPL #rRPL #sRA
+1
+1
+#rRPL 1
+#rRPL 2
+#rR#rRPL#rRPL 1PL 1
+ 1
+
+##rR#rRPL #rRPL 1
+#rRPL 1
+rRPL 1
+PL 1
+1
+##r#rRPL #rRPL #rRPL rRPL 1
+RPL 1
+1
+1
+1
+##rRPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+rRPL 1
+##r#rRPL #rRPL rRPL 0
+RPL 0
+0
+0
+#r#rRPL #rRPL RPL 0
+0
+0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL #0
+#rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL ##rRPL0
+rRPL 0
+ 0
+#rRPL 0
+#rR#rRPL PL 0
+#rR0
+PL 0
+#rRPL #rRPL 00
+
+#rRP#rRPL L 0
+0
+#r#rRPL RPL 0
+0
+#rRPL #rRPL 0
+0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+#0
+rRPL 0
+#rRPL #rRPL 0
+#0
+rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+#rRPL 0
+0
+##rRPL #rRrRPL 0
+0
+#PL 0
+rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0#rRPL 
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rR#rPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+#r0
+RPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRP#rRL 0
+PL 0
+#rRPL 0
+#sDAM
+#L 157 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 31 0; red
+#L 110 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 95 1; red
+#rNA bbbb::212:7400:1466:655f
+#sNS
+#rNS
+#sDAM
+#L 31 0; red
+#L 157 1; red
+#rDAR
+#sDAM
+#L 110 0; red
+#L 230 1; red
+#rDAC
+#sNA
+#L 157 0; red
+#L 95 1; red
+#rNA bbbb::#sNS
+212:7400:1466:655f
+#rNS
+#sNA
+#L 230 0; red
+#L 94 1; red
+#rNA bbbb::212:7400:1465:f55e
+#rRPL 2
+#rRPL 2
+###rRP#rRPL #rRPL 1rRPL 1
+rRPL 1
+L 1
+1
+
+#rRP#rRPL #rRPL 1L 1
+1
+
+##rR##rRPL#rRPL 1
+rRPL 1
+rRPL 1
+PL 1
+ 1
+#rR#rRPL 1#rRPL #rRPL 1
+PL 1
+
+1
+#rRPL 2
+#rRPL 2
+#rRPL#rRPL #rRPL 0#rRPL 0
+0
+ 0
+
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL 0#rRPL
+ 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+#rRPL 0
+0
+0
+#rRPL 0#rRPL 
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 00
+#rR
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL #rRPL
+0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+#rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL0
+# 0
+rRPL 0
+#rRPL #rRPL 00
+
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rR#rRPPL 0
+#rRPL L 0
+0
+#rRPL 0
+#rRPL##rRP 0
+#rRPL 0
+L 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA#sRA#sRA
+
+
+#sRA
+#rR#rRS
+S
+##sRA
+sRA
+#rRS
+#rRS#sRA
+#rRS
+#rRS
+
+#sRA#sR#sRA
+
+A
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#rRS
+#
+sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR##rRS
+A
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS#
+#sRA
+sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+##sRA
+rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+RA
+#rRS
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##rRS
+#sRArRS
+
+#sRA#s
+#sRA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#rR#S
+rRS
+##sRA
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#r#sRARS
+
+#sRA
+#sRA
+#rRP#rRS
+L 2
+##rRS
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+##sRA
+rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+##rRrRS
+S
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#RS
+rRS
+#sRA
+#rRS
+#s#sRARA
+
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#sR#rA
+RS
+#sRA
+#rRS
+#sRA#
+#rRS
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+
+#s#RA
+sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#r#sRA
+#rRS
+RS
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRA
+RS
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rR#sRA
+S
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+##rRrRS
+S
+#sRA
+#sR#rRS
+#rRA
+S
+#sRA
+#sRA
+#rRS
+#sR#rRS
+A
+#r#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+##sRA
+rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+##sRA
+rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##rRS
+rRS
+#s#sRA
+#sRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#rRPL 1
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 1#rRPL 1
+
+#rRS
+#rRS
+#rRS
+#s#rRS#sRA
+
+RA
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#sR
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#s#sRA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#rRS
+S
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+##sRA
+#rrRS
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+RA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA#sRA
+#sRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#sRA
+S
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+##sRA
+rRS
+#sRA
+#sR#sRA
+A
+#rRS
+#sR#A
+rRS
+#rRS
+#sRA
+#r#RS
+sRA
+#rRS
+#sRA
+#rRS
+#s#sRA
+#rRRA
+S
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+##rRPL #sRA
+#sRA
+rRPL 0
+0
+#sRA
+##rRPL #rRPrRPL 0
+0
+L 0
+#rRS
+#sRA
+##rRPL 0#rRPL 0rRPL 0
+
+
+#r#rRPL RPL 0
+0
+#rRPL 0#rR
+PL 0
+#rRS
+#rRP#rRPL 0
+#sRL 0
+A
+#r#rRRPL 0
+#rRPL PL 0
+#rRPL 0
+#rRPL 0
+0
+#rRS
+#rRP#rRPL #rRPL 0
+#sRA
+#rRPL 0
+0
+L 0
+#rRPL 0
+#r#rRPL RPL 0
+#rRP0
+L 0
+#rRS
+#rRPL 0
+#rRPL #sRA
+#rRPL 0
+0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0#rRS
+ 0
+
+#rRPL #s0
+#rRPL RA
+#rRPL 0
+0
+##rRrRPL 0
+PL 0
+#rRP#rRPL L 0
+#rRPL 0
+0
+#rRPL #rRS
+#rRPL 0
+0
+#sRA
+#r#rRPL #rRPL 0
+0
+RPL 0
+#rRPL 0
+#rR#rRPL S
+0
+##sRA
+#rRPL 0
+#rRPL rRPL 0
+0
+#rRPL 0
+#rRPL ##rRPL 0
+0
+rRPL 0
+#rRPL #rRS
+0
+#sRA
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRS
+#rRPL 0
+#rRPL #sRA
+##rRPL 0
+rRPL 0
+0
+#rRPL 0
+#rRPL#rRPL #r 0
+0
+RPL 0
+#rR#rRPPL 0
+L 0
+##rRS#rrRPL 0
+
+RPL 0
+#rRPL 0
+#rRPL #sRA
+#0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRS
+#rRPL 0
+#rRP#sL 0
+RA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#rRS
+#s#sRA
+#rRS
+RA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+#rRPL 1
+#rRS
+#rRPL 1
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##rRS
+sRA
+#sRA
+#sRA
+#rRS
+#rR#rRS
+#sRA
+#rRS
+S
+#sR#sRA
+A
+#sRA
+#rRS
+#r#sRRS
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+##rRSsRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+##sRA
+sRA
+#rRS
+#rRS#rRS
+
+#sRA
+##sRA
+sRA
+#rRS
+#sRA
+#r#rRPRPL 1
+L 1
+#rRS#rRS
+#rRS
+#rRS
+
+#rRPL 1
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 1
+#rRPL 1
+#rRPL 1#rRPL 
+1
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+##rRS
+sRA
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#rRS
+#r#sRA
+RS
+#sRA
+#sRA
+#r#sRA
+RS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##rRS
+rRS
+#rRS
+#sRA
+##sRA
+#rRSsRA
+#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+##rRS
+#rsRA
+RS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#rRS
+S
+#sRA
+#sRA
+#sRA
+##rRPL 0
+#rRPL 0
+#rRPL 0
+rRPL 0
+#rRPL ##rRP0
+rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rR#rRPL 0
+PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#r
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#0
+rRPL 0
+##rRrRPL 0
+PL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+#rRPL 0
+L 0
+#rRPL #rRPL#rR#rRPL 0
+#rRPL 0
+ 0
+PL 0
+0
+#rRPL 0
+#rRPL#r#rR 0
+RPL 0
+#rRPL PL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+##rRPL# 0
+rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 00
+
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+##rRRPL 0
+rRPL 0
+PL 0
+#rR#rRPL #rRPLPL 0
+ 0
+#rRPL 0
+#rRPL 00
+
+#rRPL #rRPL0
+#rR 0
+#rPL 0
+#rRPL 0RPL 0
+
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL #rRPL #rRPL #rRPL 1rRPL 1
+1
+1
+1
+
+#rRPL 2
+#rRP#rRPL#rRPL #rRPL #rRPL 1
+L 1
+ 1
+1
+1
+#rRPL 2
+#r#rRPL#rRPL#rRPL RPL 1
+ 1
+1
+ 1
+#r#rR#rRPL#rRPL 1
+RPL 1
+PL 1
+ 1
+###rR#rRPrRPL 1
+PL 1
+rRPL 1
+L 1
+#rRPL 1
+##rR#rRPPL 1
+#rRPL 1
+rRPL 1
+L 1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+###rR#rR#rRPL 1rRPL 1
+rRPL 1
+PL 1
+PL 1
+
+#rRS
+#rRS
+#rRS
+#s#sRARA
+
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#s#sRA
+RA
+#rRS
+#rRS#rRS
+#s
+#rRS
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+##rRsRA
+S
+#r#sRA
+RS
+#sRA
+#rRS
+##rRS
+rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS#sR
+A
+#sRA
+#rRS
+#r#sRA
+RS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sR#rRS
+A
+#rRS
+#rR#sRAS
+#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRP#rRPL #rRPL #rRPL 1L 1
+1
+1
+
+#rRPL 2
+##rRPL#rRPL #rRPL 1
+rRPL 1
+ 1
+1
+##rRPL 1
+#rRPL 1
+#rRPL 1
+rRPL 1
+##r#r#rRrRS
+S
+RS
+RS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##sRA
+rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+#rRS
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#sR#sRA
+A
+#rRS
+#sR#rRS
+A
+#rRS
+#rRS#sRA
+#rRS
+
+#sR#sRA
+#sRA
+A
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA
+#r#sRA
+#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#rRS
+
+#r#sRA
+#rRS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rR#rRPL #rRPL #rRPL #rRPL PL 1
+1
+1
+1
+1
+##r#r#rRPL #rRPL 0RPL 0
+RPL 0
+rRPL 0
+0
+
+#rRPL 0#rRPL 0#r#rRPL 
+
+#rRPLRPL 0
+#rRPL 0
+0
+#rRPL 0
+ 0
+#rRPL 0#rRPL 0
+
+#r#rRPL RPL 0
+0
+#rR#rRPL 0
+#rRPL 0
+PL 0
+#rRPL #r0
+#rRPL 0
+#rRPRPL 0
+#rRPL L 0
+#rRPL0
+#rR 0
+PL 0
+#rRPL #rRPL 0
+#rRPL #rR0
+0
+PL 0
+#rRPL 0
+#rRP#r#rRPL 0
+RPL 0
+L 0
+#rRPL 0
+#rRPL#rR 0
+PL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+#rRPL 0
+0
+#rR#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+PL 0
+#rRPL 0#rRPL 0
+
+##rRPL 0#rRP#rRPL rRPL 0
+
+L 0
+0
+#rRPL 0
+#rR#rPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL# 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rR#rR#rRPLPL 0
+PL 0
+ 0
+#rRPL #r0
+#rRRPL 0
+#PL 0
+#rRPL rRPL 0
+0
+#rRP#rRL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#r
+#rRPRPL 0
+L 0
+#rR#rR#rRPL PL 0
+PL 0
+#rRP0
+#rRPL 0
+L 0
+#rRPL 0
+##rRPL #rRPL rRPL 0
+0
+0
+#rR#rRPL 0PL 0
+
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rR#rRP#rRPL PL 0
+rRPL 0
+L 0
+0
+#rRPL #r#rRPL #rRPL 00
+RPL 0
+
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0#rRPL 0
+#rRPL
+
+ 0
+#rRPL 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#r#rR#rRS
+#rRS
+#rRS
+RS
+S
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sA
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#sRA
+S
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#rRS
+#r#sRA
+RS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##sRsRA
+A
+#rRS
+#rRS
+#sRA
+##sRrRS
+#rRS
+A
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+##rRS
+#rRS
+sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+##sRA
+#sRA
+sRA
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRP#rRP#rRPL RPL 1
+L 1
+L 1
+1
+#rRPL 1
+#rRPL#rRPL#rRPL #rRPL  1
+ 1
+1
+1
+#rRPL #rRPL 1#rRPL 1
+#rRPL 1
+1
+
+#rRPL 1
+#rRPL#rRPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+ 1
+#rR#rRP#rRPL L 0
+PL 0
+0
+#rR#rRPL #rRPL0
+PL 0
+ 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+##rRrRPL 0
+PL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRP
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#r#RPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+##rRrRPL 0
+PL 0
+#rRPL 0
+#rR#rRS
+#rRS
+#rRS
+#rRS
+S
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#r#sRA
+RS
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS
+#rRPL 1
+#sRA
+#sRA
+##srRS
+RA
+#sRA
+#rRS
+#rRS#sRA
+#rRS
+#rRS#rRS
+
+
+#sRA
+#sRA
+##sRsRA
+A
+#rRS
+#rRS
+#sRA
+#rRS
+##rRS
+sRA
+#rRS
+#sR#sRA
+#sRAA
+
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#rRS
+#sRA
+#r#sRA
+#sRA
+RS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+##sRA
+rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#r#rRS
+#rRS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##rrRS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+##rsRA
+RS
+#rR##rRS
+S
+sRA
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL 2
+#rRPL 2
+#rRP#rRP#rRPL 1
+L 1
+L 1
+#rR#rRPL #rRPL #rRPL #rRPL 0PL 0
+0
+0
+0
+
+#rRPL 0#rRPL 0
+#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL#r 0
+ 0
+RPL 0
+#rR#PL 0
+rRPL 0
+##rRPL 0
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0#r#r
+RPL 0
+RPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRP#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL #rRPL  0
+#rRPL 0
+0
+0
+#rRPL 0
+#rRP#rRPL 0
+#rRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRL 0
+#PL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRRPL 0
+PL 0
+#rRPL #rR0
+#rRPL 0
+PL 0
+#rRPL 0#rRPL 0
+
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL #0
+0
+#rRPrRPL 0
+L 0
+#r#rRPL #rRPL ##rRPL0
+RPL 0
+0
+rRPL 0
+ 0
+#rRPL #rRPL #rRPL 00
+#rRPL0
+
+ 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0#0
+
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0#rRPL rRPL 0
+
+0
+#rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+###rRP#rRPL #rRPL 1
+rRPL 1
+rRPL 1
+L 1
+1
+#rR#r#rRS
+RS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRPL #rRPL 1#rRPL 1
+RPL 1
+1
+
+#rR#rR#rRPL 1#rRPL 1#rRPL 1
+PL 1
+PL 1
+
+
+#rRPL #rRPL #rRPL #rRPL 1
+1
+1
+#rRPL 1
+1
+##r##rRPL rRPL 1
+rRPL 1
+RPL 1
+1
+##rRS
+#rRS
+#rRS
+#rRS
+rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA#sRA#rRS
+
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#sRA
+#rRS
+#sRA
+#sRA
+#r#rRS#rRS
+RS
+
+#sRA
+##sRA
+sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+##rRS
+sRA
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#sRA
+#rR#rRS
+#rRS
+S
+#sR#A
+#sRA
+sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS
+#rRS
+#sRA
+#sRA#
+sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##rRS
+#sRA
+rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#sRA
+#s#sRA
+RA
+#r#rRS
+RS
+#rRS
+#sRA
+#sR#rRS
+#A
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+##rRSrRS
+
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#sRA
+#rRS
+A
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#rRS
+#sRA
+#sR#A
+sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#r#sRARS
+#rRS
+
+#s#sRA
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#r#sRA
+#rRS
+RS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sR#rRS
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#rRS
+##sRA
+#sRA
+rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##rRS
+#sRsRA
+A
+#rRS
+#sR#sRA
+A
+#rRS
+##rRS
+rRS
+#sRA
+#sRA
+#rRS#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#rRS
+#sRA#
+sRA
+#rRS
+#sRA
+#rRS
+#r#sRA
+RS
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#rR#rRS
+S
+#s#sRA
+RA
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sR#rRS
+#rRS
+A
+##sRA
+sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#s#rRRA
+S
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rR#rRS
+#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS#
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+##s#rRS
+rRS
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#sRA
+S
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+#sRA
+#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#s#sRA
+#rRS
+RA
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA
+#rRS#sRA
+
+#sRA
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS
+#s#sRA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rR#rRPL #rRPL#rRPL #rRPL 1
+PL 1
+1
+ 1
+1
+##rR#rRPL #rRPL #rRPL rRPL 1
+PL 1
+1
+1
+1
+#r#rRS
+RS
+#sR#rRS
+#sRA
+A
+#rRS
+#s#sRA
+RA
+#rRS
+#sRA
+#rR#rRS
+S
+#rRS
+#sRA
+#rRS#sRA
+
+#sRA
+#sRA
+#rR#rS
+RS
+#rRS
+#sRA
+#sRA
+#rRS#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+##rRS
+#sRA
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sR#sA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#rRS
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sR#rRA
+S
+#rRS
+#rRS#sRA
+
+#s#sRA
+RA
+#rRS
+#rR#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL #rRPL 1#rRPL 1
+1
+
+#r#rRPL#rRPL#rRPL #rRPL 1RPL 1
+ 1
+ 1
+1
+
+##rRP#rRPL#rRPL 1
+#rRPL 1
+rRPL 1
+L 1
+ 1
+#rRPL 2
+#r#rRPL#rRPL 1#rRPL 1
+RPL 1
+ 1
+
+#rRS#rRS#rRS
+
+
+#rRS
+#sRA
+#sR#sRA
+A
+#sRA
+#rRS
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#rR#S
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+#rRS
+#sRA
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA#rR
+#sRA
+S
+#sRA
+#r#rRS
+RS
+#sR#rRS
+A
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#rRSS
+
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+##rRS
+#rRS
+#rRS
+#rRS
+rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rR#sRA
+S
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rR#sRA
+S
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#r#sRA
+RS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#r#sRA
+RS
+#sRA
+##sRA
+#rRS
+#rRPL sRA
+0
+#sRA
+#rRS
+#rRPL 0
+#s#rRS
+#rRRA
+PL 0
+#rRS
+#rRS
+#sRA
+#rRPL 0
+#sRA
+#sRA#rRPL 
+0
+#rRS
+#sRA
+#r#rRS
+RPL 0
+#rRPL#sRA 0
+
+#rRPL #rRS
+#rRS
+0
+#rRS
+#sRA
+#rRPL 0#sRA
+
+#sRA
+#rRPL 0
+#rRS
+#r#sRRPL 0
+A
+#rRS
+#rRS
+#s#sRA
+#rRRA
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL#rR 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+##rRS
+#rRS
+rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rR#sRA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##rrRS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#r#rR#rRPL #rRPL #rRPL 0
+RPL 0
+PL 0
+0
+0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rR#rRPPL 0
+L 0
+#rRPL 0#rRPL 0
+
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rR#rRPL 0PL 0
+#rRPL 
+#rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL #rR0
+0
+0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRP
+L 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRP#rRL 0
+#rRPPL 0
+#rRPL 0
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRP
+L 0
+##rRP#rRPLrRPL 0
+#rL 0
+ 0
+RPL 0
+###rRPL rRPL 0
+rRPL 0
+0
+#rRPL 0
+##rRPL#rRPL #rRPL 0
+ 0
+0
+rRPL 0
+#rRPL #r0
+#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRP#rRPL #r0
+L 0
+0
+RPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRP#L 0
+rRPL 0
+#rRPL 0
+#rRP#L 0
+rRPL 0
+#rRP#rRPL 1
+#rRPL 1
+#rRPL 1
+L 1
+#rRPL 1
+#r#rRPL 1#rRPL 1#rRPL 1#rRPL 1
+RPL 1
+
+
+
+##r#rRPL #rRPL 1#rRPL 1
+rRPL 1
+RPL 1
+1
+
+##r#r#rRPL RPL 1
+RPL 1
+rRPL 1
+1
+#rRPL 1
+#r#rRPL#rRPL 1#rRPL 1
+RPL 1
+ 1
+
+#rR#rRPL#rRPL #rRPL 0
+PL 0
+ 0
+0
+#rRP#rRPL #rRPL 0L 0
+0
+
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rR#rRPL 0
+PL 0
+PL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+##rRPL#rRPrRPL 0
+ 0
+L 0
+#rRPL 0
+#rR#rRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+#rrRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0#
+#rRPL 0rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL#rRPL 0
+0
+ 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#sRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sR#sRA
+A
+#sRA
+#sRA
+#r#rRP#rRPL #rRPL RPL 1
+L 1
+1
+1
+#rRPL 1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rRS#rRS
+#rRS
+RS
+#rRS
+
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#s#rRS
+RA
+#sRA
+#sR#rRS
+A
+##rRS
+#sRA
+rRS
+#rRS
+#sRA
+#sRA#s
+#rRRA
+S
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#rRS#rRS#
+
+sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#r#RS
+sRA
+#sRA
+#rRS
+#rRS
+#rR#sRA
+S
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+#rRSRA
+
+#sRA
+#s#sRA
+RA
+#rRS
+#r#sRA
+RS
+#sRA
+#rRS
+##rRS
+rRS
+##r#sRA
+#sRA
+sRA
+RS
+#rRS
+#rRPL 1
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sR#rRS
+A
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#s#rR#sRA
+#RA
+S
+rRS
+#sRA
+#rRS
+#r#sRA
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##sRrRS
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL#rRPL  1
+#rRPL 1
+1
+##rRPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+rRPL 1
+#rRPL 2
+#rRPL 2
+#r#rRP#rRPL #rRPL 1
+#rRPL 1
+RPL 1
+L 1
+1
+#r#rR#rR#rRS
+#rRS
+RS
+S
+S
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS#sRA
+
+#sRA#sRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#rR#rRS
+#sRAS
+
+#sRA#s
+RA
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+
+#rRS
+#sRA#sR#rRS
+A
+
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+##sRA
+sRA
+#rRS
+#sR#rRA
+S
+#rRS
+#rRS
+#r#sRA
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+
+#rRS
+#sR#rRS
+#sRA
+A
+#sRA
+#sRA
+##rRrRS
+S
+#rRS
+#sRA
+#sR#sRA
+#rA
+#rRS
+RS
+#r#sRA
+#sRA
+RS
+#sRA
+#rRS
+#rR#S
+sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL #rRPL #rRPL 1#rRPL 1
+1
+1
+
+#rRPL 2
+#r#rRP#rRPL#rRPL #rRPL 1
+RPL 1
+L 1
+ 1
+1
+#r#rRPL#rRPL #rRPL RPL 1
+ 1
+1
+1
+#rRPL 1
+#rRPL 0#rRPL 0#rRPL 0
+
+
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL  0
+0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL 00
+#r
+#rRPL RPL 0
+0
+#rRPL #rRPL 00
+
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRP#L 0
+rRPL 0
+#rRP#r#rRPL L 0
+RPL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0#rRPL
+ 0
+#rRPL 0#rRP
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRrRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#
+rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+0
+#rRPL 0
+#rRPL 0#rRPL
+ 0
+#rRPL #rRPL 0
+0
+#rRP#rRPL L 0
+#rRPL0
+ 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL#rR#rRPL #rRPL 0
+PL 0
+ 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+##r#rRPL 1#rRPL 1
+rRPL 1
+RPL 1
+
+#rRPL#rRPL #rRPL#rRPL #rRPL  1
+1
+1
+ 1
+1
+##rRP#rRPL #rRPL 1
+rRPL 1
+L 1
+1
+##r#rR#rRPL 1
+rRPL 1
+RPL 1
+PL 1
+#rRPL 1
+#rRPL 2
+#rRPL 2
+#rR#rRPL #rRPL 0
+#rPL 0
+0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 
+0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL #rRPL 
+0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+##rRP0
+rRPL 0
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 00
+#rRPL
+ 0
+#rR#rRP#rRPL PL 0
+L 0
+0
+#rRPL 0#rRPL
+ 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+##rRrRPL 0
+PL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL#rRPL 0
+0
+ 0
+#rRPL 0
+#rR#rRPL #rRP#rRPL PL 0
+0
+L 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+#rRPL 0
+0
+0
+#rRPL 0#rRPL
+#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rR#rRPL 0#rRPL 
+PL 0
+
+0
+#rRPL #rRPL 00
+#rRPL #rRPL 0
+
+#rRPL 00
+
+#rRPL 0
+#rR#rRPL 0
+#rRPL PL 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+#r0
+RPL 0
+##r#rRPL rRPL 0
+RPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL #r0
+#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rR#rRS
+#rRS
+#rRS
+rRS
+S
+#sRA
+#sR#sA
+RA
+#sRA
+#sRA
+#rRS
+#sR#rA
+RS
+#rRS
+#rRS
+#sRA
+#sRA
+#sR#rA
+RS
+#sRA
+#rRS
+#rRS
+#sRA
+##rRS
+sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#rRS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#sRA
+#rRS#s
+RA
+#sRA
+#rRS#r
+RS
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+#sRA
+
+#s#sRA
+RA
+#rRS
+#sRA#rRS
+
+#rR#sRA
+S
+#rRS
+#rRS#rRS
+#sRA
+
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS#sRA
+
+#sRA
+#rRS
+#rRS
+##rRsRA
+#sRA
+S
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL 2
+#rRPL 2
+#rR#rRPL #rRPL #rRPL PL 1
+1
+1
+1
+#r#rRPL #rRPL #rRPL 1#rRPL 1
+RPL 1
+1
+1
+
+###rRPL#rRPL #rRPL rRPL 0
+rRPL 0
+ 0
+0
+0
+#r#rRPL #rRPL 0
+#rRPL 0
+RPL 0
+0
+#rRPL 0
+#rR#rRPLPL 0
+#rR 0
+#rRPL PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL #r#rRP0
+RPL 0
+L 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+##rRPL 0
+#rRPL rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+#rRPL0
+ 0
+#rRPL 0
+#rRPL #rRPL 0
+#0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL #r0
+#rRPL RPL 0
+0
+0
+#rRPL 0
+#rRPL 0#rRPL#rRP#rRPL 
+ 0
+0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL #r#rR0
+RPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#rRPL 0#rR
+PL 0
+#rRPL 0
+#rRPL 0#rRPL
+ 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRPL 0
+##rRPLrRPL 0
+#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+##rRPL rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL #rRPL0
+PL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rR#rRPL 0
+PL 0
+rRPL 0
+#rRPL 0#rRPL
+ 0
+#rR#rRPL 0
+PL 0
+##r#r#rR#rRPL 1
+rRPL 1
+RPL 1
+RPL 1
+PL 1
+#rRS#rRS
+#rRS
+#rRS
+#rRS
+
+#rRS
+#s#sRA
+RA
+#sR#sRA
+A
+#sRA
+#sRA
+#rRS
+###rRS
+rRS
+rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA#rR
+S
+#rRS
+#sRA#sRA
+#sR
+A
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#r#rRS
+RS
+#sRA
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#s#rRS
+RA
+#rRS
+#rRS
+#s##rR#sRA
+RA
+rRS
+S
+#sRA
+#sRA
+#rR#sRA
+S
+#sRA
+#rR#rRS
+S
+#sR#rRS
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+##rRPL #rRPL #rRPL 1
+rRPL 1
+1
+1
+#r#rRPL#rRPL 1
+RPL 1
+ 1
+#rRPL 1
+#r#rRPL 0
+#rRPL 0
+#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL #rR0
+0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL #rRPL 0
+0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL0
+# 0
+rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL0
+ 0
+##rRPLrRPL 0
+##rRPL#rRPL  0
+rRPL 0
+ 0
+0
+##rRPL#rRPL rRPL 0
+ 0
+#rRPL #rRPL 0
+0
+0
+#rRPL #rR#rRPL #rRP0
+PL 0
+0
+L 0
+#rRPL 0
+#rR#rR#rRPL PL 0
+0
+PL 0
+#rRPL 0
+#r#rRPL #rRPL 0
+RPL 0
+0
+#rRPL #rRPL#rRPL 0
+ 0
+0
+#rRPL 0
+#rRPL#rRP 0
+#rRL 0
+#rRPL 0
+PL 0
+#rRPL 0
+##rRPrRPL 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rR#rRPL#rRPL 0
+
+PL 0
+ 0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL0
+#rRP 0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rR
+PL 0
+#rRPL 0
+#rR#rR#r#rRPPL 1
+RPL 1
+PL 1
+L 1
+##r#rRPL#rRPL 1rRPL 1
+RPL 1
+ 1
+
+#r#rRPL#rRPL #rRPL #rRPL 1
+RPL 1
+ 1
+1
+1
+#rRPL #rRPL #rRPL 1
+#r1
+1
+RPL 1
+#rRPL 1
+#rRPL 2
+#rRPL 2
+##rR#rRPL #rRPL rRPL 1
+PL 1
+#rRPL 11
+1
+
+##rRPL #rRPL 1
+#rRPL 1rRPL 1
+1
+
+#rRPL 2
+#rRPL 2
+#rR#rRS
+#rRS
+#rRS
+#rRS
+S
+#sRA
+##sRA
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#r#rRS
+#sRA
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS#rR
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#sS
+RA
+#sRA
+#rRS
+#rRS
+#r#sRA
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#rR#sRA
+#sRA
+#sRA
+S
+#sRA
+#rRS
+#sRA
+#rRS
+#r#sRA
+RS
+#rRS#rRS
+#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#s#sRA
+#rRS
+RA
+#sRA
+#rRS
+##rRS
+rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rR#rR#rRPL#rRPL #rRPL 1
+PL 1
+PL 1
+ 1
+1
+###rRPL#rRPL #rRPL 1rRPL 1
+rRPL 1
+ 1
+1
+
+##rR#rRPL#rRPL 1
+rRPL 1
+PL 1
+ 1
+#rRPL 2
+#rRPL 2
+#r#rRP#rRPL#rRPL#rRPLRPL 1
+L 1
+ 1
+ 1
+ 1
+##rRPL #rRPL #rRPL 1#rRPL rRPL 1
+1
+
+1
+1
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#rRS
+#rRS#sRA
+A
+#rRS
+
+#rRS#sR
+#sRA
+A
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+##sRA
+rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+##rrRS
+RS
+#rRS
+#sRA#sRA
+#
+sRA
+##rRS
+rRS
+#sRA
+#sRA
+#rRS
+##rRS
+#rRS
+sRA
+#sRA
+##sRA
+rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL #rRPL #rRPL #rRPL 00
+0
+0
+
+#rRP#rRPL 0#rRPL L 0
+
+#rRP0
+L 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0#rRPL
+#rRPL 0
+ 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL 0##r
+rRPL 0
+#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rR#r0
+PL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#r#rRPL #rRPL 0
+#RPL 0
+0
+rRPL 0
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rRPL 0
+#rRPL #rRPL #rRPL0
+0
+ 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rR#rPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPPL 0
+L 0
+#rRPL 0#rRPL 
+0
+#rRPL# 0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0#rRPL 
+0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL 0
+0
+##rRPL#rRPrRPL 0
+ 0
+L 0
+#rRPL 0
+#rRP#rRPL 0#rRPL 0
+L 0
+#rRPL 
+#rRPL 0
+0
+#rRPL #rRPL 0
+#0
+#rRPL 0
+rRPL 0
+#r#RPL 0
+#rRPrRPL 0
+L 0
+#rR#rRPL 0
+PL 0
+#r#RPL 0
+rRPL 0
+#rRPL 0
+#rR#rRPL #rRPL 0
+PL 0
+0
+#rRPL #rRPL#rR#r0
+ 0
+#rRPL PL 0
+RPL 0
+0
+#rRPL#rRPL 0
+ 0
+#rRP#rRPL 0
+L 0
+#rRPL #rR#rRPL 0
+PL 0
+0
+#rRPL #rRPL #rRPL 0
+#rRPL 0
+0
+0
+#rRPL 0
+#rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL #rRPL 00
+
+#rRP#rRPL #rRPL 0
+L 0
+0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRS#rRS
+#rRS
+#rRS
+#rRS
+
+##sRA
+sRA
+#sR#sRA
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rR#rRS
+S
+#sRA
+#r#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#s#rRS
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA#rR
+S
+#sRA
+#rRS
+##rR#sRAsRA
+S
+
+#sRA
+#rRS
+#r#RS
+sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sR#rRS
+#sRA
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#rRS
+S
+#sRA
+#rR#s#rS
+#sRA
+RA
+RS
+#sRA
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#r#rRS
+#rRS
+RS
+##rRS
+sRA
+#sR#sA
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rR#sRA
+S
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+##sRArRS
+
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS#rRS
+
+##sRA
+rRS
+##rRsRA
+S
+#sRA
+#rRS
+#sR#A
+sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+##sRArRS
+
+#sRA
+#sRA
+##rRrRS
+S
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+RA
+#sRA
+#rRS#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS#sRA
+
+#rRS
+#sRA
+#rRS
+#rR#sRS
+A
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+#rRS
+
+#sR#rRA
+S
+#sRA#sR
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA#rRS
+#rRS
+
+#sRA
+#rRS
+#sRA
+##rRS
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+##sRA
+#rRS
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#r#rRS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#rR#rRSS
+#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+##sR#rRS
+#rRS
+sRA
+A
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#r#sRA
+#sRA
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+##rRsRA
+S
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS#r
+RS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS#
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA#rRS#sRA
+
+
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#rRS#rR
+#rRS
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+##rRS
+#srRS
+RA
+#rRS
+#sRA
+##rRS
+sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sR#sRA
+A
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+sRA
+##rRS
+rRS
+#rRS
+#rRS
+#sR#sRAA
+#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR##rRS
+S
+rRS
+#sRA
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+#rRS
+rRS
+#sRA
+#sRA
+#rRS
+##sRA
+sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#s#s#rRSRA
+RA
+
+#sRA
+#rRS
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#r#r#sRA
+#rRS
+RS
+RS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#rRSRA
+#s
+#sRA
+RA
+#sRA
+#rRS
+#sRA
+##rRSrRS
+
+#rR#rS
+#sRRS
+#sRAA
+#sRA
+
+#sRA
+#rRS
+#rRS
+#sR##sRA
+rRS
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sR#sRA
+#sRA#s#rRS
+A
+
+RA
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#r#sRA
+#rRSRS
+
+#sRA
+#s#rRRA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#rRS
+A
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS#r
+RS
+#sR#rA
+RS
+#sRA
+#sRA
+#rRS
+#rRS#rRS
+#
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+##rRSsRA
+
+#rRS
+#r#sRARS
+
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+##sRA
+rRS
+#rRS
+#rRS#rRS#
+#sRA
+
+sRA
+#rRS
+#sRA
+#sRA#sRA
+
+##rRS
+rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA
+#rR#S
+rRS
+#rRS
+#sRA
+#rRS#sRA
+
+#rRS#sRA
+
+#sRA
+#s#rRRA
+S
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA#rRS
+#sRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#r#rRS
+RS
+#rRS
+#sRA
+##rRS
+#sRA
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+##rRS
+rRS
+#sRA
+##sRA
+rRS
+#r#rRS
+RS
+#rRS
+#sRA
+#sRA
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sR#sA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sR#sRA
+A
+##rRS
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#r#RS
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS#rRS
+#rRS
+
+#sRA
+#sRA
+#sRA
+#rR#rRS
+S
+#sR#A
+rRS
+#sRA
+#sRA
+##rRS
+rRS
+#sRA
+#sRA
+#rRS
+#rRS#s
+RA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#s#RA
+rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sR#rRS
+A
+#sRA
+#sRA#rRS
+
+#rRS
+#sR#sRA
+A
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#s#rRS
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#rRS#sRA
+
+#rRS
+#sR#rRA
+S
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sA
+RA
+#sRA
+#rRS
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#rRS
+S
+#sRA
+#sR#sA
+RA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#S
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS#rRS
+
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+rRS
+#s#r#sRARA
+RS
+
+#rRS
+##rRS
+sRA
+#sRA
+#sRA
+##rRS
+rRS
+#rR#sRA
+S
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+##sRA#sRsRA
+A
+
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+##sRrRS
+A
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#rRS
+
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+##rRS
+rRS
+#r##r#sRARS
+sRA
+RS
+
+#sRA
+#sRA
+#rRP#rRPL L 1
+#rRPL 1
+1
+#rRS
+#rRPL 1
+#sRA
+#rR#rRPL #rRPL PL 1
+1
+1
+#rRPL 1
+#rRPL 1
+#rRP#rRPL #rRPL L 1
+1
+1
+#rRPL 1
+#rRPL#rRPL #rRPL 1#rRPL 1
+#rRPL 1
+ 1
+1
+
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rR#rRPL #rRPL 0
+PL 0
+0
+#rRPL ##rRPL 0
+rRPL 0
+0
+#rRPL#r 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#rRPL #rRPL 0
+PL 0
+0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rR0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL#rR 0
+PL 0
+#rRPL 0
+#rR#rRPL PL 0
+0
+#rRPL 0
+##rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rR#r#rRS
+#rRS
+#rRS
+RS
+S
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#sRA
+#rRS
+##sRA
+rRS
+#rRS
+##sRA
+sRA
+#r#rRS
+RS
+#rRS
+#sRA
+##sRAsRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#rRS
+##sRA
+sRA
+RA
+#sRA
+#rRS
+#rRS
+#sRA
+#s#rRS
+#rRS
+RA
+#rRS
+##sRA
+rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rR#rRS
+#sRA
+S
+#sRA#
+#sRA
+rRS
+#rRS
+#rRS
+#sR#sRA
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rR#sRA
+S
+#sRA
+#r#rRRS
+S
+#rRS
+#r#sRA
+#rRS
+#rRS
+RS
+#sRA#sRA
+#sRA
+
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sR##rRrRS
+A
+#S
+#srRS
+RA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#s#RA
+sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#sRA##rRS
+
+rRS
+
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#RA
+rRS
+#sRA
+#sRA
+#r#sRA
+RS
+#rRS
+#sRA
+#sRA
+#rRS
+#s#rRSRA
+
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS
+#sRA
+#sRA
+#sRA
+##rRSrRS
+
+#sRA
+#rRS
+#rRS
+#sRA
+###sRA
+#rRS
+rRS
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA#sRA
+#rRS
+
+##sRA
+#rRS
+#rRS
+rRS
+#sRA
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#s#sRA
+#sRA
+RA
+#sRA
+#rRS
+#rRS
+##sRA
+#rRS
+sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+##sRA
+#rRS
+rRS
+#s#sRA
+#rRSRA
+
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+##rRS
+sRA
+##sRA
+sRA
+#rRS
+#rRS
+#s#sRA
+RA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#rRS
+#rRS
+#sRA
+S
+#sRA
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rR#sRA
+#rRS
+S
+#rRS
+#s#RA
+sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL 1
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sR#rRS
+A
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#sRA
+S
+#rR#sRA
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#r#RS
+#rRS
+rRS
+##sRA
+#rRS
+#rRS
+sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+#sR#sRA
+A
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rR#sRA
+S
+#sRA
+#rRS
+#sRA
+#rRS
+##rRS
+rRS
+#sRA#rRS
+#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+###sRA
+sRA
+rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#rRS
+S
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRPL #rRPL 0#rRPL 0#rRPL 0
+#rRPL 0
+0
+
+
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+#r
+RPL 0
+##rRPL rRPL 0
+#rRPL #rRPL0
+#0
+ 0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL #rRPL #rRPL0
+0
+ 0
+#rRPL 0
+#rRPL #rRPL #rRPL 00
+0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRP0
+#rRPL L 0
+0
+#r#rRPL#rRPLRPL 0
+#rRPL  0
+ 0
+0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL #rRP0
+#rRPL 0
+L 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+##r#rRPrRPL 0
+#rRPL #rRPL RPL 0
+L 0
+0
+0
+#rRPL #rR0
+PL 0
+#rRPL #rRPL 0
+#r#rRPL 0
+0
+RPL 0
+#rRPL 0
+#rRPL #rR0
+PL 0
+#rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL #rRP0
+#rRPLL 0
+ 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRP##r#rRPL L 0
+rRPL 0
+RPL 0
+0
+#rRPL 0
+#rRP#rRP#rRPL#rRPLL 0
+L 0
+ 0
+ 0
+#rRPL 0#rRPL 
+0
+#rRPL 0
+#rRPL 0#rRP#rRPL 0
+
+L 0
+#rRPL 0
+#rRPL #rRPL0
+ 0
+#rR#rPL 0
+RPL 0
+#rRPL 0
+#r#rR#rRPL RPL 0
+PL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rR#rR#PL 0
+PL 0
+#rRrRPL 0
+PL 0
+##rRPL rRPL 0
+0
+#rRPL 0#
+#rRPL 0
+rRPL 0
+#rRPL 0
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRS
+#rRS
+#s#sRRA
+A
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRPL 1
+#rRPL 1
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL #rRPL 1
+1
+#rRPL 1
+#r#rRP#rRPL RPL 1
+L 1
+1
+#rR#rRPPL 1
+L 1
+#rRPL 1
+#rRPL #r1
+RPL 1
+#rRPL#rRPL #rRPL #rRPL #rRPL 1
+ 1
+1
+1
+1
+#rRPL #rRPL #rRPL 1#rRPL 1#rRPL 1
+1
+1
+
+
+#rRPL 2
+#rRPL 2
+#rRPL 2
+##rRS#rRS
+#rRS
+#rRS
+rRS
+
+#sRA
+#sRA
+#sRA
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+#rRS#rR
+#sRAS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA#rRS
+#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#r#rRRS
+S
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS#sRA
+
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##rRS
+#rRS
+sRA
+#sRA#sRA
+#sRA
+
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRS
+RS
+##rRS
+#rRS
+#sRA
+sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rR#S
+rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#r#rRSRS
+
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#s#sRA
+RA
+#rRS
+#s#rRS
+RA
+#rR#rRS
+#sS
+RA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+##r#rRPL #rRPL 1
+#rRPL 1
+rRPL 1
+RPL 1
+1
+#rRPL#rRP#rRPL #rRPL #rRPL  1
+L 1
+1
+1
+1
+##r#rRPL rRPL 1
+RPL 1
+1
+#rRPL 1
+#r#rRPL 1
+RPL 1
+#rRPL 1
+#rRPL 1
+#rRPL 1
+#r#rRP#rRP#rRPL RPL 1
+L 1
+L 1
+1
+#rRPL 1
+#rRS#rRS#rRS
+#rRS
+
+
+#sRA
+#sRA#sRA
+
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+##sRA
+rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#s#sRRA
+A
+#rRS#rRS
+
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+##rRsRA
+S
+#sRA
+#rRS
+#sRA#rRS
+#rRS
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sR#sRA
+A
+#rRS
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#r#rRS
+#rRS
+#rRS
+#rRS
+RS
+#sR#sRA
+A
+#s#sRA
+#sRARA
+
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sR##rRS
+#rRS
+A
+rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS#sR
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS#rR
+S
+#sRA
+#rRS
+#sR#A
+rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#L 0
+rRPL 0
+#r#rRPL RPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL #rRPL0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRrRPL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRPL 0
+L 0
+#r#rRPL RPL 0
+0
+#rRP#rRPL L 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rRL 0
+PL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+##rRPL#rRPL #rRPL #rRPL #rRPL rRPL 0
+0
+ 0
+0
+0
+0
+##rRPL rRPL 0
+#rRPL 0
+0
+#rRPL #rRPL 0#rRPL
+0
+ 0
+#rRPL#rRPL  0
+0
+#rRPL #rRPL 0
+0
+##rrRPL 0
+RPL 0
+#rRP#rRPL 0
+L 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL#rRP#rRPL  0
+L 0
+0
+#rRPL 0
+#rRPL #rRPL 0
+#0
+#r#rRPL 0rRPL 0
+RPL 0
+
+#rRPL#rRPL  0
+##rRPL 0
+#rRPL rRPL 0
+0
+0
+#rRPL 0
+#rRPL#rRPL#rRP#rR#rRP 0
+ 0
+L 0
+L 0
+PL 0
+#rRPL 0
+#r#RPL 0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+#rRPL 
+0
+#rRPL 0
+#rRPL 0#rRPL #rRPL 
+0
+0
+#rRPL 0
+#rR#PL 0
+rRPL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#
+#rRPL 0rRPL 0
+#rRPL 
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL #rRPL 0
+#rRPL 00
+
+#r#rRPL 0
+RPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#L 0
+rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL#rRPL #rRPL  0
+0
+0
+#rRP#rRPL 0
+#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL##rRP 0
+rRPL 0
+L 0
+##rRPL 0rRPL 0
+
+#rRPL 0
+#rRPL #rRP#rR0
+L 0
+PL 0
+#r#rRPL 0
+RPL 0
+#rRPL 0#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL
+ 0
+#rRPL #rRPL 0
+0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+##rR#rRPL 1#rRPL 1#rRPL 1
+rRPL 1
+PL 1
+
+
+#rR#rR#rRPL 1#rRPL 1
+PL 1
+PL 1
+
+#r#rRPL#rRPL RPL 1
+ 1
+1
+#rR#rRPL 1
+#rRPL 1#rRPL 1
+PL 1
+
+#rRPL 1
+#rR#rRPL #rRPL#rRPL 0
+PL 0
+ 0
+0
+#rR#rRPL #rRPL #rRPL PL 1
+1
+1
+1
+#rRPL #rRPL 0
+#rRPL 0
+#rRPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #r0
+RPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+#rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRP#rRPLL 0
+ 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL 0
+#rRPL 0#rR
+PL 0
+#rRPL 0
+#rRP#rRPL L 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL  0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRP#rL 0
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#sRS
+##rRS#rRS
+#rRS
+rRS
+
+#sRA
+#sRA
+#sRA
+#sRA
+##rRPL#rRPL #rRPL #rRPL 1
+rRPL 1
+ 1
+1
+1
+#rRPL 2
+#rRPL 2
+#rRPL 2
+#rRPL#rRPL #rRPL #rRPL 1
+#rRPL 1
+ 1
+1
+1
+#rRPL 2
+#rR#rRS
+#rRS
+#rRS#rRS
+S
+
+#rRS
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS#sRA
+
+##sRA
+sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sR#sRA
+A
+#rRS
+#rRS#rRS
+
+#sRA
+#rRS
+#sRA
+#sRA#rRS
+#rRS
+#sRA
+
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+
+#rRS
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRRA
+#sRAA
+
+#rRS
+#rRS#rRS
+
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#rRS
+#s#sRA
+RA
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rR#sRA
+S
+#r#RS
+sRA
+#rRS
+#rRS
+#sRA
+#rRS
+#rRS#sRA
+#sRA
+
+##sRA
+sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#rRS
+RA
+#sRA
+#r#sR#sRA
+RS
+A
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#rRS
+#sRA
+#rRPL 1
+#rR#rRPL #rRPL 1PL 1
+1
+
+#rRPL #rRP#rRPL #rRPL #rRPL 1
+L 1
+1
+1
+1
+#rRPL #rRPL #rRPL 1
+1
+1
+#rRPL 1
+#r#r#rRS#rRS
+#rRSRS
+RS
+
+
+#sRA
+#sR#A
+#sRA
+#sRA
+sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+##sRA
+##rRSrRS
+sRA
+
+#sRA
+#rRS
+#sRA
+#sRA
+#r#rRS
+RS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rR#rRS
+S
+#sRA
+#sRA
+#sRA
+##rRS
+rRS
+#rRS
+#sRA
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#sRA
+#rRS
+#rRS
+#sRA
+#rRS#rRS
+
+#sRA#s
+RA
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+###sRA
+sRA
+rRS
+#rRS
+#sRA
+##sRA
+rRS
+#rRS
+#sRA
+#sRA#rRS
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#sRA#sRA
+#rR
+#rRS
+S
+##sRAsRA
+
+#sRA
+#rRS
+#sRA
+#rRS
+#rRS
+#rRS
+#s#rRS
+RA
+#rRS#sRA
+#sRA
+
+#sRA
+#sRA
+#rRS
+##rRS
+sRA
+#rRS
+#sRA
+#r#sRA
+RS
+#rRS
+#sR#sRA
+A
+#rRPL 2
+#rRS
+#sRA
+#rR#rRP#rRPL#rRPLPL 1
+L 1
+ 1
+ 1
+#r#rRPL #rRPL #rRPL 0
+RPL 0
+0
+0
+#r##rRPL #rRPL RPL 0
+rRPL 0
+0
+0
+#rRPL#rRPL  0
+#rR0
+#rRPL 0
+PL 0
+#r#rRPL RPL 0
+0
+#rRPL #rRPL 0
+0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#rRPL #rRPL #rRPL 0
+0
+0
+#rRP#rRPL #rRPL 0
+0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRPL 0
+#rR#rRPL 0PL 0
+#r
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #0
+#rRPL rRPL 0
+0
+#rRPL 0#r
+RPL 0
+#rRPL 0
+#rRPL 0
+#rRPL #rRPL 00
+
+#rRPL 0
+#rRPL 0
+#rRPL#rRPL 0
+ 0
+#rRPL 0
+#rRPL 0
+##rRrRPL 0
+PL 0
+#rRPL #rRPL 0
+0
+#rRPL 0
+#rRP#rRPL #rRPL L 0
+0
+0
+#rRPL 0
+#rRPL #rRPL 0#rRPL 0
+
+0
+#rRPL 0
+#rRPL# 0
+#rRPLrRPL 0
+#rRPL  0
+0
+#rRPL 0
+#rRPL #rRP0
+L 0
+#rRPL 0
+#rRPL 0
+#rRPL 0#rRPL 0
+
+#rRPL 0
+#r#rRPL #rRPL 0
+RPL 0
+0
+#rRPL 0
+#r#rRPLRPL 0
+ 0

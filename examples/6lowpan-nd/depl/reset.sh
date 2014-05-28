@@ -8,6 +8,6 @@ do
 	typ=${l[2]}
 	typefire="6l${l[3]}"
 	echo "PUT Firmware $typefire in $node"
-	echo tb_action -t $typ --dev $tty -f ex-6lowpannd-$typefire.$typ prog
-	tb_action -t $typ --dev $tty -f ex-6lowpannd-$typefire.$typ prog
+	echo "RESET $typefire: $node"
+	tb_action reset --dev $tty -t sky &
 done <node.txt
