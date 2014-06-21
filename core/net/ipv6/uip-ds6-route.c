@@ -64,9 +64,8 @@ LIST(notificationlist);
 #endif
 
 #if CONF_6LOWPAN_ND
-//TODO modify to LIST
 uip_ds6_border_router_t uip_ds6_br_list[UIP_DS6_BR_NB];  /** \brief Border router list */
-uip_ds6_border_router_t *locbr;
+static uip_ds6_border_router_t *locbr;
 #endif /* CONF_6LOWPAN_ND */
 
 static int num_routes = 0;
@@ -255,6 +254,7 @@ uip_ds6_route_lookup(uip_ipaddr_t *addr)
   return found_route;
 }
 /*---------------------------------------------------------------------------*/
+#if CONF_6LOWPAN_ND
 uip_ds6_route_t *
 uip_ds6_route_lookup_by_nexthop(uip_ipaddr_t *ipaddr)
 {
@@ -271,6 +271,7 @@ uip_ds6_route_lookup_by_nexthop(uip_ipaddr_t *ipaddr)
   }
   return NULL;
 }
+#endif /* CONF_6LOWPAN_ND */
 /*---------------------------------------------------------------------------*/
 uip_ds6_route_t *
 uip_ds6_route_add(uip_ipaddr_t *ipaddr, uint8_t length,
@@ -293,8 +294,8 @@ uip_ds6_route_add(uip_ipaddr_t *ipaddr, uint8_t length,
   }
 
   /* First make sure that we don't add a route twice. If we find an
-     existing route for our destination, we'll just update the old
-     one. */
+     existing route for our destination, we'll delete the old
+     one first. */
 #if CONF_6LOWPAN_ND_OPTI_TDAD
   specialsearch = 1;
   r = uip_ds6_route_lookup(ipaddr);
@@ -303,10 +304,12 @@ uip_ds6_route_add(uip_ipaddr_t *ipaddr, uint8_t length,
   r = uip_ds6_route_lookup(ipaddr);
 #endif /* CONF_6LOWPAN_ND_OPTI_TDAD */
   if(r != NULL) {
-    PRINTF("uip_ds6_route_add: old route already found, updating this one instead: ");
+    PRINTF("uip_ds6_route_add: old route for ");
     PRINT6ADDR(ipaddr);
-    PRINTF("\n");
-  } else {
+    PRINTF(" found, deleting it\n");
+    uip_ds6_route_rm(r);
+  }
+  {
     struct uip_ds6_route_neighbor_routes *routes;
     /* If there is no routing entry, create one. We first need to
        check if we have room for this route. If not, we remove the

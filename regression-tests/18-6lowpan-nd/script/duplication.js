@@ -155,30 +155,34 @@ GENERATE_MSG(60000, "timeout");
 YIELD_THEN_WAIT_UNTIL(msg.contains("timeout"));
 log.log("Testing....\n");
 
-for(var i=0; i<30; i++) {
+for(var i=0; i<10; i++) {
     log.log("Check "+(i+1)+"...");
     YIELD_THEN_WAIT_UNTIL(msg.contains("#rNA"));
     GENERATE_MSG(3000, "timeout");
     YIELD_THEN_WAIT_UNTIL(msg.contains("timeout"));
 
     //check IP
-    var ipcheck = {1:false, 2:true, 3:false, 4:false};
+    function islocalip(ip) {return ip.indexOf("fe80:") == 0};
+    function isglobalip(ip) {return ip.indexOf(prefix+":") == 0;}
+    var fakenode = [2,3];
+    var numfake = 0;
     var allm = sim.getMotes();
     for(var id in  allm) {
         var moteid = allm[id].getID();
         var ip = sim.getMoteWithID(moteid).getInterfaces().getIPAddress().getIPString();
-        if(ipcheck[moteid]) {
-            //Check local IP
-            if(ip.indexOf("fe80:") != 0) {
-                log.testFailed();
-            }
+        if(fakenode.indexOf(moteid) != -1) {
+            //Fake mote
+            if(!islocalip(ip))
+                numfake++;
         } else {
-            //Check global IP
-            if(ip.indexOf(prefix+":") != 0) {
+            //Not fake mote
+            if(!isglobalip(ip))
                 log.testFailed();
-            }
         }
     } 
+    if(numfake != 1) {
+        log.testFailed();
+    }
     log.log("\tOK\n");
 }
 log.testOK();
