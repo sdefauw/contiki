@@ -290,16 +290,6 @@ typedef struct uip_ds6_context_pref {
 } uip_ds6_context_pref_t;
 #endif /* CONF_6LOWPAN_ND */
 
-/** \brief A Duplication Address Detection list entry */
-#if UIP_CONF_6LBR
-typedef struct uip_ds6_dup_addr {
-  uint8_t isused;
-  uip_ipaddr_t ipaddr;
-  uip_lladdr_t eui64;
-  struct stimer lifetime;
-} uip_ds6_dup_addr_t;
-#endif /* UIP_CONF_6LBR */
-
 /** * \brief Unicast address structure */
 typedef struct uip_ds6_addr {
   uint8_t isused;

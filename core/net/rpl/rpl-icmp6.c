@@ -99,7 +99,6 @@ static uip_mcast6_route_t *mcast_group;
 #endif /* TCPIP_CONF_ANNOTATE_TRANSMISSIONS */
 /*---------------------------------------------------------------------------*/
 /* Initialise RPL ICMPv6 message handlers */
-#if UIP_CONF_6LBR
 UIP_ICMP6_HANDLER(dis_handler, ICMP6_RPL, RPL_CODE_DIS, dis_input);
 UIP_ICMP6_HANDLER(dio_handler, ICMP6_RPL, RPL_CODE_DIO, dio_input);
 UIP_ICMP6_HANDLER(dao_handler, ICMP6_RPL, RPL_CODE_DAO, dao_input);
@@ -1061,7 +1060,6 @@ dao_ack_input(void)
   }
 
 #if UIP_CONF_6LR
-  //TODO no use route if state UIP_RT_RPL_STATE_ACK except this way
   if(recv_daco) {
     if(uip_ds6_dar_lookup(&locdamo.regipaddr)) {
       /* Final destination */
@@ -1118,7 +1116,6 @@ dao_ack_input(void)
   PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
   PRINTF("\n");
   TCPIP_ANNOTATE("rDAO-ACK");
-#endif /* DEBUG */
   uip_len = 0;
 }
 /*---------------------------------------------------------------------------*/
