@@ -377,6 +377,7 @@ check_prefix(rpl_prefix_t *last_prefix, rpl_prefix_t *new_prefix)
   }
 }
 /*---------------------------------------------------------------------------*/
+#if !CONF_6LOWPAN_ND
 int
 rpl_set_prefix(rpl_dag_t *dag, uip_ipaddr_t *prefix, unsigned len)
 {
@@ -405,6 +406,7 @@ rpl_set_prefix(rpl_dag_t *dag, uip_ipaddr_t *prefix, unsigned len)
   }
   return 1;
 }
+#endif /* !CONF_6LOWPAN_ND */
 /*---------------------------------------------------------------------------*/
 int
 rpl_set_default_route(rpl_instance_t *instance, uip_ipaddr_t *from)
@@ -532,10 +534,12 @@ rpl_free_dag(rpl_dag_t *dag)
     /* Remove routes installed by DAOs. */
     rpl_remove_routes(dag);
 
+#if !CONF_6LOWPAN_ND
    /* Remove autoconfigured address */
     if((dag->prefix_info.flags & UIP_ND6_RA_FLAG_AUTONOMOUS)) {
       check_prefix(&dag->prefix_info, NULL);
     }
+#endif /* !CONF_6LOWPAN_ND */
 
     remove_parents(dag, 0);
   }
@@ -656,11 +660,13 @@ rpl_select_dag(rpl_instance_t *instance, rpl_parent_t *p)
     PRINT6ADDR(&best_dag->dag_id);
     PRINTF("\n");
 
+#if !CONF_6LOWPAN_ND
     if(best_dag->prefix_info.flags & UIP_ND6_RA_FLAG_AUTONOMOUS) {
       check_prefix(&instance->current_dag->prefix_info, &best_dag->prefix_info);
     } else if(instance->current_dag->prefix_info.flags & UIP_ND6_RA_FLAG_AUTONOMOUS) {
       check_prefix(&instance->current_dag->prefix_info, NULL);
     }
+#endif /* !CONF_6LOWPAN_ND */
 
     best_dag->joined = 1;
     instance->current_dag->joined = 0;
@@ -883,11 +889,13 @@ rpl_join_instance(uip_ipaddr_t *from, rpl_dio_t *dio)
     return;
   }
 
+#if !CONF_6LOWPAN_ND
   /* Autoconfigure an address if this node does not already have an address
      with this prefix. */
   if(dio->prefix_info.flags & UIP_ND6_RA_FLAG_AUTONOMOUS) {
     check_prefix(NULL, &dio->prefix_info);
   }
+#endif /* !CONF_6LOWPAN_ND */
 
   dag->joined = 1;
   dag->preference = dio->preference;
@@ -910,8 +918,10 @@ rpl_join_instance(uip_ipaddr_t *from, rpl_dio_t *dio)
 
   memcpy(&dag->dag_id, &dio->dag_id, sizeof(dio->dag_id));
 
+#if !CONF_6LOWPAN_ND
   /* Copy prefix information from the DIO into the DAG object. */
   memcpy(&dag->prefix_info, &dio->prefix_info, sizeof(rpl_prefix_t));
+#endif /* !CONF_6LOWPAN_ND */
 
   rpl_set_preferred_parent(dag, p);
   instance->of->update_metric_container(instance);
@@ -1002,8 +1012,10 @@ rpl_add_dag(uip_ipaddr_t *from, rpl_dio_t *dio)
 
   memcpy(&dag->dag_id, &dio->dag_id, sizeof(dio->dag_id));
 
+#if !CONF_6LOWPAN_ND
   /* copy prefix information into the dag */
   memcpy(&dag->prefix_info, &dio->prefix_info, sizeof(rpl_prefix_t));
+#endif /* !CONF_6LOWPAN_ND */
 
   rpl_set_preferred_parent(dag, p);
   dag->rank = instance->of->calculate_rank(p, 0);
@@ -1171,6 +1183,7 @@ rpl_process_dio(uip_ipaddr_t *from, rpl_dio_t *dio)
 	dag->version = dio->version;
 	RPL_LOLLIPOP_INCREMENT(dag->version);
 	rpl_reset_dio_timer(instance);
+#if !CONF_6LOWPAN_ND
       } else {
         PRINTF("RPL: Global repair\n");
         if(dio->prefix_info.length != 0) {
@@ -1180,6 +1193,7 @@ rpl_process_dio(uip_ipaddr_t *from, rpl_dio_t *dio)
           }
         }
 	global_repair(from, dag, dio);
+#endif /* !CONF_6LOWPAN_ND */
       }
       return;
     }
@@ -1220,6 +1234,7 @@ rpl_process_dio(uip_ipaddr_t *from, rpl_dio_t *dio)
     rpl_reset_dio_timer(instance);
   }
 
+#if !CONF_6LOWPAN_ND
   /* Prefix Information Option treated to add new prefix */
   if(dio->prefix_info.length != 0) {
     if(dio->prefix_info.flags & UIP_ND6_RA_FLAG_AUTONOMOUS) {
@@ -1227,6 +1242,7 @@ rpl_process_dio(uip_ipaddr_t *from, rpl_dio_t *dio)
       rpl_set_prefix(dag, &dio->prefix_info.prefix, dio->prefix_info.length);
     }
   }
+#endif /* !CONF_6LOWPAN_ND */
 
   if(dag->rank == ROOT_RANK(instance)) {
     if(dio->rank != INFINITE_RANK) {

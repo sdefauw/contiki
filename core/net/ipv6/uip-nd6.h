@@ -47,6 +47,9 @@
 
 #include "net/ip/uip.h"
 #include "sys/stimer.h"
+#if CONF_6LOWPAN_ND
+#include "net/ipv6/uip-ds6-route.h"
+#endif /* CONF_6LOWPAN_ND */
 /**
  *  \name General
  * @{
@@ -57,12 +60,24 @@
 #define UIP_ND6_INFINITE_LIFETIME       0xFFFFFFFF
 /** @} */
 
+#if !CONF_6LOWPAN_ND
 /** \name RFC 4861 Host constant */
 /** @{ */
 #define UIP_ND6_MAX_RTR_SOLICITATION_DELAY 1
 #define UIP_ND6_RTR_SOLICITATION_INTERVAL  4
-#define UIP_ND6_MAX_RTR_SOLICITATIONS	   3
+#define UIP_ND6_MAX_RTR_SOLICITATIONS    3
 /** @} */
+#else /* !CONF_6LOWPAN_ND */
+
+/** \name RFC 6775 Host constant */
+/** @{ */
+#define UIP_ND6_MAX_RTR_SOLICITATION_INTERVAL 60
+#define UIP_ND6_MAX_RTR_SOLICITATION_DELAY UIP_ND6_MAX_RTR_SOLICITATION_INTERVAL
+#define UIP_ND6_RTR_SOLICITATION_INTERVAL  10
+#define UIP_ND6_MAX_RTR_SOLICITATIONS    3
+/** @} */
+#endif /* !CONF_6LOWPAN_ND */
+
 
 /** \name RFC 4861 Router constants */
 /** @{ */
@@ -70,6 +85,11 @@
 #define UIP_ND6_SEND_RA                     1   /* enable/disable RA sending */
 #else
 #define UIP_ND6_SEND_RA UIP_CONF_ND6_SEND_RA
+#endif
+#ifndef UIP_CONF_ND6_RA_PERIODIC
+#define UIP_ND6_RA_PERIODIC                     1   /* enable/disable RA periodic sending */
+#else
+#define UIP_ND6_RA_PERIODIC UIP_CONF_ND6_RA_PERIODIC
 #endif
 #ifndef UIP_CONF_ND6_SEND_NA
 #define UIP_ND6_SEND_NA                     1   /* enable/disable NA sending */
@@ -84,9 +104,25 @@
 
 #define UIP_ND6_MAX_INITIAL_RA_INTERVAL     16  /*seconds*/
 #define UIP_ND6_MAX_INITIAL_RAS             3   /*transmissions*/
+#if !CONF_6LOWPAN_ND
 #define UIP_ND6_MIN_DELAY_BETWEEN_RAS       3   /*seconds*/
 //#define UIP_ND6_MAX_RA_DELAY_TIME           0.5 /*seconds*/
 #define UIP_ND6_MAX_RA_DELAY_TIME_MS        500 /*milli seconds*/
+#endif /* !CONF_6LOWPAN_ND */
+/** @} */
+
+/** \name RFC 6775 Router constant */
+#if UIP_CONF_6L_ROUTER
+#define UIP_ND6_MAX_RTR_ADVERTISEMENTS      3
+#define UIP_ND6_MIN_DELAY_BETWEEN_RAS       10 /*seconds*/
+#define UIP_ND6_MAX_RA_DELAY_TIME_MS        2000 /*milli seconds*/
+#define UIP_ND6_MAX_RA_DELAY_TIME           2  /*seconds*/
+#define UIP_ND6_TENTATIVE_NCE_LIFETIME      20 /*seconds*/
+#define UIP_ND6_MULTIHOP_HOPLIMIT           64
+#endif /* UIP_CONF_6L_ROUTER */
+#if CONF_6LOWPAN_ND
+#define UIP_ND6_MIN_CONTEXT_CHANGE_DELAY    300 /*seconds*/
+#endif /* CONF_6LOWPAN_ND */
 /** @} */
 
 #ifndef UIP_CONF_ND6_DEF_MAXDADNS
@@ -124,6 +160,14 @@
 #define UIP_ND6_DELAY_FIRST_PROBE_TIME 5
 #define UIP_ND6_MIN_RANDOM_FACTOR(x)   (x / 2)
 #define UIP_ND6_MAX_RANDOM_FACTOR(x)   ((x) + (x) / 2)
+
+#if CONF_6LOWPAN_ND
+#ifdef UIP_CONF_ND6_REGISTER_LIFETIME
+#define UIP_ND6_REGISTER_LIFETIME       UIP_CONF_ND6_REGISTER_LIFETIME
+#else /* default value is 1h */
+#define UIP_ND6_REGISTER_LIFETIME      60 /* in unit of 60s */
+#endif
+#endif /* CONF_6LOWPAN_ND */
 /** @} */
 
 
@@ -134,6 +178,15 @@
 #define UIP_ND6_OPT_PREFIX_INFO         3
 #define UIP_ND6_OPT_REDIRECTED_HDR      4
 #define UIP_ND6_OPT_MTU                 5
+/** @} */
+
+/** \name 6LoWPAN ND option types */
+/** @{ */
+#if CONF_6LOWPAN_ND
+#define UIP_ND6_OPT_ARO                 33
+#define UIP_ND6_OPT_6CO                 34
+#define UIP_ND6_OPT_ABRO                35
+#endif /* CONF_6LOWPAN_ND */
 /** @} */
 
 /** \name ND6 option types */
@@ -148,6 +201,9 @@
 #define UIP_ND6_NS_LEN                  20
 #define UIP_ND6_RA_LEN                  12
 #define UIP_ND6_RS_LEN                  4
+#if UIP_CONF_6L_ROUTER
+#define UIP_ND6_DA_LEN                  28
+#endif /* UIP_CONF_6L_ROUTER */
 /** @} */
 
 
@@ -156,7 +212,18 @@
 #define UIP_ND6_OPT_HDR_LEN            2
 #define UIP_ND6_OPT_PREFIX_INFO_LEN    32
 #define UIP_ND6_OPT_MTU_LEN            8
+#if CONF_6LOWPAN_ND
+#define UIP_ND6_OPT_ARO_LEN            16
+#define UIP_ND6_OPT_ABRO_LEN           24
+#endif /* CONF_6LOWPAN_ND */
 
+/* 6LoWPAN ND assignement */
+#if CONF_6LOWPAN_ND
+/* ARO value of status field */
+#define UIP_ND6_ARO_STATUS_SUCCESS      0
+#define UIP_ND6_ARO_STATUS_DUPLICATE    1
+#define UIP_ND6_ARO_STATUS_CACHE_FULL   2
+#endif /* CONF_6LOWPAN_ND */
 
 /* Length of TLLAO and SLLAO options, it is L2 dependant */
 #if UIP_CONF_LL_802154
@@ -187,6 +254,14 @@
 #define UIP_ND6_RA_FLAG_AUTONOMOUS      0x40
 /** @} */
 
+/** \name 6LoWPAN Context Option flags masks */
+/** @{ */
+#if CONF_6LOWPAN_ND
+#define UIP_ND6_6CO_FLAG_C        0x10
+#define UIP_ND6_6CO_FLAG_CID      0x0f
+#endif /* CONF_6LOWPAN_ND */
+/** @} */
+
 /**
  * \name ND message structures
  * @{
@@ -195,7 +270,7 @@
 /**
  * \brief A neighbor solicitation constant part
  *
- * Possible option is: SLLAO
+ * Possible option is: SLLAO, ARO
  */
 typedef struct uip_nd6_ns {
   uint32_t reserved;
@@ -205,7 +280,7 @@ typedef struct uip_nd6_ns {
 /**
  * \brief A neighbor advertisement constant part.
  *
- * Possible option is: TLLAO
+ * Possible option is: TLLAO, ARO
  */
 typedef struct uip_nd6_na {
   uint8_t flagsreserved;
@@ -225,7 +300,7 @@ typedef struct uip_nd6_rs {
 /**
  * \brief A router advertisement constant part
  *
- * Possible options are: SLLAO, MTU, Prefix Information
+ * Possible options are: SLLAO, MTU, Prefix Information, 6CO, ABRO
  */
 typedef struct uip_nd6_ra {
   uint8_t cur_ttl;
@@ -245,6 +320,21 @@ typedef struct uip_nd6_redirect {
   uip_ipaddr_t tgtipaddress;
   uip_ipaddr_t destipaddress;
 } uip_nd6_redirect;
+
+#if UIP_CONF_6L_ROUTER
+/**
+ * \brief A Duplicate Address constant part
+ *
+ * Possible option is: /
+ */
+typedef struct uip_nd6_da {
+  uint8_t status;
+  uint8_t reserved;
+  uint16_t lifetime;
+  uip_lladdr_t eui64;
+  uip_ipaddr_t regipaddr;
+} uip_nd6_da;
+#endif /* UIP_CONF_6L_ROUTER */
 /** @} */
 
 /**
@@ -277,6 +367,40 @@ typedef struct uip_nd6_opt_mtu {
   uint16_t reserved;
   uint32_t mtu;
 } uip_nd6_opt_mtu;
+
+#if CONF_6LOWPAN_ND
+/** \brief ND option address registration */
+typedef struct uip_nd6_opt_aro {
+  uint8_t type;
+  uint8_t len;
+  uint8_t status;
+  uint8_t reserved1;
+  uint16_t reserved2;
+  uint16_t lifetime;
+  uip_lladdr_t eui64;
+} uip_nd6_opt_aro;
+
+/** \brief ND option 6LoWPAN context */
+typedef struct uip_nd6_opt_6co {
+  uint8_t type;
+  uint8_t len;
+  uint8_t contlen;
+  uint8_t res_c_cid;
+  uint16_t reserved;
+  uint16_t lifetime;
+  uip_ipaddr_t prefix;
+} uip_nd6_opt_6co;
+
+/** \brief ND option 6LoWPAN authoritative border router  */
+typedef struct uip_nd6_opt_abro {
+  uint8_t type;
+  uint8_t len;
+  uint16_t verlow;
+  uint16_t verhigh;
+  uint16_t lifetime;
+  uip_ipaddr_t address;
+} uip_nd6_opt_abro;
+#endif /* CONF_6LOWPAN_ND */
 
 /** \struct Redirected header option */
 typedef struct uip_nd6_opt_redirected_hdr {
@@ -337,14 +461,48 @@ uip_nd6_ns_input(void);
 void
 uip_nd6_ns_output(uip_ipaddr_t *src, uip_ipaddr_t *dest, uip_ipaddr_t *tgt);
 
+#if CONF_6LOWPAN_ND
+/**
+ * \brief Send a neighbor solicitation, send a Neighbor Advertisement with
+ *        adresse registration option
+ * \param src pointer to the src of the NS if known
+ * \param dest pointer to ip address to send the NS, for unicast send
+ * \param tgt  pointer to ip address to fill the target address field, must
+ * not be NULL
+ * \param lifetime registration time timeout in ARO
+ * \param sendaro flag to activate or not the adresse registation option in NS
+ *
+ * - based on RFC 6775. ARO is defined on 4.1.
+ * - We send unicast NS to check NUD, DAD and reachability
+ */
+void
+uip_nd6_ns_output_aro(uip_ipaddr_t *src, uip_ipaddr_t *dest, uip_ipaddr_t *tgt,
+                      uint16_t lifetime, uint8_t sendaro);
+#endif /* CONF_6LOWPAN_ND */
+
+/**
+ * \brief Send a Neighbor Advertisement
+ *
+ */
+#if UIP_CONF_6L_ROUTER
+void uip_nd6_na_output(uint8_t flags, uint8_t aro_state);
+#else /* UIP_CONF_6L_ROUTER */
+void uip_nd6_na_output(uint8_t flags);
+#endif /* UIP_CONF_6L_ROUTER */
+
 #if UIP_CONF_ROUTER
 #if UIP_ND6_SEND_RA
+
 /**
  * \brief send a Router Advertisement
  *
  * Only for router, for periodic as well as sollicited RA
  */
+#if UIP_CONF_6L_ROUTER
+void uip_nd6_ra_output(uip_ipaddr_t *dest, uip_ds6_border_router_t *locbr);
+#else /* UIP_CONF_6L_ROUTER */
 void uip_nd6_ra_output(uip_ipaddr_t *dest);
+#endif /* UIP_CONF_6L_ROUTER */
 #endif /* UIP_ND6_SEND_RA */
 #endif /*UIP_CONF_ROUTER*/
 
@@ -360,13 +518,39 @@ void uip_nd6_ra_output(uip_ipaddr_t *dest);
  * SHOULD be included otherwise
  */
 void uip_nd6_rs_output(void);
+#if CONF_6LOWPAN_ND
+void uip_nd6_rs_unicast_output(uip_ipaddr_t *ipaddr);
+#endif /* CONF_6LOWPAN_ND */
 
 /**
  * \brief Initialise the uIP ND core
  */
 void uip_nd6_init(void);
-/** @} */
 
+/**
+ *
+ * \brief process a Duplication Address
+ *
+ * \param destipaddr the entity to send the request or the confirmation.
+ *        With DAR it is the Border Router address
+ * \param type of the message DAR of DAM (ICMPv6 value)
+ * \param status state of Duplication Address Detection
+ * \param hostipaddr IPv6 address to register (host IP)
+ * \param eui64 unique identifier by the EUI-64
+ * \param lifetime registration time, determined by the host
+ *
+ * Send DAR or DAM message to solve Duplication Address Detection in
+ * 6LoWPAN-ND
+ */
+#if UIP_CONF_6L_ROUTER
+void uip_nd6_da_output(uip_ipaddr_t *destipaddr, uint8_t type, uint8_t status,
+                       uip_ipaddr_t *hostipaddr, uip_lladdr_t *eui64, uint16_t lifetime);
+#if UIP_CONF_6LR
+void uip_nd6_dar_output(uip_ipaddr_t *destipaddr, uint8_t status,
+                        uip_ipaddr_t *hostipaddr, uip_lladdr_t *eui64, uint16_t lifetime);
+#endif /* UIP_CONF_6LR */
+#endif /* UIP_CONF_6L_ROUTER */
+/** @} */
 
 void
 uip_appserver_addr_get(uip_ipaddr_t *ipaddr);
@@ -473,6 +657,28 @@ uip_appserver_addr_get(uip_ipaddr_t *ipaddr);
  *    +-+-+-+-+-+-+-+-+-+-+-+-
  *
  *
+ * Duplicate Address Messages
+ *
+ *    0                   1                   2                   3
+ *    0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |     Type      |     Code      |          Checksum             |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |    Status     |   Reserved    |    Registration Lifetime      |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |                                                               |
+ *    +                            EUI-64                             +
+ *    |                                                               |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |                                                               |
+ *    +                                                               +
+ *    |                                                               |
+ *    +                     Registered Address                        +
+ *    |                                                               |
+ *    +                                                               +
+ *    |                                                               |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *
  * SLLAO/TLLAO option:
  *    0                   1                   2                   3
  *    0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
@@ -512,6 +718,48 @@ uip_appserver_addr_get(uip_ipaddr_t *ipaddr);
  *    |                              MTU                              |
  *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
  *
+ * ARO option
+ *    0                   1                   2                   3
+ *    0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |     Type      |   Length = 2  |    Status     |    Reserved   |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |            Reserved           |     Registration Lifetime     |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |                                                               |
+ *    +                            EUI-64                             +
+ *    |                                                               |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *
+ * 6LoWPAN Context Option
+ *    0                   1                   2                   3
+ *    0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |     Type      |    Length     |Context Length | Res |C|  CID  |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |            Reserved           |         Valid Lifetime        |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    .                                                               .
+ *    .                         Context Prefix                        .
+ *    .                                                               .
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *
+ * Authoritative Border Router Option
+ *    0                   1                   2                   3
+ *    0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |     Type      |   Length = 3  |         Version Low           |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |         Version High          |        Valide Lifetime        |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ *    |                                                               |
+ *    +                                                               +
+ *    |                                                               |
+ *    +                         6LBR Address                          +
+ *    |                                                               |
+ *    +                                                               +
+ *    |                                                               |
+ *    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
  *
  * Redirected header option
  *
